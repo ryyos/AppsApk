@@ -1,0 +1,61 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Camera",
+    "CamScanner",
+    "CamScanner APK",
+    "CamScanner for Android",
+    "Download CamScanner",
+    "Phone PDF Creator"
+  ],
+  "crawling_time": "2024-01-18 14:30:04",
+  "crawling_time_epoch": 1705563004,
+  "path_data_raw": "string",
+  "path_data_clean": "string",
+  "reviews_name": "CamScanner – Phone PDF Creator APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": "50",
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "\nCamScanner -Phone PDF Creator",
+    "Package": "\ncom.intsig.camscanner",
+    "Version": "\n5.1.0.20171009",
+    "Size": "\n37.90 MB",
+    "Installs": "\n50,000,000+ downloads",
+    "Developed By": "\nINTSIG Information Co.,Ltd"
+  },
+  "detail_reviews": {
+    "username_reviews": "john brittto",
+    "image_reviews": null,
+    "created_time": "2014-07-26 09:40:23",
+    "created_time_epoch": 1406367623,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "awsm………",
+    "reply_content_reviews": [],
+    "date_of_experience": "2014-07-26 09:40:23",
+    "date_of_experience_epoch": 1406367623
+  }
+}

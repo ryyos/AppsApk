@@ -1,0 +1,1 @@
+{'source': 'https://www.appsapk.com/camscanner-phone-pdf-creator/', 'total_data': 50, 'total_data_berhasil_diproses': 1, 'total_data_gagal_diproses': 49, 'PIC': 'Rio Dwi Saputra'}
