@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Gunship Battle Total"
+  ],
+  "crawling_time": "2024-01-18 18:45:49",
+  "crawling_time_epoch": 1705578349,
+  "path_data_raw": "data/data_raw/review_appsapks/gunship_battle_total_warfare_for_android_apk/json/damith.json",
+  "path_data_clean": "data/data_clean/review_appsapks/gunship_battle_total_warfare_for_android_apk/json/damith.json",
+  "reviews_name": "Gunship Battle Total Warfare for Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.joycity.gw",
+    "Version": "3.6.2",
+    "Size": "102M",
+    "Developed_By": "JOYCITY Corp.",
+    "descriptions": "A military masterpiece with over a hundred million downloads globally!\nThe era of high-end war games begins now!\nJoin in on the military action that takes place on land, air, and sea!\n✔ Realistic war experience that happens on land, air, and sea\n✔ Control the battlefield with modern war tactics such as air strikes, tactical bombings, rallying and scouting!\nHigh-quality 3D Combat!\n✔ A game built on historical background for a realistic war experience\n✔ High graphic quality to add realism to the battlefield\nForm alliances with players from around the world and compete against others!\n✔ Fierce real time war between alliances\n✔ Form a frontline with players from around the world and enjoy an endless battle with other players\nFrom production to battle, experience world-wide cutting edge war weapons!\n✔ Units and weapons based on historical background\n✔ Produce your own army, navy, and air force units and use them tactically in battle\n◆ Customer Support: https://joycity.oqupie.com/portals/397\n◆ Facebook Community: https://www.facebook.com/gunshipbattle.en/\n◆ Game Access Authorizations\n[Required Authorizations] Access to photos, media, and files\n– (CAMERA) In order to change the in-game representative image, the game requires this authorization.\n– (For Updates) We need your permission to save the update files onto your device’s SD card.\n– (Storage Access) For saving game settings & caches and reliable 1:1 customer support, we need permission to access photos, media, and files stored within the device.\n◆ How to Disable Access Authorizations\n[Android 6.0 or Above] Device Settings > Applications > Select the App > Permissions [Lower than Android 6.0] Cannot revoke permissions. You must delete the app.\n* The terms used above may vary depending on your device or OS version.\n[Precautions] Revoking required permissions for access authorizations may result in failure to log in to the game. Package\ncom.joycity.gw\nVersion\n3.6.2\nSize\n102M\nDeveloped By\nJOYCITY Corp."
+  },
+  "detail_reviews": {
+    "username_reviews": "damith",
+    "image_reviews": null,
+    "created_time": "2020-09-23 13:24:05",
+    "created_time_epoch": 1600867445,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Patta bn",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-09-23 13:24:05",
+    "date_of_experience_epoch": 1600867445
+  }
+}

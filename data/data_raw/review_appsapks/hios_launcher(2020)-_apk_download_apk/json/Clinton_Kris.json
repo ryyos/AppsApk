@@ -1,0 +1,53 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-18 18:31:32",
+  "crawling_time_epoch": 1705577492,
+  "path_data_raw": "data/data_raw/review_appsapks/hios_launcher(2020)-_apk_download_apk/json/Clinton_Kris.json",
+  "path_data_clean": "data/data_clean/review_appsapks/hios_launcher(2020)-_apk_download_apk/json/Clinton_Kris.json",
+  "reviews_name": "HiOS Launcher(2020)- APK download APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.transsion.hilauncher",
+    "Version": "4.0.032.2",
+    "Size": "17M",
+    "Developed_By": "Shalltry Group",
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "Clinton Kris",
+    "image_reviews": null,
+    "created_time": "2021-09-15 18:24:01",
+    "created_time_epoch": 1631730241,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I need to launch this android",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-09-15 18:24:01",
+    "date_of_experience_epoch": 1631730241
+  }
+}

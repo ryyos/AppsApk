@@ -1,0 +1,57 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "launchers"
+  ],
+  "crawling_time": "2024-01-18 18:36:54",
+  "crawling_time_epoch": 1705577814,
+  "path_data_raw": "data/data_raw/review_appsapks/lawnchair_2__launcher_download_for_android_apk/json/Kabelo.json",
+  "path_data_clean": "data/data_clean/review_appsapks/lawnchair_2__launcher_download_for_android_apk/json/Kabelo.json",
+  "reviews_name": "Lawnchair 2 | Launcher download for Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Lawnchair 2",
+    "Package": "ch.deletescape.lawnchair.plah",
+    "Version": "Varies with device",
+    "Size": "Varies with device",
+    "Installs": "1,000,000+",
+    "Developed_By": "deletescape",
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "Kabelo",
+    "image_reviews": null,
+    "created_time": "2021-07-02 23:00:29",
+    "created_time_epoch": 1625266829,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "So good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-07-02 23:00:29",
+    "date_of_experience_epoch": 1625266829
+  }
+}

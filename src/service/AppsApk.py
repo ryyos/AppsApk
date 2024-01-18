@@ -8,6 +8,7 @@ from icecream import ic
 from pyquery import PyQuery
 from requests import Session, Response
 from fake_useragent import FakeUserAgent
+from concurrent.futures import ThreadPoolExecutor, wait
 
 from src.utils.logs import logger
 from src.utils.corrector import vname
@@ -18,6 +19,7 @@ class AppsApk:
         self.__file = File()
         self.__faker = FakeUserAgent()
         self.__session = Session()
+        self.__executor = ThreadPoolExecutor()
 
         self.MAIN_DOMAIN = 'www.appsapk.com'
         self.MAIN_URL = 'https://www.appsapk.com'
@@ -27,14 +29,25 @@ class AppsApk:
         ...
     
     
-    def __logging(self, path: str, url: str, total: int, failed: int = 0, success: int = 0) -> None:
+    def __logging(self, 
+                  path: str, 
+                  url: str, 
+                  total: int, 
+                  failed: int, 
+                  success: int,
+                  name_error: str,
+                  message: str) -> None:
+        
         content = {
               "source": url,
               "total_data": total,
               "total_data_berhasil_diproses": success,
               "total_data_gagal_diproses": failed,
               "PIC": self.PIC,
+              "name_error": name_error,
+              "message": message
             }
+        
         with open(path, 'a+', encoding= "utf-8") as file:
             file.write(f'{str(content)}\n')
         ...
@@ -66,7 +79,7 @@ class AppsApk:
                 print()
 
                 if response.status_code == 200: return response
-                if response.status_code == 500: return False
+                if response.status_code == 500: return response
 
                 logger.warning(f'request to: {url}')
                 logger.warning(f'reponse: {response.status_code}')
@@ -97,13 +110,25 @@ class AppsApk:
 
         comment_page = 1
         all_review = 0
+        total_review = 0
         while True:
 
-            url_review = f'{url_app}/comment-page-{comment_page}/#comments'
+            url_review = f'{url_app}comment-page-{comment_page}/#comments'
             response = self.__retry(url_review)
+            if response != 200:
+                self.__logging(url=url_app,
+                               name_error="Internal Server Error",
+                               message=response.text,
+                               total=total_review,
+                               path='logs/logs.txt',
+                                success=all_review,
+                               failed=total_review - all_review)
+                
             app = PyQuery(response.text)
 
             comment_page +=1
+        
+            if not app.find('ul[class="comment-list"] > li'): break
 
             total_review = int(app.find('h3[class="comment-title main-box-title"]').text().split(' ')[0])
             logger.info(f'total review: {total_review}')
@@ -167,14 +192,16 @@ class AppsApk:
 
                 logger.info(f'username: {results["detail_reviews"]["username_reviews"]}')
 
-                if review.find('ul[class="children"]'):
-                    for reply in review.find('ul[class="children"]'):
+                ic(bool(PyQuery(review).find('ul[class="children"]')))
+                if PyQuery(review).find('ul[class="children"]'):
+                    child = PyQuery(review).find('ul[class="children"]')
+                    for reply in PyQuery(child).find('li'):
+                        all_review+=1
                         results["detail_reviews"]["total_reply_reviews"] +=1
                         results["detail_reviews"]["reply_content_reviews"].append({
                             "username_reply_reviews": PyQuery(reply).find('div[class="comment-author vcard"] > b').text(),
                             "content_reviews": PyQuery(reply).find('div[class="comment-content"]').text()
                         })
-                        all_review+=1
 
                 path = f'{self.__create_dir(results)}/{vname(results["detail_reviews"]["username_reviews"])}.json'
 
@@ -190,20 +217,20 @@ class AppsApk:
                 self.__file.write_json(path, results)
                 ...
 
-            self.__logging(url=url_app, 
-                           total=int(app.find('h3[class="comment-title main-box-title"]').text().split(' ')[0]),
-                           path='logs/logs.txt',
-                           success=all_review,
-                           failed=int(app.find('h3[class="comment-title main-box-title"]').text().split(' ')[0]) - all_review)
+        self.__logging(url=url_app, 
+                       name_error=None,
+                       message='success',
+                       total=total_review,
+                       path='logs/logs.txt',
+                        success=all_review,
+                       failed=total_review - all_review)
             
-            if not app.find('ul[class="comment-list"] > li'): break
-
-
         ...
 
     def main(self):
 
         page = 1
+        task_executor = []
         while True:
             url = f'{self.MAIN_URL}/page/{page}'
             ic(url)
@@ -212,11 +239,15 @@ class AppsApk:
             html = PyQuery(response.text)
 
             apps = html.find('article.vce-post.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry h2 a')
+            
             for app in apps:
                 ic(PyQuery(app).attr('href'))
+                task_executor.append(self.__executor.submit(self.__extract_app, PyQuery(app).attr('href')))
 
-                self.__extract_app('https://www.appsapk.com/camscanner-phone-pdf-creator/')
-
+                # self.__extract_app(PyQuery(app).attr('href'))
 
             if not apps: break
+
+        wait(task_executor)
+        self.__executor.shutdown(wait=True)
         ...

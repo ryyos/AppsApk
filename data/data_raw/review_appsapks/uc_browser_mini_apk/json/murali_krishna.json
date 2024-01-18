@@ -1,0 +1,61 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "UC Browser Mini",
+    "UC Browser Mini Android",
+    "UC Browser Mini APK",
+    "UC Mini",
+    "Web Browsers"
+  ],
+  "crawling_time": "2024-01-18 18:31:33",
+  "crawling_time_epoch": 1705577493,
+  "path_data_raw": "data/data_raw/review_appsapks/uc_browser_mini_apk/json/murali_krishna.json",
+  "path_data_clean": "data/data_clean/review_appsapks/uc_browser_mini_apk/json/murali_krishna.json",
+  "reviews_name": "UC Browser Mini APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 245,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "UC Browser Mini",
+    "Version": "Latest",
+    "Size": "1.7 MB",
+    "Requirement": "Android 4.0 and up",
+    "Installs": "100,000,000 – 500,000,000 downloads",
+    "Developed_By": "UCWeb Inc.",
+    "descriptions": "UC Browser Mini for Android gives you a great browsing experience in a tiny package. It’s a lightweight browser especially useful to users of Android phones with lower specs and less storage space, but still packed with great features.\nMain Features\n★ Tiny Size\n★ Navigation Cards\n★ Fast Browsing\n★ Smart Downloading\n★ Control Videos with Gestures\n★ Incognito Browsing\n★ Night Mode\n★ More to Discover★ Tiny Size – Despite its small package, get a great browsing experience!\n★ Navigation Cards – Get local content & services (such as videos, cricket, etc) on your navigation.\n★ Fast Browsing – Faster browsing mode for time and data usage saving.\n★ Smart Downloading – Supports multiple, background, and cloud downloading with auto reconnection.\n★ Control Videos with Gestures – Gesture commands added to control video progress and adjust volume.\n★ Incognito Browsing – Incognito browsing protects your privacy.\n★ Night Mode – Switch to night mode to read more comfortably at night.\n★ More to Discover -Cloud Download, QR Code, Free Disk, Save Page, Text-Only, Full Screen, Data Usage, Check Network etc.\nHow to download and install UC Browser Mini on Android –\nGo to play store and search for “UC Browser Mini“ Once the APK is downloaded, click on “Open” option.\nWhen the APK icon appears, click on “Settings” Then turn on the Unknown sources option. After this procedure, go back to the installation.\nClick on the “Install” option, you need to wait until the installation is complete.\nAfter completion, click on “Done.” After clicking on “Done, the APK icon will appear on the home screen of your phone.\nAfter the above process, your browser is ready and you can start using.\nTips and Trick of UC Browser Mini\n1. How You Can Clear All Browsing Data\nTo clear all the browsing data, tap to open the UC browser and select and press the menu option.\nWith the scrolling button, navigate it to the left side and choose the Settings option.\nIn the settings actions, the “Clear Record” option will appear, just click on it.\nAfter clicking, you will see a small pop-up box will on the screen. Just select the things, which you want to delete such as history, cache, forms, and cookies.\n2. Steps To Change Font Size & Enable Force Zoom\nGo to the settings option by clicking the menu list button. Scroll it to the left side.\nAfter scrolling, it, select “Font & Layout”.\nUnder the “Font & Layout” three options will appear “Auto Font Size”, “Enhance Layout” and “Force page to zoom”.\n3. Steps To Use Text Only Format of Web-Page\nFor text-only format, move to the UC browser Settings.\nAfter this, click on the menu list button and start scrolling to the left side.\nYou will find “Text-Only” as the second option. Simply select this and you will get the text-only format.\n4. How To Reduce Images Quality\nOpen the UC browser and go to the settings area.\nOver here, select the “Browsing Settings” option.\nAfter selecting the option, a new window will appear, and then select “Image Quality”.\nYou will see a drop-down menu over there. Select the option as per y our preference and click to save changes.\n5. Steps To Preload Next Page, Reduce Load Time\nGo to the settings of the UC Browser.\nNext, tap the “Preload Page” option.\nAfter clicking the on the option, you will see a drop-down menu list will there. Select the options as per your choice.\n6. Website Preference changing – Modify the Speed Mode\nGo to the UC Browser “Settings”>” select “Browsing Setting”.\nIn the next step, scroll it down and select “Website Preference”.\nA new window will appear. Just select the option and change or manage them as per your choice.\n7.  Select Night Mode in your UC Browser\nClick on the menu button start scrolling to the left side.\nNow select the “Night” option and you are all set.\nTo reverse change the modes just undo all the settings you did.\n8. Steps To Bookmark Your Favorite Web-Pages\nType the name or webs address which you want to bookmark.\nNext step is to click on the menu button.\nA star mark will appear on the left side of bottom line; there you will see an option of start mark, which you need click to bookmark it.\nWHAT’S NEW\n1. Download Management\nInstantly start up UC Browser to download files.\n2. Faster Search\nInstant search on UC Browser when you copy text/url from anywhere on your phone.\n3. Bug Fix\nFixed the problem with unencrypted URL being sent when visiting HTTPS pages."
+  },
+  "detail_reviews": {
+    "username_reviews": "murali krishna",
+    "image_reviews": null,
+    "created_time": "2014-10-12 20:52:52",
+    "created_time_epoch": 1413147172,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Nice App…,\nAnd good.",
+    "reply_content_reviews": [],
+    "date_of_experience": "2014-10-12 20:52:52",
+    "date_of_experience_epoch": 1413147172
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Free Calling",
+    "Free Messaging"
+  ],
+  "crawling_time": "2024-01-18 18:30:25",
+  "crawling_time_epoch": 1705577425,
+  "path_data_raw": "data/data_raw/review_appsapks/tango_apk/json/Abubakar_Idris.json",
+  "path_data_clean": "data/data_clean/review_appsapks/tango_apk/json/Abubakar_Idris.json",
+  "reviews_name": "Tango APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 110,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Tango – Free Video Call & Chat",
+    "Package": "com.sgiggle.production",
+    "Version": "4.0.218191",
+    "Size": "41.70 MB",
+    "Installs": "100,000,000+ downloads",
+    "Developed_By": "Tango",
+    "descriptions": "Stay in touch with the people who matter to you. Tango is the messaging app with the best video calling. All messages and calls are free. Tango works on smartphones and tablets. Join over 350 million people on Tango!· BEST VIDEO CALLING – Tango is the first and the best video calling app. It works on smartphones and tablets, so you can always call the people who matter to you anywhere in the world. Hear their voice and see their face with the best quality all for free.\n· ALL THE FEATURES – Send and receive text, stickers, photos, video, audio and location messages on Tango for free. Make voice calls and video calls anywhere in the world for free. Tango works on both smartphones and tablets.\n· FUN – Don’t just video call, have fun while video calling. Send stickers, add filters, and play games all while in a call. Send stickers, photos and play games with your friends and family in a chat. Everything is free.\n· GROUPS – Family, friends, roommates, co-workers, events. Use Tango to keep in touch with the groups of people that matter to you. Send text, photos, videos, stickers & more to a group. Groups are free on Tango.\n· SOCIAL – Follow and interact with interesting people nearby and around the world. Share photos, videos with your followers and see updates from others. Chat with people 1:1 or join a casual conversation in our public chat rooms.\nIf you have any feedback, questions, concerns or feature requests then please email us at [email protected].\nWhat’s New\nBug fix"
+  },
+  "detail_reviews": {
+    "username_reviews": "Abubakar Idris",
+    "image_reviews": null,
+    "created_time": "2013-12-01 20:44:23",
+    "created_time_epoch": 1385930663,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "pls let m no the crt",
+    "reply_content_reviews": [],
+    "date_of_experience": "2013-12-01 20:44:23",
+    "date_of_experience_epoch": 1385930663
+  }
+}
