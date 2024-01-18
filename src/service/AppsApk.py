@@ -61,17 +61,27 @@ class AppsApk:
             try:
                 response = self.__session.get(url=url, headers={"User-Agent": self.__faker.random})
 
-                ic(response)
+                logger.info(f'request to: {url}')
+                logger.info(f'reponse: {response.status_code}')
+                print()
+
                 if response.status_code == 200: return response
                 if response.status_code == 500: return False
+
+                logger.warning(f'request to: {url}')
+                logger.warning(f'reponse: {response.status_code}')
+                print()
 
                 ic(response.text)
 
                 sleep(retry_interval)
 
-
             except Exception as err:
-                ic(err)
+
+                logger.error(f'request to: {url}')
+                logger.error(f'reponse: {err}')
+                print()
+
                 sleep(retry_interval)
         ...
 
@@ -120,7 +130,7 @@ class AppsApk:
                     ]
                     },
                     "detail_application": {
-                      PyQuery(detail).find('strong').text(): PyQuery(detail).text().replace(PyQuery(detail).find('strong').text(), '')\
+                      vname(PyQuery(detail).find('strong').text()): PyQuery(detail).text().replace(PyQuery(detail).find('strong').text(), '').replace('\n', '')\
                         for detail in app.find('div[class="details"]')
                     },
                     "detail_reviews": {
