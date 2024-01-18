@@ -1,1 +1,5 @@
-{'source': 'https://www.appsapk.com/camscanner-phone-pdf-creator/', 'total_data': 50, 'total_data_berhasil_diproses': 1, 'total_data_gagal_diproses': 49, 'PIC': 'Rio Dwi Saputra'}
+{'source': 'https://www.appsapk.com/camscanner-phone-pdf-creator/', 'total_data': 50, 'total_data_berhasil_diproses': 30, 'total_data_gagal_diproses': 20, 'PIC': 'Rio Dwi Saputra'}
+{'source': 'https://www.appsapk.com/camscanner-phone-pdf-creator/', 'total_data': 50, 'total_data_berhasil_diproses': 60, 'total_data_gagal_diproses': -10, 'PIC': 'Rio Dwi Saputra'}
+{'source': 'https://www.appsapk.com/camscanner-phone-pdf-creator/', 'total_data': 50, 'total_data_berhasil_diproses': 90, 'total_data_gagal_diproses': -40, 'PIC': 'Rio Dwi Saputra'}
+{'source': 'https://www.appsapk.com/camscanner-phone-pdf-creator/', 'total_data': 50, 'total_data_berhasil_diproses': 120, 'total_data_gagal_diproses': -70, 'PIC': 'Rio Dwi Saputra'}
+{'source': 'https://www.appsapk.com/camscanner-phone-pdf-creator/', 'total_data': 50, 'total_data_berhasil_diproses': 150, 'total_data_gagal_diproses': -100, 'PIC': 'Rio Dwi Saputra'}

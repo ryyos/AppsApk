@@ -103,10 +103,14 @@ class AppsApk:
             response = self.__retry(url_review)
             app = PyQuery(response.text)
 
+            comment_page +=1
+
+            total_review = int(app.find('h3[class="comment-title main-box-title"]').text().split(' ')[0])
+            logger.info(f'total review: {total_review}')
+            logger.info(f'url_review: {url_review}')
+
             for review in app.find('ul[class="comment-list"] > li'):
-                ic(len(PyQuery(review).find('div[class="comment-metadata"] time')))
-                ic(PyQuery(review).find('div[class="comment-metadata"] time').text())
-                ic(PyQuery(review).find('div[class="comment-metadata"] time').attr('datetime'))
+
                 results = {
                     "link": self.MAIN_URL,
                     "domain": self.MAIN_DOMAIN,
@@ -119,7 +123,7 @@ class AppsApk:
                     "location_reviews": None,
                     "category_reviews": "application",
                 
-                    "total_reviews": int(app.find('h3[class="comment-title main-box-title"]').text().split(' ')[0]),
+                    "total_reviews": total_review,
                     "reviews_rating": {
                     "total_rating": None,
                     "detail_total_rating": [
@@ -161,6 +165,7 @@ class AppsApk:
 
                 all_review+=1
 
+                logger.info(f'username: {results["detail_reviews"]["username_reviews"]}')
 
                 if review.find('ul[class="children"]'):
                     for reply in review.find('ul[class="children"]'):
@@ -178,6 +183,10 @@ class AppsApk:
                     "path_data_clean": self.__convert_path(path)
                 })
 
+                results["detail_application"].update({
+                    "descriptions": app.find('#description').text()
+                })
+
                 self.__file.write_json(path, results)
                 ...
 
@@ -186,6 +195,8 @@ class AppsApk:
                            path='logs/logs.txt',
                            success=all_review,
                            failed=int(app.find('h3[class="comment-title main-box-title"]').text().split(' ')[0]) - all_review)
+            
+            if not app.find('ul[class="comment-list"] > li'): break
 
 
         ...
