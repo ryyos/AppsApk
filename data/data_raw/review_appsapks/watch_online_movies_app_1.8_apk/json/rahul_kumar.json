@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.watch_online.movies"
+  ],
+  "crawling_time": "2024-01-22 13:14:03",
+  "crawling_time_epoch": 1705904043,
+  "path_data_raw": "data/data_raw/review_appsapks/watch_online_movies_app_1.8_apk/json/rahul_kumar.json",
+  "path_data_clean": "data/data_clean/review_appsapks/watch_online_movies_app_1.8_apk/json/rahul_kumar.json",
+  "reviews_name": "Watch Online Movies App 1.8 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 3,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.watch_online.movies",
+    "Version": "1.8",
+    "Size": "10.88 MB",
+    "Developed_By": "Online Movies HUB",
+    "descriptions": "Watch number of blockbuster movies and TV series online for free. Watch Online Movies is fully legal unlimited streaming, without credit cards and no subscription required. Choose what you want to watch, when you want to watch it, with fewer ads than regular TV. Watch Online Movies app is the largest free streaming service featuring award-winning movies and TV series. There is something for everybody; from comedy to drama, kids to classics, and niche favorites such as Korean dramas, anime, and British series. Download now and start streaming entertainment for free, today!\nWatch Online Movies app adds free HD shows and movies every week, so you’ll never run out of entertainment to stream on the go (and at home!). Our goal is to free as many categories of TV shows and movies as we can so you don't have to pay for online entertainment (like you do for other streaming services). Not only are our movies and online TV shows always free and available anywhere but they’re also highly rated on IMDb. All of our categories are free to choose from, including New Releases, and Anime TV series that you can't find on other popular subscription video apps. Our Anime collection has Naruto, Yu-gi-oh, Cowboy Bebop, and much more. Why torrent content when you could stream your favorite movies and TV shows with us?\nMore Categories we have :\nAction movie, Adventure movie, Animation movie, Biography movie, Comedy movie, HD Movies online, Crime movie, Documentary Movie, Drama movie, Wacth Movie Online, Family movie, HD Movies Free, Fantasy movie, History movie, Horror movie, Hot movies Online, Musical movie, Mystery movie, Free movies online, Romance movie, Sci-Fi m\nWatch Online Movies app Features Include:\nWatch HD Movies & TV Shows with the Biggest Hollywood Stars\nWatch online entertainment from your favorite Hollywood studios\nGet a taste of Hollywood in its prime and watch your favorite actors and actresses in our movies and TV Shows.\nFree video streaming for every movie and TV show – Never pay a subscription!\nDiscover hidden gems and new favorites in all of our categories\nCreate a personal queue to bookmark which videos you want to watch\nNew HD Movies & TV Shows Added Each Friday\nGet a daily does of celeb and legal drama with daily episodes of Paternity Court and Wendy Williams\nNew movies and series added weekly – Browse our featured section to see what’s new this week!\nPopular selection of HD TV shows (feel free to binge all you want)\nChromecast Support & Multi-Device Syncing\nWatch on the big screen with Chromecast or Airplay\nView on your Android device as well as your connected TV (Chromecast, Apple TV, Roku devices, Playstation, Xbox, Amazon Fire TV, Samsung TV, etc.) and online at Watch Online Movies app\nContinue watching videos exactly where you left off on any device.\nWatch entertainment in your favorite categories and genres like:\nDrama Genre\nComedy Genre\nAction Genre\nHorror Genre\nAnime (New Anime, and Next Day!)\nSpanish Language (Telenovela)\nKorean Movies\n…And much, much more from Hollywood, Japan, and Korea!\nDisclaimer:\nwe are not uploading movies in this app. this app is a tool to browse and view videos in the public domain.\nwe only provide a way to stream and all content is the copyright of their respective owners, contact us at [email protected] if you find violate copyright and we will be removed as soon as possible."
+  },
+  "detail_reviews": {
+    "username_reviews": "rahul kumar",
+    "image_reviews": null,
+    "created_time": "2020-12-10 21:31:34",
+    "created_time_epoch": 1607635894,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Ayay",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-10 21:31:34",
+    "date_of_experience_epoch": 1607635894
+  }
+}

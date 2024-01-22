@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Flipkart Online Shopping App"
+  ],
+  "crawling_time": "2024-01-22 13:11:50",
+  "crawling_time_epoch": 1705903910,
+  "path_data_raw": "data/data_raw/review_appsapks/flipkart_online_shopping_app_apk/json/detail/Flipkart_Online_Shopping_App_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/flipkart_online_shopping_app_apk/json/detail/Flipkart_Online_Shopping_App_APK.json",
+  "reviews_name": "Flipkart Online Shopping App APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.flipkart.android",
+    "Version": "7.10",
+    "Size": "31M",
+    "Developed_By": "FlipkartFor more shopping apps click here!",
+    "descriptions": ""
+  }
+}

@@ -10,7 +10,8 @@ from requests import Session, Response
 from fake_useragent import FakeUserAgent
 from concurrent.futures import ThreadPoolExecutor, wait
 
-from src.utils.logs import logger
+from src.utils.logger import logger
+from src.utils.Logs import Logs
 from src.utils.corrector import vname
 from src.utils.fileIO import File
 class AppsApk:
@@ -27,34 +28,10 @@ class AppsApk:
         self.PIC = 'Rio Dwi Saputra'
         
         ...
-    
-    
-    def __logging(self, 
-                  path: str, 
-                  url: str, 
-                  total: int, 
-                  failed: int, 
-                  success: int,
-                  name_error: str,
-                  message: str) -> None:
-        
-        content = {
-              "source": url,
-              "total_data": total,
-              "total_data_berhasil_diproses": success,
-              "total_data_gagal_diproses": failed,
-              "PIC": self.PIC,
-              "name_error": name_error,
-              "message": message
-            }
-        
-        with open(path, 'a+', encoding= "utf-8") as file:
-            file.write(f'{str(content)}\n')
-        ...
 
 
     def __create_dir(self, raw_data: dict) -> str:
-        try: os.makedirs(f'{self.MAIN_PATH}/data_raw/review_appsapks/{vname(raw_data["reviews_name"].lower())}/json')
+        try: os.makedirs(f'{self.MAIN_PATH}/data_raw/review_appsapks/{vname(raw_data["reviews_name"].lower())}/json/detail')
         except Exception: ...
         finally: return f'{self.MAIN_PATH}/data_raw/review_appsapks/{vname(raw_data["reviews_name"].lower())}/json'
         ...
@@ -109,59 +86,89 @@ class AppsApk:
     def __extract_app(self, url_app: str) -> None:
 
         comment_page = 1
-        all_review = 0
+        all_reviews = 0
         total_review = 0
         while True:
 
             url_review = f'{url_app}comment-page-{comment_page}/#comments'
             response = self.__retry(url_review)
-            if response != 200:
-                self.__logging(url=url_app,
-                               name_error="Internal Server Error",
-                               message=response.text,
-                               total=total_review,
-                               path='logs/logs.txt',
-                                success=all_review,
-                               failed=total_review - all_review)
+
+            if response.status_code != 200:
+                ... # Jika gagal request di review pertama
+                Logs.error(status=response,
+                            message=response.text,
+                            total=total_review,
+                            success=all_reviews,
+                            failed=total_review - all_reviews,
+                            source=self.MAIN_DOMAIN)
+
+                break
                 
             app = PyQuery(response.text)
 
-            comment_page +=1
-        
-            if not app.find('ul[class="comment-list"] > li'): break
+
+            ic(not app.find('ul[class="comment-list"] > li'))
+            ic(len(app.find('ul[class="comment-list"] > li')))
+
+            if not app.find('ul[class="comment-list"] > li'): 
+                Logs.succes(status="done",
+                            total=total_review,
+                            source=self.MAIN_DOMAIN,
+                            success=total_review,
+                            failed=0)
+                break
 
             total_review = int(app.find('h3[class="comment-title main-box-title"]').text().split(' ')[0])
             logger.info(f'total review: {total_review}')
             logger.info(f'url_review: {url_review}')
 
+            results = {
+                "link": self.MAIN_URL,
+                "domain": self.MAIN_DOMAIN,
+                "tag": [PyQuery(tag).text() for tag in app.find('a[rel="tag"]')],
+                "crawling_time": strftime('%Y-%m-%d %H:%M:%S'),
+                "crawling_time_epoch": int(time()),
+                "path_data_raw": "string",
+                "path_data_clean": "string",
+                "reviews_name": app.find('h1[class="entry-title"]').text(),
+                "location_reviews": None,
+                "category_reviews": "application",
+            
+                "total_reviews": total_review,
+                "reviews_rating": {
+                "total_rating": None,
+                "detail_total_rating": [
+                    {
+                    "score_rating": None,
+                    "category_rating": None
+                    }
+                ]
+                },
+                "detail_application": {
+                    vname(PyQuery(detail).find('strong').text()): PyQuery(detail).text().replace(PyQuery(detail).find('strong').text(), '').replace('\n', '')\
+                    for detail in app.find('div[class="details"]')
+                }
+            }
+
+            if comment_page == 1:
+                path_detail = f'{self.__create_dir(results)}/detail/{vname(results["reviews_name"])}.json'
+
+                results.update({
+                    "path_data_raw": path_detail,
+                    "path_data_clean": self.__convert_path(path_detail)
+                })
+
+                results["detail_application"].update({
+                    "descriptions": app.find('#description').text()
+                })
+
+                self.__file.write_json(path_detail, results)
+
+            comment_page +=1
+
             for review in app.find('ul[class="comment-list"] > li'):
 
-                results = {
-                    "link": self.MAIN_URL,
-                    "domain": self.MAIN_DOMAIN,
-                    "tag": [PyQuery(tag).text() for tag in app.find('a[rel="tag"]')],
-                    "crawling_time": strftime('%Y-%m-%d %H:%M:%S'),
-                    "crawling_time_epoch": int(time()),
-                    "path_data_raw": "string",
-                    "path_data_clean": "string",
-                    "reviews_name": app.find('h1[class="entry-title"]').text(),
-                    "location_reviews": None,
-                    "category_reviews": "application",
-                
-                    "total_reviews": total_review,
-                    "reviews_rating": {
-                    "total_rating": None,
-                    "detail_total_rating": [
-                        {
-                        "score_rating": None,
-                        "category_rating": None
-                        }
-                    ]
-                    },
-                    "detail_application": {
-                      vname(PyQuery(detail).find('strong').text()): PyQuery(detail).text().replace(PyQuery(detail).find('strong').text(), '').replace('\n', '')\
-                        for detail in app.find('div[class="details"]')
-                    },
+                results.update({
                     "detail_reviews": {
                     "username_reviews": PyQuery(list(PyQuery(review).find('div[class="comment-author vcard"] > b'))[0]).text(),
                     "image_reviews": PyQuery(review).find('div[class="app-icon"]').attr('src'),
@@ -186,9 +193,9 @@ class AppsApk:
                     "date_of_experience": PyQuery(list(PyQuery(review).find('div[class="comment-metadata"] time'))[0]).attr('datetime').split('+')[0].replace('T', ' '),
                     "date_of_experience_epoch": self.__convert_time(PyQuery(list(PyQuery(review).find('div[class="comment-metadata"] time'))[0]).attr('datetime'))
                     }
-                }
+                })
 
-                all_review+=1
+                all_reviews +=1
 
                 logger.info(f'username: {results["detail_reviews"]["username_reviews"]}')
 
@@ -196,7 +203,7 @@ class AppsApk:
                 if PyQuery(review).find('ul[class="children"]'):
                     child = PyQuery(review).find('ul[class="children"]')
                     for reply in PyQuery(child).find('li'):
-                        all_review+=1
+                        all_reviews +=1
                         results["detail_reviews"]["total_reply_reviews"] +=1
                         results["detail_reviews"]["reply_content_reviews"].append({
                             "username_reply_reviews": PyQuery(reply).find('div[class="comment-author vcard"] > b').text(),
@@ -214,16 +221,9 @@ class AppsApk:
                     "descriptions": app.find('#description').text()
                 })
 
+                ic('menulis')
                 self.__file.write_json(path, results)
                 ...
-
-        self.__logging(url=url_app, 
-                       name_error=None,
-                       message='success',
-                       total=total_review,
-                       path='logs/logs.txt',
-                        success=all_review,
-                       failed=total_review - all_review)
             
         ...
 
@@ -233,6 +233,7 @@ class AppsApk:
         task_executor = []
         while True:
             url = f'{self.MAIN_URL}/page/{page}'
+            page +=1
             ic(url)
 
             response = self.__retry(url)

@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.xapk.pro.installer"
+  ],
+  "crawling_time": "2024-01-22 13:13:09",
+  "crawling_time_epoch": 1705903989,
+  "path_data_raw": "data/data_raw/review_appsapks/xapk_installer_pro_2.2.3_apk/json/detail/XAPK_Installer_Pro_2.2.3_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/xapk_installer_pro_2.2.3_apk/json/detail/XAPK_Installer_Pro_2.2.3_APK.json",
+  "reviews_name": "XAPK Installer Pro 2.2.3 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.xapk.pro.installer",
+    "Version": "2.2.3",
+    "Size": "4.02 MB",
+    "Developed_By": "Andrjusha Chebotarjov",
+    "descriptions": "Say goodbye to Android APK OBB Installing error problem, XAPK Installer Pro makes that easier and faster than ever.\n• Scan and preview all .apk file on your phone and SD Card\n• Delete or install APK, XAPK ( APK with cache data or obb file) automatically"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "org.videolan.vlc"
+  ],
+  "crawling_time": "2024-01-22 13:16:39",
+  "crawling_time_epoch": 1705904199,
+  "path_data_raw": "data/data_raw/review_appsapks/vlc_for_android_3.2.12_apk/json/Kartheek.json",
+  "path_data_clean": "data/data_clean/review_appsapks/vlc_for_android_3.2.12_apk/json/Kartheek.json",
+  "reviews_name": "VLC for Android 3.2.12 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "org.videolan.vlc",
+    "Version": "3.2.12",
+    "Size": "26.68 MB",
+    "Developed_By": "Videolabs",
+    "descriptions": "VLC media player is a free and open source cross-platform multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols.\nThis is the port of VLC media player to the Android™ platform. VLC for Android can play any video and audio files, as well as network streams, network shares and drives, and DVD ISOs, like the desktop version of VLC.\nVLC for Android is a full audio player, with a complete database, an equalizer and filters, playing all weird audio formats.\nVLC is intended for everyone, is totally free, has no ads, no in-app-purchases, no spying and is developed by passionate volunteers. All the source code is available for free.\nFeatures\n––––––––\nVLC for Android™ plays most local video and audio files, as well as network streams (including adaptive streaming), DVD ISOs, like the desktop version of VLC. It also support disk shares.\nAll formats are supported, including MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv and AAC. All codecs are included with no separate downloads. It supports subtitles, Teletext and Closed Captions.\nVLC for Android has a media library for audio and video files, and allows to browse folders directly.\nVLC has support for multi-track audio and subtitles. It supports auto-rotation, aspect-ratio adjustments and gestures to control volume, brightness and seeking.\nIt also includes a widget for audio control, supports audio headsets control, cover art and a complete audio media library.\nPermissions\n––––––––––––\nVLC for Android needs access to those categories:\n• \"Photos/Media/Files\" to read your all media files 🙂\n• \"Storage\" to read your all media files on SD cards 🙂\n• \"Other\" to check network connections, change the volume, set the ringtone, run on Android TV and display the popup view, see below for details.\nPermission Details :\n• It needs \"read the contents of your USB storage\", in to order to read your media files on it.\n• It needs \"modify or delete the contents of your USB storage\", in order to allow deletion of files and store subtitles.\n• It needs \"full network access\", to open network and internet streams.\n• It needs \"prevent phone from sleeping\" in order to prevent… your phone from sleeping when watching a video.\n• It needs \"change your audio settings\", in order to change audio volume.\n• It needs \"modify system settings\", in order to allow you to change your audio ringtone.\n• It needs \"view network connections\" in order to monitor whether device is connected or not.\n• It needs \"draw over other apps\" to start the custom picture-in-picture widget.\n• It needs \"control vibration\" to give feedback on the controls.\n• It needs \"run at startup\" to set recommendations on Android TV launcher screen, only used on Android TV devices.\n• It needs \"microphone\" to provide voice search on Android TV devices, only asked on Android TV devices."
+  },
+  "detail_reviews": {
+    "username_reviews": "Kartheek",
+    "image_reviews": null,
+    "created_time": "2020-09-24 12:12:58",
+    "created_time_epoch": 1600949578,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I want vlc player app this app very use full .",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-09-24 12:12:58",
+    "date_of_experience_epoch": 1600949578
+  }
+}

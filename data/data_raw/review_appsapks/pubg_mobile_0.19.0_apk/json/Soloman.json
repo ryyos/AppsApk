@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.pubg.krmobile"
+  ],
+  "crawling_time": "2024-01-22 13:16:44",
+  "crawling_time_epoch": 1705904204,
+  "path_data_raw": "data/data_raw/review_appsapks/pubg_mobile_0.19.0_apk/json/Soloman.json",
+  "path_data_clean": "data/data_clean/review_appsapks/pubg_mobile_0.19.0_apk/json/Soloman.json",
+  "reviews_name": "PUBG MOBILE 0.19.0 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.pubg.krmobile",
+    "Version": "0.19.0",
+    "Size": "53.28 MB",
+    "Developed_By": "PUBG CORPORATION",
+    "descriptions": "▶New classic map LIVIK◀\n2km x 2km map with up to 52 players, allowing for quick gameplay\nCreated based on actual territories in Northern Europe\nVarious territories such as a rain forest, desert, waterfall and snowfield\n▶New Weapons and Vehicle Available on LIVIK◀\nNew SMG: P90\nNew DMR: MK12\nNew Vehicle: Monster Truck\n▶Royale Pass Season 14◀\nNew Royale Pass Season 14\nNew Season starts on July 14!\n▶️Subscription Feature◀️\n1. Subscription plan and period\nClick the subscription icon in the lobby to subscribe to the Prime plan or the Prime Plus plan. The Prime plan costs ₩3,300per month while the Prime Plus plan costs ₩9,000 per month.\n* Your first subscription to one of the plans by November 8, 2020 will give you a discount to the first month of subscription. Each plan will cost ₩3,000 and ₩4,500, respectively.\n2. Details about subscription\nSubscriptions are available in “Prime” and \"Prime Plus.”\n1) Once players subscribe to Prime, upgrading to Prime Plus is not an option but you can subscribe to both at the same time and enjoy the benefits of both.\n2) Subscriptions are renewed automatically every month. If players cancel their subscriptions, they cannot enjoy the benefits after the next billing date..\n3) A Prime subscription awards 150UC right away to the players who purchased the plan and gives one Scrap Package daily (players can get one Premium Crate Scrap or Special Crate Coupon Scrap or Survivor Crate Coupon Scrap) and Special Crate Voucher (30 UC) and Premium Crate Voucher (30 UC) weekly.\n4) A Prime Plus subscription awards 300UC, one Classic Crate Coupon, Premium Crate Coupon and Supply Crate Coupon right away. Players can also get 10UC, one Chicken Medal and 10RP daily and can additionally receive one Special Crate Voucher (60UC), Premium Crate Voucher (60UC), Special Crate Voucher (100UC) and Premium Crate Voucher (100UC).\n5) Players cannot receive daily and weekly rewards if they do not access the game. The number of rewards players can claim is deducted regardless whether players actually redeem the rewards. (In the case of UC rewards, players can receive the uncollected UC for up to five days. UC rewards expire if players fail to collect them before the subscription ends.)\n3. Automatic subscription renewal\n• Your subscription on Android devices is automatically renewed and the subscription fee is also automatically paid through your Google Play Store account. You can cancel your subscription on Account Settings page of Google Play Store on your Android devices.\n• The same payment method you used to buy the subscription will be charged when your subscription renews.\n• Within 24 hours prior to the end of the current period, please check your subscription renewal and subscription fees.\n4. How to cancel subscription\nTo cancel your subscription, open Google Play Store on your Android phone or tablet—>Check if you’re signed in to the correct Google Account—>Tap “Menu” and tap “Subscriptions”—>Select the subscription you want to cancel and tap “Cancel subscription.”\n▶️Official support URL◀️\nhttps://pubgmobile.helpshift.com\n▶️Privacy policy◀️\nhttps://cafe.naver.com/battlegroundsmobile/1038652\n▶️Terms of service◀️\nhttps://cafe.naver.com/battlegroundsmobile/625633\nIn this app, players can only use content provided in Korea."
+  },
+  "detail_reviews": {
+    "username_reviews": "Soloman",
+    "image_reviews": null,
+    "created_time": "2021-06-17 03:57:41",
+    "created_time_epoch": 1623902261,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Pupg",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-17 03:57:41",
+    "date_of_experience_epoch": 1623902261
+  }
+}

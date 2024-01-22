@@ -5,8 +5,8 @@
     "Food delivery",
     "Swiggy"
   ],
-  "crawling_time": "2024-01-18 18:34:13",
-  "crawling_time_epoch": 1705577653,
+  "crawling_time": "2024-01-22 13:11:45",
+  "crawling_time_epoch": 1705903905,
   "path_data_raw": "data/data_raw/review_appsapks/swiggy_food_order__online_grocery__delivery_apk/json/Shahab_Khan.json",
   "path_data_clean": "data/data_clean/review_appsapks/swiggy_food_order__online_grocery__delivery_apk/json/Shahab_Khan.json",
   "reviews_name": "Swiggy Food Order | Online Grocery | Delivery APK",

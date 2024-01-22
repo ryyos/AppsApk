@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "lkstudio.uchannel2"
+  ],
+  "crawling_time": "2024-01-22 13:16:10",
+  "crawling_time_epoch": 1705904170,
+  "path_data_raw": "data/data_raw/review_appsapks/uchannel_5.4_apk/json/detail/UChannel_5.4_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/uchannel_5.4_apk/json/detail/UChannel_5.4_APK.json",
+  "reviews_name": "UChannel 5.4 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "lkstudio.uchannel2",
+    "Version": "5.4",
+    "Size": "4.69 MB",
+    "Developed_By": "LKStudio",
+    "descriptions": "Uchannel app creates a community for people to introduce their own channels and videos to everyone all over the world.\nYou can share your channel and video very quickly by follow steps:\n– Install Uchannel app and login with your account.\n– Select your video which you want to promote\n– Create a campaign for your video.\nWe will promote immediately your channel and video to the people around the world and help your channel and video reach out to many people.\nPlease Notes:\nUchannel is a 3rd party app.\nUchannel do NOT offer the ability to buy subscriber, view and like as it is against the policy. We only a platform to help your video and channel reach out to people, and they can view any channels or videos which they feel interested in.\nIf you have any problems please fell free to contact us by email: [email protected]\n@copyright by LKStudio."
+  }
+}

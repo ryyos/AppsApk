@@ -1,0 +1,32 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Food delivery",
+    "Swiggy"
+  ],
+  "crawling_time": "2024-01-22 13:11:45",
+  "crawling_time_epoch": 1705903905,
+  "path_data_raw": "data/data_raw/review_appsapks/swiggy_food_order__online_grocery__delivery_apk/json/detail/Swiggy_Food_Order__Online_Grocery__Delivery_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/swiggy_food_order__online_grocery__delivery_apk/json/detail/Swiggy_Food_Order__Online_Grocery__Delivery_APK.json",
+  "reviews_name": "Swiggy Food Order | Online Grocery | Delivery APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "in.swiggy.android",
+    "Version": "Varies with device",
+    "Size": "Varies with device",
+    "Developed_By": "Swiggy",
+    "descriptions": ""
+  }
+}

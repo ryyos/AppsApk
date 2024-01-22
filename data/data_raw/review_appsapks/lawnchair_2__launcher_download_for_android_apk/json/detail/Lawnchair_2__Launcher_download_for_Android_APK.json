@@ -1,0 +1,33 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "launchers"
+  ],
+  "crawling_time": "2024-01-22 13:11:54",
+  "crawling_time_epoch": 1705903914,
+  "path_data_raw": "data/data_raw/review_appsapks/lawnchair_2__launcher_download_for_android_apk/json/detail/Lawnchair_2__Launcher_download_for_Android_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/lawnchair_2__launcher_download_for_android_apk/json/detail/Lawnchair_2__Launcher_download_for_Android_APK.json",
+  "reviews_name": "Lawnchair 2 | Launcher download for Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Lawnchair 2",
+    "Package": "ch.deletescape.lawnchair.plah",
+    "Version": "Varies with device",
+    "Size": "Varies with device",
+    "Installs": "1,000,000+",
+    "Developed_By": "deletescape",
+    "descriptions": ""
+  }
+}

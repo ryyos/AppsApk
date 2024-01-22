@@ -1,0 +1,33 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Wifi"
+  ],
+  "crawling_time": "2024-01-22 13:11:36",
+  "crawling_time_epoch": 1705903896,
+  "path_data_raw": "data/data_raw/review_appsapks/wifi_router_settings_apk/json/detail/WiFi_Router_Settings_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/wifi_router_settings_apk/json/detail/WiFi_Router_Settings_APK.json",
+  "reviews_name": "WiFi Router Settings APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "WiFi Router Settings",
+    "Package": "net.cm3d.wifiroutersettings",
+    "Version": "1.3",
+    "Size": "2.59 MB",
+    "Installs": "500,000+ downloads",
+    "Developed_By": "Leon Zhang",
+    "descriptions": "This useful app allows you to browse and change your Home Wiifi Router Settings and gain information about your network.It will try to find the IP of your router and connect to it automatically.\nYou can also choose to connect manually by inputting the IP on your own.\nView information about your network and connect with ease to your WiFi Router with a good user experience.\nYou can also find default passwords of a lot of routers in the application.\nWhat’s New\nNew feature “Set up Wi-Fi hotspot”, Broadcast GPGS/3G/4G network on mobile."
+  }
+}

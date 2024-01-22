@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.tester.wpswpatester"
+  ],
+  "crawling_time": "2024-01-22 13:17:20",
+  "crawling_time_epoch": 1705904240,
+  "path_data_raw": "data/data_raw/review_appsapks/wifi_wps_wpa_tester_4.0.1_apk/json/detail/WIFI_WPS_WPA_TESTER_4.0.1_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/wifi_wps_wpa_tester_4.0.1_apk/json/detail/WIFI_WPS_WPA_TESTER_4.0.1_APK.json",
+  "reviews_name": "WIFI WPS WPA TESTER 4.0.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.tester.wpswpatester",
+    "Version": "4.0.1",
+    "Size": "12.34 MB",
+    "Developed_By": "Sangiorgi Srl",
+    "descriptions": "Do you want to know if your Wireless Access Point is vulnerable to the WPS protocol?\nWps Wpa Tester is the app that you need!\nWith this app, you can try the connection to an Wi-Fi Access Point via WPS PIN.\nPINs are calculated with several algorithms throught MAC Address and there are others PINs included in a local database for many Access Point.\nLuckily just a small part of Wireless Access Point are vulnerable to WPS protocol.\nIf you will find out that your Access Point has WPS protocol enabled, we suggest to disable it.\nThe purpose of the app is educational to let the customers know about vulnerability of their own Access Point.\nThere are many connection mode with this app and you can try the bruteforce mode either.\nApp also discovers if an Access Point with WPS enabled is invulnerable (WPS LOCKED).\nApp allows users with root permissions to see Wi-Fi passwords saved.\nSome important Notes:\nNOTE: you can test the PINs with this app and you can connect, but you cannot see the password without root permissions.\nUse this app only with your own AP not to go against the law."
+  }
+}

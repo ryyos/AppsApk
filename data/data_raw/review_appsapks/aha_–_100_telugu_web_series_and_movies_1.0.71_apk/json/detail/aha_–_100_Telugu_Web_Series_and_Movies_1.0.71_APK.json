@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "ahaflix.tv"
+  ],
+  "crawling_time": "2024-01-22 13:17:13",
+  "crawling_time_epoch": 1705904233,
+  "path_data_raw": "data/data_raw/review_appsapks/aha_–_100_telugu_web_series_and_movies_1.0.71_apk/json/detail/aha_–_100_Telugu_Web_Series_and_Movies_1.0.71_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/aha_–_100_telugu_web_series_and_movies_1.0.71_apk/json/detail/aha_–_100_Telugu_Web_Series_and_Movies_1.0.71_APK.json",
+  "reviews_name": "aha – 100% Telugu Web Series and Movies 1.0.71 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "ahaflix.tv",
+    "Version": "1.0.71",
+    "Size": "37.21 MB",
+    "Developed_By": "Arha Media & Broadcasting Private Limited",
+    "descriptions": "About this app\naha is an exclusive Telugu content platform with an extensive range of movies and original web series just a click away.\nWith content curated specially for viewers with varied preferences and choices, aha brings you one step closer to full-fledged entertainment with its broad library of movies ranging from old blockbusters to originals.\n– Selection of genres\n– Intuitive Video Player to stream videos\n– Sign up option to watch paid content\n– Multiple payment options\n– Download option\n– Account Settings available\nInstall the app and get going with your favourite content, with free selected content available and premium paid subscription.\nSubscribe Now! Stream your favourite Telugu movies and originals now.\nWrite to us at [email protected] for any feedback and queries."
+  }
+}

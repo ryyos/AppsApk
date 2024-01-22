@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.chaozhuo.gameassistant"
+  ],
+  "crawling_time": "2024-01-22 13:13:36",
+  "crawling_time_epoch": 1705904016,
+  "path_data_raw": "data/data_raw/review_appsapks/octopus_–_gamepad,_mouse,_keyboard_keymapper_5.4.4_apk/json/My_name_in_game_is_Soaning.json",
+  "path_data_clean": "data/data_clean/review_appsapks/octopus_–_gamepad,_mouse,_keyboard_keymapper_5.4.4_apk/json/My_name_in_game_is_Soaning.json",
+  "reviews_name": "Octopus – Gamepad, Mouse, Keyboard Keymapper 5.4.4 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.chaozhuo.gameassistant",
+    "Version": "5.4.4",
+    "Size": "14.32 MB",
+    "Developed_By": "Octopus Gaming Studio",
+    "descriptions": "Play Android games with Gamepad/Controller🎮, Mouse🖱 & Keyboard⌨!\nMap peripherals to touchscreen.\nNo root or activator required!\n※ Octopus is the most professional and easy-use keymapper. ※\n🐙 Support almost all apps\nOctopus Gaming Engine supports most apps and games, you can add whatever you want to play.\n🐙 Peripherals Compatibility\nOctopus supports gamepads, keyboards & mouses.\nXbox, PS, IPEGA, Gamesir, Razer, Logitech…\n🐙 Preset Key Mapping\nPreset key configuration for 30+ featured games. No time wasting on setup.\n🐙Different modes for various Games\n2 basic modes: Gamepad and Keyboard and many special modes for specific games like Advanced Shooting mode for FPS games, Smart Casting mode for MOBA games.\n🐙 Highly customizable\nBesides preset keymap, you can define your own keymap. Octopus provides 20+ various control component to power up your gaming experience.\n🐙 Gaming Recorder\nOctopus integrated with Screen Recorder, letting you record each of your combat.\n🐙 Gamepad Calibration\nFor some unstandard gamepad or controller, Octopus provides the Gamepad Calibration feature allowing you to calibrate your device.\n🐙 Google Play login (Needed download octopus plugin)\nSuppore Play store account login.Synchronize games data.Needed download octopus plugin.\n🐙 Fake Location function\nSupport Fake Location function.\n🐙 Clean up RAM function\nSupport Clean up RAM function.make the game runs more smoothly.\n🐙 About Permissions\nDue to the working mechanism of Octopus, it requires the same permissions with games you play. In order to cover all games, Octopus needs many permissions to work properly. We guarantee Octopus won't abuse these permissions!\nOctopus Pro\nSupport more functions. e.g.\n🐙 Swipe\nDraw any path and run it! For games require swipe gestures or pattern drawing. Duration is customizable.\n🐙Multiply\nHit a position multiple times. Times and duration is customizable.\n🐙Order Key\nSet multiple keys with hit sequence. For example, you have 3 order keys with key value A. When you press A first time, No.1 A will act. Second time for No.2 A and third time for No.3 A, then loops. It's pretty useful for some scenes like open/close bag button on different positions.\n🐙Analog Deadzone\nDeadzone is the area where your analog movement is ignored. For example, set deadzone to 0 to 20 and 70 to 100, that means all displacement less than 20% or greater thant 70% will be invalid, thus when you push your analog to 20% position it will act as 0% and 70% as 100%. Left and right analog can set different deadzone respectively.\n🐙Profile\nOne game with multiple different keymaps for various situation? Profile is what you needed. Under keyboard or gamepad mode, profiles can be created respectively.\n🐙Customizable Virtual Mouse Shortcut\nWhile play with gamepad, press LS+RS to invoke the virtual mouse and move it with L/R analog and perform click with LT or A. This is quite practical for TV or some situation you don't want to touch your screen. Now, in Pro version, the shortcut for invoking is customizable.\nPick your gears and start a brand new mobile gaming experience!\nHave fun!"
+  },
+  "detail_reviews": {
+    "username_reviews": "My name in game is Soaning",
+    "image_reviews": null,
+    "created_time": "2021-06-25 14:21:16",
+    "created_time_epoch": 1624630876,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Sir I want to connect mouse and keyboard for android for blockman go game",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-25 14:21:16",
+    "date_of_experience_epoch": 1624630876
+  }
+}

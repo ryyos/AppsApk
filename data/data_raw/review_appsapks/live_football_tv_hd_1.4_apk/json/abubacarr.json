@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "live.footballtv.hd.livefootball.tv"
+  ],
+  "crawling_time": "2024-01-22 13:13:05",
+  "crawling_time_epoch": 1705903985,
+  "path_data_raw": "data/data_raw/review_appsapks/live_football_tv_hd_1.4_apk/json/abubacarr.json",
+  "path_data_clean": "data/data_clean/review_appsapks/live_football_tv_hd_1.4_apk/json/abubacarr.json",
+  "reviews_name": "Live Football TV HD 1.4 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 4,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "live.footballtv.hd.livefootball.tv",
+    "Version": "1.4",
+    "Size": "9.15 MB",
+    "Developed_By": "Safe Media",
+    "descriptions": "Watch Live Streaming of All Football Matches and Events in HD Without Any Interruption and Buffering. Just Download this App and Enjoy the High Quality Live Streaming of All Football Matches. This App is very Simple and Easy to Use. Just Download this App and Enjoy the High Definition Live Streaming of All Football Matches With Simple Interface APP. This App Provides You Live Streaming of All Football Matches."
+  },
+  "detail_reviews": {
+    "username_reviews": "abubacarr",
+    "image_reviews": null,
+    "created_time": "2021-07-10 22:43:06",
+    "created_time_epoch": 1625956986,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "wow nice",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-07-10 22:43:06",
+    "date_of_experience_epoch": 1625956986
+  }
+}

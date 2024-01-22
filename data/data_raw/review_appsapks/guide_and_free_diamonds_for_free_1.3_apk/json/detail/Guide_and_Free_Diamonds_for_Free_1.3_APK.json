@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "appnextstudio.guideforfreediamond.freediamond"
+  ],
+  "crawling_time": "2024-01-22 13:15:06",
+  "crawling_time_epoch": 1705904106,
+  "path_data_raw": "data/data_raw/review_appsapks/guide_and_free_diamonds_for_free_1.3_apk/json/detail/Guide_and_Free_Diamonds_for_Free_1.3_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/guide_and_free_diamonds_for_free_1.3_apk/json/detail/Guide_and_Free_Diamonds_for_Free_1.3_APK.json",
+  "reviews_name": "Guide and Free Diamonds for Free 1.3 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "appnextstudio.guideforfreediamond.freediamond",
+    "Version": "1.3",
+    "Size": "5.04 MB",
+    "Developed_By": "App Next Zone",
+    "descriptions": "Guide and Free Diamonds for Free\nDo you want free diamonds for FF?, best hints, tricks, maps, skins, elite pass and other things, for free.\nYou will learn how to gain coins without investing money in game, you will learn this for free."
+  }
+}

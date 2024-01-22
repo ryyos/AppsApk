@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.raidapps.ptvsportslive.liveptvsportshd"
+  ],
+  "crawling_time": "2024-01-22 13:17:06",
+  "crawling_time_epoch": 1705904226,
+  "path_data_raw": "data/data_raw/review_appsapks/ptv_sports_live_–_watch_ptv_sports_live_streaming_1.46_apk/json/Vikas_kumar.json",
+  "path_data_clean": "data/data_clean/review_appsapks/ptv_sports_live_–_watch_ptv_sports_live_streaming_1.46_apk/json/Vikas_kumar.json",
+  "reviews_name": "PTV Sports Live – Watch PTV Sports Live Streaming 1.46 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.raidapps.ptvsportslive.liveptvsportshd",
+    "Version": "1.46",
+    "Size": "5.42 MB",
+    "Developed_By": "Stream Inn",
+    "descriptions": "PTV Sports is a global Pakistani basic cable and satellite sports television channel by Pakistan Television Corporation that is famous for live broadcasting PSL (Cricket Matches) and Pakistan Super League 2019. PTV Sports is a state-owned channel. PTV Sports has telecast many sports events like Portugal Primeira Liga,Champions League,Hockey,European League,International Friendly Football Matches,World Cup Qualifiers since it is launched. It retains exclusive broadcasting rights for many sporting events including cricket, tennis, hockey and football.\nThis app has been made for sports lovers and viewers of PTV sports to keep them updated all time.This app provides you live streaming of International T20 Cricket,International Football,Badminton,Nation League and FA Cup all time where ever you are so that you can't miss your favorite match hit.\nFeatured App Categories\nThe worth knowing features of this app are:\n– HD live streaming\n– Single Click Access\n– Very comfortable and easy to use\n– Amazing eye-catching layout\n– Easy and fastest download\n– Easy to share with friends\n– Squash\n– Cricket World Cup 2019\nPlease download our app and share it with friends and family so that all can enjoy International Cricket on the go .Also don't forget to rate it.\nDISCLAIMER:\nWe don't own any content that we are using in our app. All rights are reserved by their respective owners. We are only providing facility to sports lovers and we don't have any other mean with this app.In case of any problem please contact us directly and we will cooperate with you fully."
+  },
+  "detail_reviews": {
+    "username_reviews": "Vikas kumar",
+    "image_reviews": null,
+    "created_time": "2020-11-05 07:36:35",
+    "created_time_epoch": 1604561795,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Dghd do hgu",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-11-05 07:36:35",
+    "date_of_experience_epoch": 1604561795
+  }
+}

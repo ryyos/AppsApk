@@ -1,0 +1,57 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Multimedia",
+    "VidMate"
+  ],
+  "crawling_time": "2024-01-22 13:11:38",
+  "crawling_time_epoch": 1705903898,
+  "path_data_raw": "data/data_raw/review_appsapks/download_vidmate_apk/json/Krishnendu_kali.json",
+  "path_data_clean": "data/data_clean/review_appsapks/download_vidmate_apk/json/Krishnendu_kali.json",
+  "reviews_name": "Download VidMate APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 6,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "VidMate",
+    "Package": "com.nemo.vidmate",
+    "Version": "Latest",
+    "Size": "13.44 MB",
+    "Developed_By": "Vidmate Studio",
+    "descriptions": "Vidmate is one of the best known applications currently available for downloading videos from online services. With this highly recommended app, you’ll get to download from practically any video site.On most video websites this app lets you choose the quality you want to view and download videos in, including HD formatting and other lower quality settings options that take up much less space on your memory. That way, all the videos you download will perfectly fit onto your virtual library, organized by download date. In case you want to download audio, all you’ll need to do is search for any available video among over twenty different platforms that are set by default, and the app will automatically save audio and video tracks.\nAmong the options for Vidmate, you’ll also get to add secondary video portals that don’t appear on its main interface. There are over twenty different options available that you won’t need to use any other search engine to find, and you’ll get to store any clip you want.\nWant to Download VidMate for iPhone ?"
+  },
+  "detail_reviews": {
+    "username_reviews": "Krishnendu kali",
+    "image_reviews": null,
+    "created_time": "2019-05-10 05:49:35",
+    "created_time_epoch": 1557467375,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Cool",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-05-10 05:49:35",
+    "date_of_experience_epoch": 1557467375
+  }
+}

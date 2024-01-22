@@ -1,0 +1,27 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "VPN Proxy Master"
+  ],
+  "crawling_time": "2024-01-22 13:12:17",
+  "crawling_time_epoch": 1705903937,
+  "path_data_raw": "data/data_raw/review_appsapks/vpn_proxy_master_pricing,_ranking,_analysis_and_opinions_apk/json/detail/VPN_Proxy_Master_Pricing,_Ranking,_Analysis_And_Opinions_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/vpn_proxy_master_pricing,_ranking,_analysis_and_opinions_apk/json/detail/VPN_Proxy_Master_Pricing,_Ranking,_Analysis_And_Opinions_APK.json",
+  "reviews_name": "VPN Proxy Master: Pricing, Ranking, Analysis And Opinions APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

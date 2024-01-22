@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.simplemobiletools.dialer"
+  ],
+  "crawling_time": "2024-01-22 13:12:26",
+  "crawling_time_epoch": 1705903946,
+  "path_data_raw": "data/data_raw/review_appsapks/simple_dialer_–_manage_your_phone_calls_easily_5.4.1_apk/json/Alan_Becker.json",
+  "path_data_clean": "data/data_clean/review_appsapks/simple_dialer_–_manage_your_phone_calls_easily_5.4.1_apk/json/Alan_Becker.json",
+  "reviews_name": "Simple Dialer – Manage your phone calls easily 5.4.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.simplemobiletools.dialer",
+    "Version": "5.4.1",
+    "Size": "2.54 MB",
+    "Developed_By": "Simple Mobile Tools",
+    "descriptions": "A lightweight app for handling your calls, no matter where are you. Comes with a handy call log for easy call initiation.\nThere is a quick dialpad at your service too, with smart contact suggestions. It supports letters too.\nYou can easily block phone numbers to avoid unwanted incoming calls.\nSupported Speed dialing makes calling your favorite contacts with this true phone a breeze.\nTo help you manage your calls quickly the Phone app also supports favorite contacts and creating shortcuts of any contact on the home screen.\nIt comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.\nContains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.\nCheck out the full suite of Simple Tools here:\nhttps://www.simplemobiletools.com\nFacebook:\nhttps://www.facebook.com/simplemobiletools\nReddit:\nhttps://www.reddit.com/r/SimpleMobileTools"
+  },
+  "detail_reviews": {
+    "username_reviews": "Alan Becker",
+    "image_reviews": null,
+    "created_time": "2021-06-06 18:13:08",
+    "created_time_epoch": 1623003188,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "What’s on a comment",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-06 18:13:08",
+    "date_of_experience_epoch": 1623003188
+  }
+}

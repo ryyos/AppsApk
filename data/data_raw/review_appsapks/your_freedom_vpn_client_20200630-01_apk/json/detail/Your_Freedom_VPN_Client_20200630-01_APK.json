@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "de.resolution.yf_android"
+  ],
+  "crawling_time": "2024-01-22 13:17:18",
+  "crawling_time_epoch": 1705904238,
+  "path_data_raw": "data/data_raw/review_appsapks/your_freedom_vpn_client_20200630-01_apk/json/detail/Your_Freedom_VPN_Client_20200630-01_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/your_freedom_vpn_client_20200630-01_apk/json/detail/Your_Freedom_VPN_Client_20200630-01_APK.json",
+  "reviews_name": "Your Freedom VPN Client 20200630-01 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "de.resolution.yf_android",
+    "Version": "20200630-01",
+    "Size": "5.54 MB",
+    "Developed_By": "Applied Wizardry GmbH",
+    "descriptions": "The all-in-one VPN tunneling, firewall & proxy bypassing, anonymization and anti-censorship solution that lets you set up a working and unrestricted Internet connection when someone doesn't want you to have one. It protects your privacy when using unencrypted public hotspots and lets you choose the country you appear to be by choosing one of our many VPN gateway servers all around the world.\nOur service does all this for you, and more. It defeats censorship, it encrypts all your traffic, it hides your origin and identity, and it just makes things work that don't work without it. All you need is this app. There is a free service (called \"FreeFreedom\") available permanently to everyone who only needs occasional access and low bandwidth. If you need more, you can always upgrade later – once you know that it solves your problem and you need more than FreeFreedom provides.\nVisit our webpage https://www.your-freedom.net/ for in-depth information about our service. We appreciate if you send us crash reports when asked by your phone.\nIf you would like to always receive the latest beta version instead of the production version and have all the latest features and bugs, please opt in at https://play.google.com/apps/testing/de.resolution.yf_android"
+  }
+}

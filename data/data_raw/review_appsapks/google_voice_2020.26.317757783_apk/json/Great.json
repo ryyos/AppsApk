@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.google.android.apps.googlevoice"
+  ],
+  "crawling_time": "2024-01-22 13:14:32",
+  "crawling_time_epoch": 1705904072,
+  "path_data_raw": "data/data_raw/review_appsapks/google_voice_2020.26.317757783_apk/json/Great.json",
+  "path_data_clean": "data/data_clean/review_appsapks/google_voice_2020.26.317757783_apk/json/Great.json",
+  "reviews_name": "Google Voice 2020.26.317757783 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.google.android.apps.googlevoice",
+    "Version": "2020.26.317757783",
+    "Size": "25.72 MB",
+    "Developed_By": "Google LLC",
+    "descriptions": "Google Voice gives you a phone number for calling, text messaging, and voicemail. It works on smartphones and computers, and syncs across your devices so you can use the app in the office, at home, or on the go.\nNOTE: Google Voice only works for personal Google Accounts in the US and G Suite accounts in select markets. Text messaging is not supported in all markets.\nYou're in control\nGet spam filtered automatically and block numbers you don’t want to hear from. Manage your time with personalized settings for forwarding calls, text messages, and voicemail.\nBacked up and searchable\nCalls, text messages, and voicemails are stored and backed up to make it easy for you to search your history.\nManage messages across devices\nSend and receive individual and group SMS messages from all your devices.\nYour voicemail, transcribed\nGoogle Voice provides advanced voicemail transcriptions that you can read in the app and/or have sent to your email.\nSave on international calling\nMake international calls at competitive rates without paying extra for international minutes with your mobile carrier.\nKeep in mind:\n• Google Voice is currently only available in the US. Google Voice for G Suite users is available in select countries. Check with your administrator for access.\n• Calls made using Google Voice for Android can be placed through a Google Voice access number. All access number based calls use the standard minutes from your cell phone plan and may incur costs (e.g. when traveling internationally)."
+  },
+  "detail_reviews": {
+    "username_reviews": "Great",
+    "image_reviews": null,
+    "created_time": "2020-09-13 09:49:42",
+    "created_time_epoch": 1599990582,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Can you use the number to verify WhatsApp",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-09-13 09:49:42",
+    "date_of_experience_epoch": 1599990582
+  }
+}

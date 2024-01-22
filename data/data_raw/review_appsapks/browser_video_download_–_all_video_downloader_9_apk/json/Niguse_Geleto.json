@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.videoder.snaptube"
+  ],
+  "crawling_time": "2024-01-22 13:15:43",
+  "crawling_time_epoch": 1705904143,
+  "path_data_raw": "data/data_raw/review_appsapks/browser_video_download_–_all_video_downloader_9_apk/json/Niguse_Geleto.json",
+  "path_data_clean": "data/data_clean/review_appsapks/browser_video_download_–_all_video_downloader_9_apk/json/Niguse_Geleto.json",
+  "reviews_name": "Browser Video Download – All Video Downloader 9 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.videoder.snaptube",
+    "Version": "9",
+    "Size": "10.53 MB",
+    "Developed_By": "Andro.Dev",
+    "descriptions": "Video downloader auto detects videos, you can download them with just one click. The powerful download manager allows you to pause and resume downloads, download in the background and download several files at the same time. Preview the video first, fast download and play it offline.\nFeatures\n* Browse videos with the built-in browser\n* Play videos offline\n* All download formats supported, mp3, m4a, mp4, m4v, flv, ts, mov, avi, wmv, doc, xls, pdf, txt, etc.\n* Auto detect videos and easily download\n* Full-featured internet download manager. pause, resume, remove,boost downloads\n* Download several files at the same time\n* Download videos in the background\n* SD card supported\n* Resume failed downloads\n* Fast download speed\n* Check the progress in the download bar\n* HD, 4k and all resolutions video download supported\n* Large file download supported\n* Download video, music and pictures\n* Add bookmarks for your favorite websites\nHow to Use This Video Downloader\n* Browse website with the built-in browser\n* Auto detect videos, and tap the download button\n* Choose which video you want to download\n* Done!\nBrowser Video Download auto detects videos on social media and other video websites and makes all videos downloadable. You can choose different video resolutions, size and formats for download. The great download manager allows you to manage your downloads, download in the background with fast speed and download several files at the same time. The build-in file manager saves the downloaded videos and you can watch them offline anytime and anywhere.\nSuper video downloader with video detect\nWith the help of automatic video detect, Nova Video Downloader makes all online videos downloadable. It is a great download app, download tool and movie downloader.\nPlenty of video websites and social media supported\nVideos and media clip can be detected and downloaded from popular social media and video sites. It is the best free video download app to correctly sniff videos from different websites.\nOne-click download & easy to use\nDownload your favorite videos from any website with one tap. A powerful video downloader helping you download any media contents for free from social media websites.\nUp to 3X download speed boosting\nAccelerate downloads speed about 300% with super download mode. It can greatly save your time and enjoy the videos fast than others. It is a super video downloader.\nDownload different video resolution\nYou can choose different video resolution and size to download. You can choose HD videos for better experience or choose low resolution videos to save data.\nFree video download app\nVideo Downloader Pro (also known as Nova Video download) is a free video download app. If you are looking for a video download app to download videos, media clips, social clips or vimeo videos. you really need to try this free video download app. You can save videos and enjoy them offline or share to other media app.\nNotes:\n– Use Video Downloader Pro (also known as Nova Video Downloader) indicates you agree that you will not use it for copyright infringement or forgery\n– This app is NOT a YouTube Downloader. You cannot download YouTube videos because of YouTube policies"
+  },
+  "detail_reviews": {
+    "username_reviews": "Niguse Geleto",
+    "image_reviews": null,
+    "created_time": "2021-10-07 13:51:57",
+    "created_time_epoch": 1633614717,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "After download i help me this app",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-10-07 13:51:57",
+    "date_of_experience_epoch": 1633614717
+  }
+}

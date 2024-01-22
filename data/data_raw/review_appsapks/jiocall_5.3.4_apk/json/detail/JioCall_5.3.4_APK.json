@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.jio.join"
+  ],
+  "crawling_time": "2024-01-22 13:15:07",
+  "crawling_time_epoch": 1705904107,
+  "path_data_raw": "data/data_raw/review_appsapks/jiocall_5.3.4_apk/json/detail/JioCall_5.3.4_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/jiocall_5.3.4_apk/json/detail/JioCall_5.3.4_APK.json",
+  "reviews_name": "JioCall 5.3.4 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.jio.join",
+    "Version": "5.3.4",
+    "Size": "40.34 MB",
+    "Developed_By": "Jio Platforms Limited",
+    "descriptions": "*** Exclusively for Jio SIM and Jio Network users ***\nJioCall (earlier Jio4Gvoice) from Reliance Jio Infocomm Ltd now comes in a brand new avatar.\nDid you know that you can make video calls from your Fixed Line number? JioCall can make your FixedLine connection smart by using your smartphone to make video and audio calls. For this, You have to configure your 10 digit Jio Fixed Line number on the JioCall app. By choosing the Fixed Profile on your JioCall app, you are ready to make or receive calls from your Fixed Line number conveniently on your smartphone This service does not need a Jio SIM.\nJioCall will continue to offer all the features that were available earlier. It brings VoLTE high-definition voice and video calling on your existing 2G, 3G, 4G smartphone. You can use JioCall with a JioSIM either in the phone or in a JioFi connected to your phone. You can now use your non-VoLTE 4G smart phone to make HD voice and video calls to any landline or mobile number anywhere in the world. You can also use these VoLTE features on your existing 2G/3G smartphones via JioFi.\nNot just that, JioCall also marks the entry of Rich Communication Services (RCS) in India. RCS has exciting features such as Rich Call, Chat, Group Chat, file share, location share, doodles, stickers and many more are available.\nFeatures:\nHD Voice & Video Calling\nStay connected with friends, family and work across the globe. With both the FixedLine and Mobile profiles on JioCall, you can make and receive calls from any other mobile/landline number. You can also enjoy group conversations with multiple participants. Enjoy HD voice and video calling with other Jio SIM or FixedLine users.\nUnified Messaging for SMS & Chat\nWith JioCall you can send and receive text messages from your Jio SIM number to any mobile number. RCS allows you to do group chats & share images, videos, location and all types of files like .zip, .pdf to other RCS contacts. Set JioCall as your default messaging app to manage all your SMS and chat threads in one Inbox.\nRCS also brings to you Enhanced Calling Features:\nRich Call\nGive your calls more life with customized messaging, images & location on the receiver’s screen. Intimate the urgency of your call on the receiver’s screen by using the ‘Urgent Call’ feature. It is hard to ignore a call that says it all!\nIn Call Share\nCalling made more fun! Express your thoughts with a quick doodle, share location of the party or sketch the direction to a meeting point in real time, all this while you are on a call. Share images & chat messages instantly without disconnecting your call!\nNote: RCS features will be available only if you have a Jio SIM and the Mobile profile has been configured.\nThis service is provided by Reliance Jio Infocomm Ltd."
+  }
+}

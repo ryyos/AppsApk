@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "primehut.app"
+  ],
+  "crawling_time": "2024-01-22 13:13:51",
+  "crawling_time_epoch": 1705904031,
+  "path_data_raw": "data/data_raw/review_appsapks/primehut_7.7_apk/json/sandeep_kumar_sharma.json",
+  "path_data_clean": "data/data_clean/review_appsapks/primehut_7.7_apk/json/sandeep_kumar_sharma.json",
+  "reviews_name": "Primehut 7.7 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "primehut.app",
+    "Version": "7.7",
+    "Size": "11.06 MB",
+    "Developed_By": "Primehut",
+    "descriptions": "Primehut is a video status app in which you can see awesome funny status videos and download also."
+  },
+  "detail_reviews": {
+    "username_reviews": "sandeep kumar sharma",
+    "image_reviews": null,
+    "created_time": "2021-10-08 22:15:08",
+    "created_time_epoch": 1633731308,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I am a subscriber , I paid 478 rs for this app, I have two devices , but a biggest fault of this app it’s working only on that device which sim have you subscribed , if you wanted to play another device you can not, it means you pay again then continue to watch.\nI said this it’s a worst app, you can demand more money if you can permit atleast 2 or 3 devices . People can accept this I know .",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-10-08 22:15:08",
+    "date_of_experience_epoch": 1633731308
+  }
+}

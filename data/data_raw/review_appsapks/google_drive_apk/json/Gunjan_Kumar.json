@@ -1,0 +1,57 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Google"
+  ],
+  "crawling_time": "2024-01-22 13:11:38",
+  "crawling_time_epoch": 1705903898,
+  "path_data_raw": "data/data_raw/review_appsapks/google_drive_apk/json/Gunjan_Kumar.json",
+  "path_data_clean": "data/data_clean/review_appsapks/google_drive_apk/json/Gunjan_Kumar.json",
+  "reviews_name": "Google Drive APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 12,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Google Drive",
+    "Package": "com.google.android.apps.docs",
+    "Version": "2.18.112.02.30",
+    "Size": "26.47 MB",
+    "Installs": "1,000,000,000+ downloads",
+    "Developed_By": "Google LLC",
+    "descriptions": "Google Drive is a safe place for all your files and puts them within reach from any smartphone, tablet, or computer. Files in Drive – like your videos, photos, and documents – are backed up safely so you can’t lose them. Once there, you can easily invite others to view, edit, or leave comments on any of your files or folders.With Drive, you can:\n– Safely store your files and access them from anywhere.\n– Search for files by name and content.\n– Easily share files and folders with others.\n– Quickly view your content.\n– Set access levels for who can view, comment, or edit.\n– Quickly access recent files.\n– See file details and activity.\n– Enable viewing of files offline.\n– Use your device camera to scan in paper documents.\n– Access pictures and videos from Google Photos.\nWhat’s New"
+  },
+  "detail_reviews": {
+    "username_reviews": "Gunjan Kumar",
+    "image_reviews": null,
+    "created_time": "2017-08-18 11:44:36",
+    "created_time_epoch": 1503056676,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Very nice",
+    "reply_content_reviews": [],
+    "date_of_experience": "2017-08-18 11:44:36",
+    "date_of_experience_epoch": 1503056676
+  }
+}

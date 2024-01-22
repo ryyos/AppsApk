@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.mp3player.newplayer"
+  ],
+  "crawling_time": "2024-01-22 13:12:36",
+  "crawling_time_epoch": 1705903956,
+  "path_data_raw": "data/data_raw/review_appsapks/music_player_1.2_apk/json/Aman_Khan.json",
+  "path_data_clean": "data/data_clean/review_appsapks/music_player_1.2_apk/json/Aman_Khan.json",
+  "reviews_name": "Music Player 1.2 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.mp3player.newplayer",
+    "Version": "1.2",
+    "Size": "15.01 MB",
+    "Developed_By": "Axis More Apps",
+    "descriptions": "Music Player is one of the best audio player/mp3 player for Android, you can easily play/listen your favorite music on your device.Enjoy your music with stylish and simple user interface.\nNote: This is a music player, not a music downloader or an online music streaming app .\nKey features\n– Elegant and beautiful User interface.\n– Browse and play music by songs,album,artist,playlist\n– Sort your song by different categories\n– Sleeptimer\n– Play music & control music on lock screen\n– Create your own playlists\n– Play any artist, album, or playlist on shuffle mode\n– Easily search songs by keywords.\n– This music Player supports mp3 and many other such audio formats.\nThank you for trying this music player.\nThis MP3 Player is still under development so If you find a bug or\nIf you have a feature to request ,please submit a request at [email protected]\nAll images are used from www.unsplash.com which is a royalty free collection of stock images.\nalbum and microphone icons made by Freepik from www.flaticon.com\"\nplaylist icon made by Those Icons from www.flaticon.com\"\nmusic icon made by Pixel perfect from www.flaticon.com\""
+  },
+  "detail_reviews": {
+    "username_reviews": "Aman Khan",
+    "image_reviews": null,
+    "created_time": "2021-04-10 19:43:11",
+    "created_time_epoch": 1618083791,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Aman Khan",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-04-10 19:43:11",
+    "date_of_experience_epoch": 1618083791
+  }
+}

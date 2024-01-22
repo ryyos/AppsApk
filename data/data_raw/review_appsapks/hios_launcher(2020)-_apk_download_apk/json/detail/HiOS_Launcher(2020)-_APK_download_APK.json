@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:11:48",
+  "crawling_time_epoch": 1705903908,
+  "path_data_raw": "data/data_raw/review_appsapks/hios_launcher(2020)-_apk_download_apk/json/detail/HiOS_Launcher(2020)-_APK_download_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/hios_launcher(2020)-_apk_download_apk/json/detail/HiOS_Launcher(2020)-_APK_download_APK.json",
+  "reviews_name": "HiOS Launcher(2020)- APK download APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.transsion.hilauncher",
+    "Version": "4.0.032.2",
+    "Size": "17M",
+    "Developed_By": "Shalltry Group",
+    "descriptions": ""
+  }
+}

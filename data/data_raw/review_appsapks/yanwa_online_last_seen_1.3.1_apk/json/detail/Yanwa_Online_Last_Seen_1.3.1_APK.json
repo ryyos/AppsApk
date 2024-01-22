@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.yanwa.tracker"
+  ],
+  "crawling_time": "2024-01-22 13:15:29",
+  "crawling_time_epoch": 1705904129,
+  "path_data_raw": "data/data_raw/review_appsapks/yanwa_online_last_seen_1.3.1_apk/json/detail/Yanwa_Online_Last_Seen_1.3.1_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/yanwa_online_last_seen_1.3.1_apk/json/detail/Yanwa_Online_Last_Seen_1.3.1_APK.json",
+  "reviews_name": "Yanwa: Online Last Seen 1.3.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.yanwa.tracker",
+    "Version": "1.3.1",
+    "Size": "13.94 MB",
+    "Developed_By": "Yanwa",
+    "descriptions": "Our whatsapp tracker is the best tool for tracking last seen.\nGet push notifications of every online and offline in the network.\nAnalyze whatsapp online statistics in the form of a beautiful clock face.\nDo you think your child is sleeping? Are you sure?\nIs he or she online? The best app usage whatsapp online tracker helps you."
+  }
+}

@@ -1,2 +1,2 @@
 from .service.AppsApk import AppsApk
-from .utils.logs import logger
+from .utils.logger import logger

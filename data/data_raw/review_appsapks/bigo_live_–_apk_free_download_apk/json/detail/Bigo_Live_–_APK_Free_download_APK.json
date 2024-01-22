@@ -1,0 +1,33 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "GO LIVE",
+    "Live Stream"
+  ],
+  "crawling_time": "2024-01-22 13:12:04",
+  "crawling_time_epoch": 1705903924,
+  "path_data_raw": "data/data_raw/review_appsapks/bigo_live_–_apk_free_download_apk/json/detail/Bigo_Live_–_APK_Free_download_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/bigo_live_–_apk_free_download_apk/json/detail/Bigo_Live_–_APK_Free_download_APK.json",
+  "reviews_name": "Bigo Live – APK Free download APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 3,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package_Version_Size_Developed_By": "Packagesg.bigo.liveVersion4.40.3Size54MDeveloped ByBIGO TECHNOLOGY PTE. LTD.",
+    "Package": "sg.bigo.live",
+    "Version": "4.40.3",
+    "Size": "54M",
+    "Developed_By": "BIGO TECHNOLOGY PTE. LTD.",
+    "descriptions": "Bigo Live – Live Stream, Live Video & Live Chat\nBigo Live allows you to live-stream your favorite moments, and make friends from all around the world. We enable people to showcase their talent, discover, and stay connected in a positive, healthy, and creative way.\nWe have over 300 million users around the world. Say no to FOMO, share your life, gain fans, receive gifts, make money and live in the moment. Bigo Live is a new way to experience life.\nWhy Bigo Live?\nGO LIVE\nSing? Dance? Have any hidden talents?- Show off your talents.\nGet followers, gain fans, receive gifts, make money and become an idol to many.\nBigo Live – WATCH LIVE-STREAMS\nWe have an active community, and millions of talented broadcasters, dancers, singers, foodies, comedians, and more. Your favorite moment is here.\nLIVE VIDEO CHAT & VIDEO CALL\n– Invite a friend to start a 1:1 video chat.\n– Create a group video chat or video call with up to 9 people in our Multi-guest Room.\n– We bring the fun. Check out our video filters and our unique stickers! We have tons of cool filters to choose from. Level it up!\nVOICE CHAT ROOM\n– Talk in real time with people nearby or from all over the world\n– Make use of our live voice chat with interactive voice emojis to have fun.\n– Talk about life, sing along, or simply chat in different languages with people from all around the globe.\nLIVE PK (LOL)\nRemember PK? Same. It’s time to dare your friends on BIGO LIVE! – Broadcasters with the most points will win, and losers will be punished. Dare or not? 😉\nVLOG (Video Blog)\nShare your life, show off your talents, and become a popular vlog star in BIGO LIVE.\nBigo Live  – GAMING? YES, WE DO.\nConnect, stream or watch other’s live-streaming popular games, such as PUBG, World of Warcraft, Minecraft, GTA, Fortnite, Dota 2, Hearthstone, Rules of Survival and more."
+  }
+}

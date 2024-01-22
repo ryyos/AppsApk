@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "net.voicemod.android.clips"
+  ],
+  "crawling_time": "2024-01-22 13:14:46",
+  "crawling_time_epoch": 1705904086,
+  "path_data_raw": "data/data_raw/review_appsapks/voicemod_clips_free_voice_changer__video_maker_1.0.0.2_apk/json/Bilal.json",
+  "path_data_clean": "data/data_clean/review_appsapks/voicemod_clips_free_voice_changer__video_maker_1.0.0.2_apk/json/Bilal.json",
+  "reviews_name": "Voicemod Clips: Free Voice Changer & Video Maker 1.0.0.2 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "net.voicemod.android.clips",
+    "Version": "1.0.0.2",
+    "Size": "62.49 MB",
+    "Developed_By": "Voicemod",
+    "descriptions": "Looking for a tool to create funny content with your mobile? Want to change the voice in your social network videos? Want to surprise your followers in TikTok, SnapChat and Instagram? Voicemod Clips is the perfect free app for content creators.\nVoicemod Clips is a Content Maker that includes dozens of original voices and filters that will allow you to change your voice and apply fun filters to your smartphone's camera. The best voice changer and video editor for TikTok, Instagram or Snapchat.\n**How does Voicemod Clips work?** 🎬\nSelect the type of content you want to create: Audio or Video Clip.\nClick the record button and generate a clip.\nChoose the camera filter, the type of voice changer and the duration of the clip.\nName your work and share it through messaging apps like WhatsApp or Snapchat, as well as Instagram Stories and TikTok Clips.\nVoicemod Clips: The Power of Voice Changer\n📣\nThis free app features the most powerful voice changer ever designed for mobile content creators. Choose from 11 different voices every day that will allow you to generate terrifying or funny audios and videos.\nThe Voicemod voice collection includes presets of robot, male to female, scary voices, autotune voices, even some inspired by popular characters or celebrities. You choose how you want to modulate or transform your voice into your clips!\nTake control of your Voice!\nVideo Filters Collection: the visual tool for the Mobile Clip Maker\n🎥\nBesides the voice changer, Voicemod Clips includes a collection of video filters that will give you the possibilities of the best mobile editor. Deform, squeeze, stretch in a funny way any video to leave everyone speechless.Use also original 3D masks to become different characters. Let your imagination run wild!\nThe tool for Content Creators created to succeed in Social Networks.\n📱\nVoicemod Clips is a perfect app for those content creators focused on social networks. Voicemod Clips content can be shared on Twitter, Facebook, Snapchat, Instagram and TikTok publications. Decide on which network you want to publish the most popular content and surprise your followers!\nCreate versions of your favorite songs using a voice changer for your videos in Tiktok\nSurprise your Instagram Stories fans with fun video masks\nSend audio messages with auto-tune, robot, or scary effects to your friends and family using WhatsApp\nYou can also send the audios or videos with filters and voice changer to your family and friends through WhatsApp, Messenger or any other messaging application.\nVoicemod Clips is the perfect app to generate fun content using voice changer and video filters and then share it in TikTok, Snapchat, Instagram Stories or WhatsApp.\nGenerate original clips in seconds with the best free tool for mobile Content Creators. Voicemod Clips: the voice changer and video maker for TikTok, Snapchat and Instagram Stories."
+  },
+  "detail_reviews": {
+    "username_reviews": "Bilal",
+    "image_reviews": null,
+    "created_time": "2021-07-09 08:46:27",
+    "created_time_epoch": 1625820387,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Hiiii",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-07-09 08:46:27",
+    "date_of_experience_epoch": 1625820387
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Multimedia"
+  ],
+  "crawling_time": "2024-01-22 13:11:26",
+  "crawling_time_epoch": 1705903886,
+  "path_data_raw": "data/data_raw/review_appsapks/vlc_for_android_apk/json/Balram_Singh.json",
+  "path_data_clean": "data/data_clean/review_appsapks/vlc_for_android_apk/json/Balram_Singh.json",
+  "reviews_name": "VLC for Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 25,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "VLC for Android",
+    "Package": "org.videolan.vlc",
+    "Version": "2.0.6",
+    "Size": "16.09 MB",
+    "Requirement": "Android 4.0 and up",
+    "Updated": "Aug 12, 2016",
+    "Installs": "50,000,000+ downloads",
+    "Developed_By": "Videolabs",
+    "descriptions": "VLC media player is a free and open source cross-platform multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols.This is the port of VLC media player to the Android™ platform. VLC for Android can play any video and audio files, as well as network streams, network shares and drives, and DVD ISOs, like the desktop version of VLC.\nVLC for Android is a full audio player, with a complete database, an equalizer and filters, playing all weird audio formats.\nVLC is intended for everyone, is totally free, has no ads, no in-app-purchases, no spying and is developed by passionate volunteers. All the source code is available for free.\nFeatures\n––––––––\nVLC for Android™ plays most local video and audio files, as well as network streams (including adaptive streaming), DVD ISOs, like the desktop version of VLC. It also support disk shares.\nAll formats are supported, including MKV, MP4, AVI, MOV, Ogg, FLAC, TS, M2TS, Wv and AAC. All codecs are included with no separate downloads. It supports subtitles, Teletext and Closed Captions.\nVLC for Android has a media library for audio and video files, and allows to browse folders directly.\nVLC has support for multi-track audio and subtitles. It supports auto-rotation, aspect-ratio adjustments and gestures to control volume, brightness and seeking.\nIt also includes a widget for audio control, supports audio headsets control, cover art and a complete audio media library.\nPermissions\n––––––––––––\nVLC for Android needs access to those categories:\n• “Photos/Media/Files” to read your all media files 🙂\n• “Storage” to read your all media files on SD cards 🙂\n• “Other” to check network connections, change the volume, set the ringtone, run on Android TV and display the popup view, see below for details.\nPermission Details :\n• It needs “read the contents of your USB storage”, in to order to read your media files on it.\n• It needs “modify or delete the contents of your USB storage”, in order to allow deletion of files and store subtitles.\n• It needs “full network access”, to open network and internet streams.\n• It needs “prevent phone from sleeping” in order to prevent… your phone from sleeping when watching a video.\n• It needs “change your audio settings”, in order to change audio volume.\n• It needs “modify system settings”, in order to allow you to change your audio ringtone.\n• It needs “view network connections” in order to monitor whether device is connected or not, to hide the streaming parts.\n• It needs “draw over other apps” to start the popup menu.\n• It needs “control vibration” to give feedback on the controls.\n• It needs “run at startup” to set recommendations on Android TV launcher screen, only used with Android TV version.\nWhat’s New\nVLC on Android 2.0.6\n2.0.6 is an update fixing crashes, updating codecs and saving the audio delay for BT headphones.\n2.0 introduces a large number of features, notably network disk browsing (Windows shares, UPnP, NFS, SFTP…), favorite folders and URLs, video playlists, popup video, new permissions support, subtitles download, rewritten notifications and control, and a new history.\nThe Android TV and Android versions were merged, so that every device can get the updated Android TV look."
+  },
+  "detail_reviews": {
+    "username_reviews": "Balram Singh",
+    "image_reviews": null,
+    "created_time": "2020-03-08 17:30:16",
+    "created_time_epoch": 1583688616,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Uc turbo is best browser",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-03-08 17:30:16",
+    "date_of_experience_epoch": 1583688616
+  }
+}

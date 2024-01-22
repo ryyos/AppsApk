@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "photoframeeditors.toolappmaster.guideforfreediamond.freedaimond"
+  ],
+  "crawling_time": "2024-01-22 13:14:19",
+  "crawling_time_epoch": 1705904059,
+  "path_data_raw": "data/data_raw/review_appsapks/guide_and_free_diamonds_for_free_1.1_apk/json/Sompal.json",
+  "path_data_clean": "data/data_clean/review_appsapks/guide_and_free_diamonds_for_free_1.1_apk/json/Sompal.json",
+  "reviews_name": "Guide and Free Diamonds for Free 1.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 4,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "photoframeeditors.toolappmaster.guideforfreediamond.freedaimond",
+    "Version": "1.1",
+    "Size": "7.39 MB",
+    "Developed_By": "Tool App Master",
+    "descriptions": "Guide and Free Diamonds for Free\nDo you want free diamonds for FF? Best hints, tricks, maps, skins, elite pass and other things, for free.\nYou will learn how to gain coins without investing money in game; you will learn this for free.\n– Learn tricks that reveal the best players in the world. Tips for beginners and advanced and premium tips that you will not find in any other guide.\n– Get diamonds for free and safely. We advise you to choose the best method to have the diamonds you want in your account as soon as possible.\nThank you……..!!"
+  },
+  "detail_reviews": {
+    "username_reviews": "Sompal",
+    "image_reviews": null,
+    "created_time": "2021-05-23 11:30:35",
+    "created_time_epoch": 1621769435,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Please I have no diamonds and not DJ alok please give me diamond and dj alok",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-05-23 11:30:35",
+    "date_of_experience_epoch": 1621769435
+  }
+}

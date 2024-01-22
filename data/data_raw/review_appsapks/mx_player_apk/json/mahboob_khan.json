@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Multimedia"
+  ],
+  "crawling_time": "2024-01-22 13:11:53",
+  "crawling_time_epoch": 1705903913,
+  "path_data_raw": "data/data_raw/review_appsapks/mx_player_apk/json/mahboob_khan.json",
+  "path_data_clean": "data/data_clean/review_appsapks/mx_player_apk/json/mahboob_khan.json",
+  "reviews_name": "MX Player APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 230,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "MX Player",
+    "Package": "com.mxtech.videoplayer.ad",
+    "Version": "1.18.6",
+    "Size": "29.90 MB",
+    "Developed_By": "MX Media & Entertainment (formerly J2 Interactive)",
+    "descriptions": "Powerful video player with advanced hardware acceleration and subtitle support.\na) HARDWARE ACCELERATION – Hardware acceleration can be applied to more videos with the help of new HW+ decoder.\nb) MULTI-CORE DECODING – MX Player is the first Android video player which supports multi-core decoding. Test result proved that multi-core device's performance is up to 70% better than single-core devices.\nc) PINCH TO ZOOM, ZOOM AND PAN – Easily zoom in and out by pinching and swiping across the screen. Zoom and Pan is also available by option.\nd) SUBTITLE GESTURES – Scroll forward/backward to move to next/previous text, Up/down to move text up and down, Zoom in/out to change text size.\ne) MX FILE SHARING – Fast transfer files without mobile data usage. Share Music, Share Video, Share Files.\nf) KIDS LOCK – Keep your kids entertained without having to worry that they can make calls or touch other apps.\nSubtitle formats:\n– DVD, DVB, SSA/*ASS* subtitle tracks.\n– SubStation Alpha(.ssa/.*ass*) with full styling.\n– SAMI(.smi) with Ruby tag support.\n– SubRip(.srt)\n– MicroDVD(.sub)\n– VobSub(.sub/.idx)\n– SubViewer2.0(.sub)\n– MPL2(.mpl)\n– TMPlayer(.txt)\n– Teletext\n– PJS(.pjs)\n– WebVTT(.vtt)\n******\nPermission Details:\n–––––––––––––––––––\n* \"READ_EXTERNAL_STORAGE\" is required to read your media files in your primary & secondary storages.\n* \"WRITE_EXTERNAL_STORAGE\" is required to rename or deletion of files and to store the downloaded subtitles.\n* \"LOCATION\" permission is required to help find nearby friends for file transfers.\n* \"NETWORK\" and \"WIFI\" permissions are required to get the network status which is required for various activities like license checking, update checking etc. Wifi connection is also used for faster file transfers.\n* \"BLUETOOTH\" permission is required in order to improve AV sync when Bluetooth headset is connected, and create connections for file transfers.\n* \"CAMERA\" permission is required to scan QR code for file transfers.\n* \"INTERNET\" is required to play internet streams.\n* \"VIBRATE\" is required to control the vibration feedbacks.\n* \"WAKE_LOCK\" is required to prevent your phone from sleeping while watching any video.\n* \"KILL_BACKGROUND_PROCESSES\" is required to stop the MX Player services used in background play.\n* \"DISABLE_KEYGUARD\" is required to temporarily prevent secure screen lock when Kids Lock is used.\n* \"SYSTEM_ALERT_WINDOW\" is required to block some keys when Kids Lock is used.\n* \"DRAW OVER OTHER APPS\" is required to block system buttons when input blocking is activated on the playback screen.\n******\nIf you are facing \"package file is invalid\" error, please install it again from product home page (https://sites.google.com/site/mxvpen/download)\n******\nIf you have any questions, please visit our Facebook Page or XDA MX Player forum.\nhttps://www.facebook.com/MXPlayer\nhttp://forum.xda-developers.com/apps/mx-player\nSome of the screens are from the Elephants Dreams licensed under the Creative Commons Attribution 2.5.\n(c) copyright 2006, Blender Foundation / Netherlands Media Art Institute / www.elephantsdream.org\nSome of the screens are from the Big Buck Bunny licensed under the Creative Commons Attribution 3.0 Unported.\n(c) copyright 2008, Blender Foundation / www.bigbuckbunny.org\nWhat’s New\nIn addition to some major performance improvements, this release also brings a set of upgrades to MX Share, like Share History, Invite your Friends and a few more. Go on, give it a spin!\nIndia users:\n– Now enjoy Picture-in-Picture Mode for your favourite Online Videos too. Continue watching while browsing and even when you’re outside the app.\n– Now experience a fully immersive experience with our upgrade on Short Videos (Buzz)\n– Search now shows related keywords too"
+  },
+  "detail_reviews": {
+    "username_reviews": "mahboob khan",
+    "image_reviews": null,
+    "created_time": "2014-05-28 14:12:06",
+    "created_time_epoch": 1401286326,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "V v v v goooood",
+    "reply_content_reviews": [],
+    "date_of_experience": "2014-05-28 14:12:06",
+    "date_of_experience_epoch": 1401286326
+  }
+}

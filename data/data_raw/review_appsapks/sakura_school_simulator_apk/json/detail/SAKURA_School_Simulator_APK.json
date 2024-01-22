@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "SAKURA School Simulator"
+  ],
+  "crawling_time": "2024-01-22 13:12:06",
+  "crawling_time_epoch": 1705903926,
+  "path_data_raw": "data/data_raw/review_appsapks/sakura_school_simulator_apk/json/detail/SAKURA_School_Simulator_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/sakura_school_simulator_apk/json/detail/SAKURA_School_Simulator_APK.json",
+  "reviews_name": "SAKURA School Simulator APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 4,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "jp.garud.ssimulator",
+    "Version": "1.036.08",
+    "Size": "179M",
+    "Developed_By": "jp.garud.ssimulator",
+    "descriptions": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.cleanteam.onecleaner"
+  ],
+  "crawling_time": "2024-01-22 13:13:29",
+  "crawling_time_epoch": 1705904009,
+  "path_data_raw": "data/data_raw/review_appsapks/one_cleaner_–_antivirus,_booster,_super_cleaner_1.4.1_apk/json/Amit_Sharma.json",
+  "path_data_clean": "data/data_clean/review_appsapks/one_cleaner_–_antivirus,_booster,_super_cleaner_1.4.1_apk/json/Amit_Sharma.json",
+  "reviews_name": "One Cleaner – Antivirus, Booster, Super Cleaner 1.4.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.cleanteam.onecleaner",
+    "Version": "1.4.1",
+    "Size": "5.84 MB",
+    "Developed_By": "Molten Rock Technology Pvt. Ltd.",
+    "descriptions": "One Cleaner – is the pure Indian mobile app to clean junk files and master privacy, with features: Applocker, App Manager, Junk Cleaner for android, Speed Booster, CPU cooler, and Battery Saver, Duplicate File Remover, Notification Manager etc.\nOne Cleaner Key Features:\n🚀 MOBILE BOOSTER\nOne Tap Boost helps speed up the phone by freeing up RAM. After boosting your mobile, No more auto-start application in the backend. Phone Master boosts processing speed, clean unnecessary apps that running in the background, and save battery.\n🚀 JUNKS CLEANER\nClean cache junks including memory cache, clean RAM, ads files and clean other junk files to free up your storage space! Restore memory space and improve the performance of your device.\n❄️ CPU COOLER\nCooling the CPU heat by detecting and close apps that are likely to cause temperature rise.\n🌊 NOTIFICATION CLEANER\nOne Cleaner helps you to clean annoying and endless notifications just in one tap, no matter they coming from which app installed in your phone. The super cleaner can also block junk notifications.\n🌊 APP LOCKER\nApp Locker can lock up apps, photos, messages, and other private data with a password or pattern. You can easily protect your private information. Hide sensitive photos, videos, contact, SMS, and communication apps by encrypting it. Give your secret solid protection as your best defender.\n★ Smart Charge\n★ App Manager\n★ Notification Manager\n★ Deep Cleaning\nIf you have any issues, feedback, suggestion, or just want to say hi, please feel free to let us hear from you at \"[email protected]\" so we can continue to bring you the best experiences and updates."
+  },
+  "detail_reviews": {
+    "username_reviews": "Amit Sharma",
+    "image_reviews": null,
+    "created_time": "2020-07-30 12:21:01",
+    "created_time_epoch": 1596111661,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "One Cleaner is the best app for Clean the junk files",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-07-30 12:21:01",
+    "date_of_experience_epoch": 1596111661
+  }
+}
