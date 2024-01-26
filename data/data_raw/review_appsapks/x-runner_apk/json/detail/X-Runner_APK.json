@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:36:56",
+  "crawling_time_epoch": 1705905416,
+  "path_data_raw": "data/data_raw/review_appsapks/x-runner_apk/json/detail/X-Runner_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/x-runner_apk/json/detail/X-Runner_APK.json",
+  "reviews_name": "X-Runner APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "X-Runner",
+    "Package": "com.droidhen.game.xrunner",
+    "Version": "1.0.4",
+    "Size": "16.58 MB",
+    "Developed_By": "DroidHen",
+    "descriptions": "Partake in this exhilarating runner game to feel the ultimate speed and challenge your agility! Try to avoid the barriers,go through the magic tunnel, jump over the space bridge… X runner is on the go!\n# Tilt phone to control\n# Tap on screen to jump\n# Collect invincible powerup to break any barrier\n# Collect invisible powerup to go through barriers\n# Magnet helps you absorb the coins on the way\n# Sprint makes you an invincible runner\n# More than 40 achievements to be unlocked\nDon't forget to invite your friends and share with them your high score and achievements!\nWhat’s New\nFix the crash problem in previous update."
+  }
+}

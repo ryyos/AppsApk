@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:33:16",
+  "crawling_time_epoch": 1705905196,
+  "path_data_raw": "data/data_raw/review_appsapks/pubg_mobile_lite_apk/json/detail/PUBG_MOBILE_LITE_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/pubg_mobile_lite_apk/json/detail/PUBG_MOBILE_LITE_APK.json",
+  "reviews_name": "PUBG MOBILE LITE APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "PUBG MOBILE LITE",
+    "Package": "com.tencent.iglite",
+    "Version": "0.14.0",
+    "Size": "561.01 MB",
+    "Developed_By": "Tencent Games",
+    "descriptions": "PUBG MOBILE LITE is here! Built with Unreal Engine 4, this version of PUBG MOBILE is smaller in size and compatible with more devices with less RAM, yet without compromising the amazing experience that attracted millions of fans around the world! PUBG MOBILE LITE features fast-paced matches and a smaller map made for 60 players, providing a more exhilarating combat experience in the traditional PUBG MOBILE setting. When duty calls, fire away freely on the battlefield for survival!\n1. PUBG MOBILE LITE\n60 players parachute onto a graphically rich 2km x 2km island for a winner-takes-all showdown. Players have to scavenge for their own weapons, vehicles, and supplies while battling it out in an ever-shrinking play zone to be the last player standing. Get ready to land, and do whatever it takes to survive.\n2. High-quality Graphics and HD Audio\nThe powerful Unreal Engine 4 creates a jaw-dropping visual experience with stunning detail, realistic gameplay effects and a massive HD map, perfect for the tactical action genre. Feel free to fire away on the battlefield as you play with high-quality audio and rich 3D sound effects.\n3. Team Up with Friends\nInvite and team up with your friends to coordinate your battle plan through voice chat and set up the perfect ambush for your enemies. Answer the call when your friends need help, or do your part when Clan duty calls!\n4. Fair Gaming Environment\nPowerful anti-cheating mechanisms ensure a fun and fair environment for all PUBG MOBILE LITE players.\nFollow us:\nOfficial site: http://www.pubgmlite.com\nFacebook: https://www.facebook.com/PUBGMOBILELITE/\nTwitter: https://twitter.com/pubgmobilelite\nContact our customer service at [email protected] if you have any questions\nWhat’s New\nNew WP theme and rewards\nNew outfits added\nUpdated system settings\nAdded customization guide\nAdded emotes\nImproved UI & update pack size\nImproved graphics\nBattle parameters improved\nIncreased accuracy of RPG-7\nAdded bombing zones"
+  }
+}

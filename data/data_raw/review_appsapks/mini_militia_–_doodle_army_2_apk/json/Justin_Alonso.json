@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:37:47",
+  "crawling_time_epoch": 1705905467,
+  "path_data_raw": "data/data_raw/review_appsapks/mini_militia_–_doodle_army_2_apk/json/Justin_Alonso.json",
+  "path_data_clean": "data/data_clean/review_appsapks/mini_militia_–_doodle_army_2_apk/json/Justin_Alonso.json",
+  "reviews_name": "Mini Militia – Doodle Army 2 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Mini Militia – Doodle Army 2",
+    "Package": "com.appsomniacs.da2",
+    "Version": "4.2.8",
+    "Size": "50.29 MB",
+    "Developed_By": "Miniclip.com",
+    "descriptions": "Experience intense multiplayer combat with up to 6 players online or 12 using local wi-fi. Train with the Sarge and sharpen your skills in offline Training, Co-op and Survival modes. Shoot a multitude of weapon types including the sniper, shotgun and flamethrower.\nFeatures explosive online and local multiplayer warfare! Intuitive dual stick shooting controls. Open world maps utilizing rocket boots for extended vertical flight. Zoom control, melee attacks and dual wield ability with modern and futuristic heavy duty weapons and grenades. Play team based battles in this fun cartoon themed cross between Soldat and Halo.\nMini Militia – Doodle Army 2 aka DA2, based on the original stickman shooter Doodle Army, was created based on player feedback and suggestions. We love to hear your ideas so thank you and keep them coming! Give a call out to Sarge from the in-game email link!\nPurchase the Pro Player Pack to get full access to dual wield ability, extra avatar customization items and online weapons such as the rocket launcher, sniper rifle, laser, saw gun and more!\nWhat’s New\nBug fixes and improvements."
+  },
+  "detail_reviews": {
+    "username_reviews": "Justin Alonso",
+    "image_reviews": null,
+    "created_time": "2019-07-09 12:57:58",
+    "created_time_epoch": 1562677078,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "very nice",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-07-09 12:57:58",
+    "date_of_experience_epoch": 1562677078
+  }
+}

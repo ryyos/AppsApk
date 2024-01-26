@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Download GTA 5 APK",
+    "Download GTA 5 for Mobile",
+    "GTA 5",
+    "GTA 5 APK",
+    "GTA 5 for Android"
+  ],
+  "crawling_time": "2024-01-22 13:37:29",
+  "crawling_time_epoch": 1705905449,
+  "path_data_raw": "data/data_raw/review_appsapks/gta_5_apk_–_grand_theft_auto_apk/json/detail/GTA_5_APK_–_Grand_Theft_Auto_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/gta_5_apk_–_grand_theft_auto_apk/json/detail/GTA_5_APK_–_Grand_Theft_Auto_APK.json",
+  "reviews_name": "GTA 5 APK – Grand Theft Auto APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 20,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Lockers"
+  ],
+  "crawling_time": "2024-01-22 13:27:09",
+  "crawling_time_epoch": 1705904829,
+  "path_data_raw": "data/data_raw/review_appsapks/app_locker_fingerprint,_pin_and_gallery_locker_apk/json/detail/App_Locker_Fingerprint,_PIN_And_Gallery_Locker_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/app_locker_fingerprint,_pin_and_gallery_locker_apk/json/detail/App_Locker_Fingerprint,_PIN_And_Gallery_Locker_APK.json",
+  "reviews_name": "App Locker Fingerprint, PIN And Gallery Locker APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "App Locker Fingerprint, PIN And Gallery Locker",
+    "Package": "com.patternlockapp.fingerprintlock.smartlock",
+    "Version": "1.0.5",
+    "Size": "23.80 MB",
+    "Developed_By": "Weldon Hazeltine",
+    "descriptions": "Welcome to the app secure lock app to protect your device's privacy and security. Our app locker fingerprint and password can prevent unauthorized access and security. You can choose application locker with password or apps lock fingerprint.\nFingerprint lock app features\n1. App locker master\n★ Select the application you want to lock messages and gallery\n★ Set pattern, passwords to unlock gallery picture and video\n★ Use a security question to reset your password\n★ Authorize the app locks message to function\n★ Application locker app proceeds to lock photo album\n2. Topic\n★ Application locker and gallery hider provides unique theme repositories\n3. Identify intruders\n★ The lock security apps will take photos of people who intentionally invade your phone\n4. Secure the message\n★ Hide message preview content with secure app\n5. Battery saving\n★ Analyze battery status to detect applications that are consuming battery power\n★ Close applications running in the background to increase using time\n6. Clean up the notification\n★ Clean up all annoying notifications with finger security lock for all apps and folders\nWhy should you use the contact lock app?\n🔐 Apps locker master\n🔐 Video locker apps Absolute security and safety\n🔐 3 ways to lock gallery hide pictures and videos apps: pattern and pin, lock apps with fingerprint\n🔐 Recover passwords through security questions\n🔐 Friendly contact locker app interface\n🔐 Small application lock app capacity\n🔐 Free app password lock app\nNote: App locker fingerprint is only available with fingerprint security phones\nHoping to protect users, the development team has created app locker to protect user privacy. From now on, you won't need to worry about someone borrowing your phone and accessing your privacy issues. You can lock the gallery, lock the message so that strangers can't see it.\nIf you have any questions during using app, leave a comment below. And please introduce the message locker app to your relatives and friends so they can protect privacy, gallery locker video and photos.\nPlease rate 5* best app with pin and pattern password to support the developer!\nWhat’s New"
+  }
+}

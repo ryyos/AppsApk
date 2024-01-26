@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Grand Theft Auto Vice City",
+    "GTA Vice City",
+    "GTA Vice City APK",
+    "GTA Vice City for Android"
+  ],
+  "crawling_time": "2024-01-22 13:37:29",
+  "crawling_time_epoch": 1705905449,
+  "path_data_raw": "data/data_raw/review_appsapks/download_grand_theft_auto_vice_city_apk/json/Goutam.json",
+  "path_data_clean": "data/data_clean/review_appsapks/download_grand_theft_auto_vice_city_apk/json/Goutam.json",
+  "reviews_name": "Download Grand Theft Auto Vice City APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 7,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "Goutam",
+    "image_reviews": null,
+    "created_time": "2020-09-04 13:25:02",
+    "created_time_epoch": 1599225902,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I like rock star games",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-09-04 13:25:02",
+    "date_of_experience_epoch": 1599225902
+  }
+}

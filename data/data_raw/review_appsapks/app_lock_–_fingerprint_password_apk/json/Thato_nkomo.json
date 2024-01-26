@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Lockers"
+  ],
+  "crawling_time": "2024-01-22 13:30:16",
+  "crawling_time_epoch": 1705905016,
+  "path_data_raw": "data/data_raw/review_appsapks/app_lock_–_fingerprint_password_apk/json/Thato_nkomo.json",
+  "path_data_clean": "data/data_clean/review_appsapks/app_lock_–_fingerprint_password_apk/json/Thato_nkomo.json",
+  "reviews_name": "App lock – Fingerprint Password APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "App lock – Fingerprint Password",
+    "Package": "com.fingerlock.app.locker.applock.fingerprint",
+    "Version": "2.50",
+    "Size": "11.63 MB",
+    "Developed_By": "recorder & smart apps",
+    "descriptions": "App Lock fingerprint support numberic password & pattern lock screen, fingerprint password. This applock is very smart and high secure. It is one of best lock app for Android.\nMy app lock will protects your privacy & protect everything on your phone (image, video, apps..)\nThat means your note, call, sms, email, settings… are safe now. All the privacy guard functions will ensure your phone in security and keep your privacy safe.\nWith App lock security protection, your privacy is well protected with password lock screen, pattern lock screen and fingerprint lock screen.\nApp Lock can lock all tools and social apps like: Facebook, Whatsapp, Gallery, Messenger, Snapchat, Instagram.\nApp Lock can protect pictures and videos by hiding them. If you are looking for a lock app to hide photo and video please download this app. Hidden pictures and videos are vanished from Gallery and only visible in the photo and video vault.\nApp lock has option to enable invisible pattern lock. No more worry people may peep the pin or pattern. Keep safe!\nWith this secret app lock, you can protect phone from your kids.\nFeatures of App lock:\n– Fingerprint lock supported\n– Numeric password supported\n– Pattern password supported\n– Protect Settings & Google Play to prevent someone uninstall the app lock app\n– The vault: Safe gallery vault, private photo vault help to hide pictures and hide videos.\n– With the image vault & gallery lock, app move photo/video to secret vault by auto-deleting hidden images from the gallery wall after performing hide photos & hide videos\n– Many beautiful themes, beautiful interfaces\n– Prevent someone uninstall lock app by password screen. You must have password to uninstall this smart app lock, if you forgot passcode you can reset it via security email.\n– Protect your emails, SMS, call log\n– Three securities private mode: Lock apps with password lock, pattern lock or DIY. The keypad lock screen with passcode, DIY help you to make yourself keypad lock screen, pattern lock screen using your photo on the gallery\n– Option to make invisible pattern on unlock screen, people can not see your pattern lock screen while you are unlocking. More safe!\n– Easily to lock phone apps, unlock phone apps easily from an app list by one click\n– Password manager: Change password type between passcode, pattern, DIY and reset password\n– Support reset password by entering security email.\nTo make app working on fingerprint password, you must setup your fingerprint lock first on phone settings. When this is ON, the fingerprint lock screen will be enabled at unlock screen, otherwise it requires pattern or password for lock screen instead.\nPlease download applock with fingerprint, then use it every day for security and privacy. If you have any questions about lock app please send me an email.\nWhat’s New"
+  },
+  "detail_reviews": {
+    "username_reviews": "Thato nkomo",
+    "image_reviews": null,
+    "created_time": "2021-02-24 18:49:15",
+    "created_time_epoch": 1614192555,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-02-24 18:49:15",
+    "date_of_experience_epoch": 1614192555
+  }
+}

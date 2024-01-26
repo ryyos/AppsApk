@@ -1,0 +1,53 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Final Fantasy Crystal",
+    "Final Fantasy Crystal Chronicles",
+    "Final Fantasy Crystal Chronicles Remastered"
+  ],
+  "crawling_time": "2024-01-22 13:32:25",
+  "crawling_time_epoch": 1705905145,
+  "path_data_raw": "data/data_raw/review_appsapks/final_fantasy_crystal_chronicles_remastered_edition_set_to_release_in_january_2020_apk/json/Vinoy_Kumar_Dwivedi.json",
+  "path_data_clean": "data/data_clean/review_appsapks/final_fantasy_crystal_chronicles_remastered_edition_set_to_release_in_january_2020_apk/json/Vinoy_Kumar_Dwivedi.json",
+  "reviews_name": "Final Fantasy Crystal Chronicles Remastered Edition Set To Release in January 2020 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "Vinoy Kumar Dwivedi",
+    "image_reviews": null,
+    "created_time": "2020-02-15 14:42:23",
+    "created_time_epoch": 1581777743,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "The grt look…vinoy",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-02-15 14:42:23",
+    "date_of_experience_epoch": 1581777743
+  }
+}

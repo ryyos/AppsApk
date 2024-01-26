@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:38:06",
+  "crawling_time_epoch": 1705905486,
+  "path_data_raw": "data/data_raw/review_appsapks/subway_surfers_apk/json/detail/Subway_Surfers_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/subway_surfers_apk/json/detail/Subway_Surfers_APK.json",
+  "reviews_name": "Subway Surfers APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Subway Surfers",
+    "Package": "com.kiloo.subwaysurf",
+    "Version": "1.105.0",
+    "Size": "79.87 MB",
+    "Developed_By": "Kiloo",
+    "descriptions": "DASH as fast as you can!\nDODGE the oncoming trains!\nHelp Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.\n★ Grind trains with your cool crew!\n★ Colorful and vivid HD graphics!\n★ Hoverboard Surfing!\n★ Paint powered jetpack!\n★ Lightning fast swipe acrobatics!\n★ Challenge and help your friends!\nJoin the most daring chase!\nA Universal App with HD optimized graphics.\nBy Kiloo and Sybo.\nWhat’s New\n★ Join the Subway Surfers World Tour in sunny Florida\n★ Enjoy the cool ocean breeze and palm covered beaches of Miami\n★ Unlock the 4th of July board in time for the grand celebration\n★ Search for pink flamingos to unlock the majestic Eagle board\n★ Explore the seaside with Nick, the suntanned trendsetter"
+  }
+}

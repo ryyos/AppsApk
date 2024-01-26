@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Multimedia"
+  ],
+  "crawling_time": "2024-01-22 13:27:26",
+  "crawling_time_epoch": 1705904846,
+  "path_data_raw": "data/data_raw/review_appsapks/screen_recorder_with_facecam__screenshot_capture_apk/json/ThanosAtha.json",
+  "path_data_clean": "data/data_clean/review_appsapks/screen_recorder_with_facecam__screenshot_capture_apk/json/ThanosAtha.json",
+  "reviews_name": "Screen Recorder With Facecam & Screenshot Capture APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Screen Recorder With Facecam & Screenshot Capture",
+    "Package": "com.screenrecorder.recorder.audio.videoeditor",
+    "Version": "1.0.4",
+    "Size": "14.29 MB",
+    "Developed_By": "Weldon Hazeltine",
+    "descriptions": "Screen Recorder – app to record videos on screen. We offer a fast, smooth video screen recorder solution.\nAbout our recording screen app:\n⭐ Screen recording with internal audio\n– 1 touch to record games while you play\n– Support screen recorder with facecam\n– Manage screen video recorder with sound with floating keys\n– Shake to record video call, pause / end recording easily\n– Advanced support: drawing when screen recorder with sound and microphone, counting down before starting recording app on screen\n⭐ Edit videos after game recorder with facecam\n– Professional video editing tool\n– Insert music into video, edit video speed\n– Cut video\n⭐ Take a screenshot of the phone screen\n– Capture screen with floating keys\n– Screenshot button on screen\n– Snap screen capture video in the notification bar of the phone\n– Fast, convenient, easy screenshot video capture\n– Screen shot editor: crop photos, draw on photos, collage photos\nIf you need to record screen of fun mobile games, your favorite episodes or video call recorder with audio with your relatives, install this video recording app of mobile screen right away. We will help you record screen and audio everything you want. The game screen recorder with facecam application will satisfy even the most fastidious users.\nCommitment screenshot capture recorder application:\n➝ Record games on your phone with high quality\n➝ Screen recorder with audio is not limited to time and space\n➝ Free install screen recording with facecam\n➝ Free use of all features of game recording app\n➝ No registration required, account login\n➝ Support multiple mobile models\n➝ Screen recorder and video editor no root\nThank you for using the record gameplay on your phone application. If you have any feedback or suggestions, please let us know below. Sharing app screen camera recorder with friends to have unique screen videos together."
+  },
+  "detail_reviews": {
+    "username_reviews": "ThanosAtha",
+    "image_reviews": null,
+    "created_time": "2020-12-05 18:44:02",
+    "created_time_epoch": 1607193842,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Is there any stable screen recorder with internal audio for Android 7+ (root)?",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-05 18:44:02",
+    "date_of_experience_epoch": 1607193842
+  }
+}

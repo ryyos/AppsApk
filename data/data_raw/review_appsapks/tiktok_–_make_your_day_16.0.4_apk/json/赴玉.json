@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.zhiliaoapp.musically"
+  ],
+  "crawling_time": "2024-01-22 13:20:45",
+  "crawling_time_epoch": 1705904445,
+  "path_data_raw": "data/data_raw/review_appsapks/tiktok_–_make_your_day_16.0.4_apk/json/赴玉.json",
+  "path_data_clean": "data/data_clean/review_appsapks/tiktok_–_make_your_day_16.0.4_apk/json/赴玉.json",
+  "reviews_name": "TikTok – Make Your Day 16.0.4 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.zhiliaoapp.musically",
+    "Version": "16.0.4",
+    "Size": "33.61 MB",
+    "Developed_By": "TikTok Inc.",
+    "descriptions": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day.\nWe make it easy for you to discover and create your own original videos by providing easy-to-use tools to view and capture your daily moments. Take your videos to the next level with special effects, filters, music, and more.\n■ Watch endless amount of videos customized specifically for you\nA personalized video feed based on what you watch, like, and share. TikTok offers you real, interesting, and fun videos that will make your day.\n■ Explore videos, just one scroll away\nWatch all types of videos, from Comedy, Gaming, DIY, Food, Sports, Memes, and Pets, to Oddly Satisfying, ASMR, and everything in between.\n■ Pause recording multiple times in one video\nPause and resume your video with just a tap. Shoot as many times as you need.\n■ Be entertained and inspired by a global community of creators\nMillions of creators are on TikTok showcasing their incredible skills and everyday life. Let yourself be inspired.\n■ Add your favorite music or sound to your videos for free\nEasily edit your videos with millions of free music clips and sounds. We curate music and sound playlists for you with the hottest tracks in every genre, including Hip Hop, Edm, Pop, Rock, Rap, and Country, and the most viral original sounds.\n■ Express yourself with creative effects\nUnlock tons of filters, effects, and AR objects to take your videos to the next level.\n■ Edit your own videos\nOur integrated editing tools allow you to easily trim, cut, merge and duplicate video clips without leaving the app.\n* Any feedback? Contact us at [email protected] or tweet us @tiktok_us"
+  },
+  "detail_reviews": {
+    "username_reviews": "赴玉",
+    "image_reviews": null,
+    "created_time": "2020-07-17 11:33:18",
+    "created_time_epoch": 1594985598,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "In China, the Han nationality is the main nationality. The way people think is to think in the way of Han nationality. I want to say. Strictly speaking, China’s history is made up of Han nationality and minority nationality. China is not a single nation. I’m from Manchuria. I love my nation. First of all, I want to confirm. I am Chinese, Manchuria is just a province of China. It is also a Chinese nation. I am not proud of being Manchu, or look down on other nationalities. I think everyone should be equal. Recently on many websites. They are all scolding the Manchu. Let the present Manchu people bear the consequences for the mistakes made by the previous Qing Dynasty. So I see a lot of discord. You have a lot of ethnic separatists. They always focus on the Han nationality. To attack other peoples. Don’t deny that to me. In any website, as long as it is about the Qing Dynasty or satisfied. There will be discordant voices. There is no connection between the present Manchu and the former contentment. The mistakes they made should not be borne by us. Manchu, like other nationalities and Han nationality, is also a very great nation. All nations should be respected. I’m not trying to split the country. Around me, there are many students of Han nationality who treat me very well. There is no ethnic discrimination. I have never thought of splitting the country or making some improper remarks. I am just expounding individual facts. Finally, I hope China. I love Manchuria. I love China",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-07-17 11:33:18",
+    "date_of_experience_epoch": 1594985598
+  }
+}

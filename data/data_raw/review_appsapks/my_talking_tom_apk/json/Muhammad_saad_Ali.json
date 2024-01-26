@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:38:50",
+  "crawling_time_epoch": 1705905530,
+  "path_data_raw": "data/data_raw/review_appsapks/my_talking_tom_apk/json/Muhammad_saad_Ali.json",
+  "path_data_clean": "data/data_clean/review_appsapks/my_talking_tom_apk/json/Muhammad_saad_Ali.json",
+  "reviews_name": "My Talking Tom APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "My Talking Tom",
+    "Package": "com.outfit7.mytalkingtomfree",
+    "Version": "5.3.2.382",
+    "Size": "87.96 MB",
+    "Developed_By": "Outfit7 Limited",
+    "descriptions": "Is it a baby? Is it a puppy? No! It’s Talking Tom! The cutest kitten, the coolest cat, and the biggest superstar in the world!My Talking Tom is the best virtual pet game for children, and big kids of all ages. That’s right – even grandma and grandpa can join the fun!\nAdopt Tom as a cute kitten and take care of him every day. Make sure he gets enough food and sleep, take him to the toilet, and keep him happy, smiling and laughing. You can pet and poke Tom, and even speak to him – he repeats everything you say in his cute, funny voice! Tom even has a collection of fun mini games to play – puzzle games, action games, adventure games, and even a sport game. There’s something for everyone!\nAs you play, Tom grows up and you unlock loads of cool new clothes for him and new furniture items for his house. There are many costumes to choose from – an astronaut, a pilot, a superhero… or maybe you just want to dress Tom in something cool and casual. You can even mix and match Tom’s clothes for some crazy combinations! And every room in Tom’s house can be customized too!\nMillions of people play My Talking Tom every day, so why not join the fun? You can even take Tom on trips to other countries and build up an album of photos from his travels!\nAnd best of all… it’s absolutely FREE! So download now, and start playing today!\nThis app is PRIVO certified. The PRIVO safe harbor seal indicates that Outfit7 Limited has established COPPA-compliant privacy practices to protect your child’s personal information. Our apps do not allow younger children to share their information.\nThis app contains:\n– Promotion of Outfit7’s products and advertising;\n– Links that direct customers to Outfit7’s websites and other apps;\n– Personalization of content to encourage users to play the app again;\n– The possibility to connect with friends via social networks;\n– YouTube integration to allow users to watch videos of Outfit7’s animated characters;\n– The option to make in-app purchases;\n– Items to purchase (available in different prices) using virtual currency, depending on the player’s progress; and\n– Alternative options to access all functionalities of the app without making any in-app purchases using real money.\nTerms of use: http://outfit7.com/eula/\nEEA privacy policy: https://outfit7.com/privacy/eea/\nUS privacy policy: https://outfit7.com/privacy/\nRest of the world privacy policy: https://outfit7.com/privacy/\nCustomer support: [email protected]\nWhat’s New\nPIÑATA PARTY: Keep tapping the piñata and get a reward!\nPIÑATA REWARDS: Collect limited edition treats and other stylish items!"
+  },
+  "detail_reviews": {
+    "username_reviews": "Muhammad saad Ali",
+    "image_reviews": null,
+    "created_time": "2020-07-05 07:08:06",
+    "created_time_epoch": 1593932886,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Muhammad saad Ali",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-07-05 07:08:06",
+    "date_of_experience_epoch": 1593932886
+  }
+}

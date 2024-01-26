@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "es.fastappstudio.whatsbackup"
+  ],
+  "crawling_time": "2024-01-22 13:22:39",
+  "crawling_time_epoch": 1705904559,
+  "path_data_raw": "data/data_raw/review_appsapks/backup_for_whats_5.2_apk/json/detail/Backup_for_Whats_5.2_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/backup_for_whats_5.2_apk/json/detail/Backup_for_Whats_5.2_APK.json",
+  "reviews_name": "Backup for Whats 5.2 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "es.fastappstudio.whatsbackup",
+    "Version": "5.2",
+    "Size": "3.90 MB",
+    "Developed_By": "FastappStudio",
+    "descriptions": "This app allows you backup your whatsapp conversations, images, videos, audio and voice notes to Google Drive personal account.\nYou can easily migrate of device and restore your backup in your new device\nfeatures:\n★ The backup is compressed and synchronized with your account.\n★ Encrypt the backup with AES-256\n★ You can generate your backup without an internet connection when the device connects begin to synchronize your backup in your Google Drive account\n★ Always keep safe their messages and data, if you lose or change your phone you can restore your conversations on your new device"
+  }
+}

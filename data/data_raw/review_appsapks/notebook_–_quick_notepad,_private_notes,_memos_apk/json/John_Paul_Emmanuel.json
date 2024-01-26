@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Notes"
+  ],
+  "crawling_time": "2024-01-22 13:26:45",
+  "crawling_time_epoch": 1705904805,
+  "path_data_raw": "data/data_raw/review_appsapks/notebook_–_quick_notepad,_private_notes,_memos_apk/json/John_Paul_Emmanuel.json",
+  "path_data_clean": "data/data_clean/review_appsapks/notebook_–_quick_notepad,_private_notes,_memos_apk/json/John_Paul_Emmanuel.json",
+  "reviews_name": "Notebook – Quick Notepad, Private Notes, Memos APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Notebook – Quick Notepad, Private Notes, Memos",
+    "Package": "tool.notepad.notes.notebooks",
+    "Version": "1.1.8",
+    "Size": "4.79 MB",
+    "Developed_By": "iJoysoft",
+    "descriptions": "Notebook is an intuitive, light weight notepad application, gives you a quick and simple notepad editing experience when you write notes, memos, e-mails, messages, shopping lists, to-do lists and so on. Taking notes with Notebook Notepad is easier than any other notepad or memo pad app.\nYou can create notes and checklist containing texts, images with reminder, PIN, lock and so on. Moreover, you can organize notes any way you want and share with anyone or backup notes to your new devices.\n👉Key Features:\nTAKE NOTES\n* Write notes. Start with a text, add images, checklists, all in the same text notepad\n* Create checklists to get stuff done with the dedicated checklist notes\n* Auto-saved. You don’t have to do anything to save them.\n* Custom notebook cover and change the color of your notes\nORGANIZE NOTES\n* Quick search to find all notes in any notebook\n* Easy to move or copy your notes between notebooks\nPASSWORD LOCK NOTES\n* Protect your private notepad with password\n* Securely lock your notes with password of your choice\nREMINDER NOTES\n* Remind all of your importance, won’t miss anything\n* Powerful task reminder: Time Alarm, All day, Repetition\nEXPORT & BACKUP NOTES\n* Make your important notepad available in anywhere easier\n* Backup all your notes and notebooks to transfer to your new devices\nNOTE MEMO WIDGET\n* Faster to view and create notes on the desktop widget\n* Add 2×2, 4×1 or 4x2notes widgets to launcher\n* Simple, powerful & beautiful widget to keep your notes always at hand\n👉Other features:\n* Access any notebook or note with a single click by creating a shortcut\n* Place your notes memos on your home screen\n* PIN your most important notes memo to group top\n* Archive your notes whenever you want to review\n* Find and Retrieve your deleted notes in 7days\n* Change notes and checklist mode when recording memos\n* List/Detail list/Grid/Large Grid View: Full of your different view needs\n* Comfortable day and night mode for protecting your eyes\n* Share notes as text and pictures and other supporting ways with your friends\nNotebook is totally FREE for your notes and memos recording to make your life organized. Our notes app has simple use experience that allows you to quickly create and save your notes content.\nWhat’s New\nV1.1.8\n🚀Improve performance,work better on your devices\n🆗Fix some minor bugs to be more stable\nV1.1.7\n🌸Optimize UI design, user experience improved\n🎉Bugs fixed and performance optimization\nV1.1.6\n🎈Improved memory usage, better user experience\n🚀Optimize resource loading speed, fatser startup\nV1.1.5\n🎉Capability enhancement, application run faster\n👌Fix a few issues and improve performance"
+  },
+  "detail_reviews": {
+    "username_reviews": "John Paul Emmanuel",
+    "image_reviews": null,
+    "created_time": "2021-03-25 23:49:27",
+    "created_time_epoch": 1616716167,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Good one",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-03-25 23:49:27",
+    "date_of_experience_epoch": 1616716167
+  }
+}

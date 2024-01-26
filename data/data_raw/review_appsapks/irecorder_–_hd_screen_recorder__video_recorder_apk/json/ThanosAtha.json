@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Multimedia"
+  ],
+  "crawling_time": "2024-01-22 13:25:30",
+  "crawling_time_epoch": 1705904730,
+  "path_data_raw": "data/data_raw/review_appsapks/irecorder_–_hd_screen_recorder__video_recorder_apk/json/ThanosAtha.json",
+  "path_data_clean": "data/data_clean/review_appsapks/irecorder_–_hd_screen_recorder__video_recorder_apk/json/ThanosAtha.json",
+  "reviews_name": "iRecorder – HD Screen Recorder & Video Recorder APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "iRecorder – HD Screen Recorder & Video Recorder",
+    "Package": "screenrecorder.videorecorder.recordscreen.irecorder",
+    "Version": "1.0.39.0304.01",
+    "Size": "8.88 MB",
+    "Developed_By": "Video Downloader & Video Player & Photo Downloader",
+    "descriptions": "Want to record screen, live videos, gameplay, tutorials or video calls on your phone? Looking for a screen record tool or screen capture tool to record every wonderful moment? Then this screen recorder ＆video recorder app is definitely what you want!\niRecorder – Screen Recorder & Video Recorder is a screen recording and screen capture tool that helps you record screen and record videos in an easy way. Just with a tap, You can easily record screens, record games you are playing, record videos which cannot be downloaded, record live show or live streams, or record video call with your friends. It is 100% free and in HD quality\nFeatures:\nAll screen record support: Recording for gameplay, videos, live shows, video chats\nSupport record screen with audio\nHD video recorder, Record video in High Quality: 1080p, 12Mbps, 60FPS\nSuper easy to capture screen: Record my videos with just one tap\nFloating Control Panel: One touch to control and snap the exact moment easily\nCountdown timer to let you well prepare for the record\nBuilt-in Video Player to playback recorded videos smoothly\nShare your videos or screenshots to Youtube, Facebook, Instagram or Twitter\nTotally free, NO watermark, NO root needed, NO time limit\nHD Video Recorder and Muti Resolution Recording Support\nRecord screen and videos in high quality up to 1080p, 12Mbps, 60FPS. You can adjust the recording resolutions in 1080P, 720P, 480P, 360P, 240P.\nScreen Recorder with Sound\nWant to record gameplay or video tutorial with sound? This powerful screen recorder with sound is your best choice. It records your voice fluidly and clearly.\nStable Game Recorder and No Time Limited\nRecord wonderful moments while playing games. No interruption for gameplay and no limitation for the recording time.\nRecord with Floating Window and Notification Bar\nThe floating recording control panel helps record screens and videos very easy. No need to switch between apps.\nScreen Record with No Watermark and Free\nKeep your recorded videos clear and no annoying watermark. Totally free to remove the watermark\nEasy sharing for screen record\nEasy to share recorded videos, game playing and live shows with your friends or other social medias\nNotes:\n– iRecorder – Screen Recorder & Video Recorder is a tool for video recording and screen recording with non-commercial use.\n– We respect the copyright of the owners. So DO NOT record illegal videos or other live shows without owners’ permission.\n– This app is not associated with any social media and media platforms.\nIf this video screen capture app is helpful for you, please rate us 🌟🌟🌟🌟🌟\nIf you need to support, please email us via [email protected]\nThanks very much for using iRecorder – Screen Recorder & Video Recorder and have a nice day!\nWhat’s New\n🌟 Video supports trimming, screenshots support cropping\n🌟 Super easy steps to record videos\n🌟 High-quality video and 100% free\n🌟 A lightweight screen and video recorder\n🌟 Record the moments of the game\n🌟 Instant screen capture, never miss the good time"
+  },
+  "detail_reviews": {
+    "username_reviews": "ThanosAtha",
+    "image_reviews": null,
+    "created_time": "2020-12-05 18:44:48",
+    "created_time_epoch": 1607193888,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Is there any stable screen recorder with internal audio for Android 7+ (root)?",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-05 18:44:48",
+    "date_of_experience_epoch": 1607193888
+  }
+}

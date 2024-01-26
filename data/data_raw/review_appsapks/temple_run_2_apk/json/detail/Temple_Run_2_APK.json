@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:38:01",
+  "crawling_time_epoch": 1705905481,
+  "path_data_raw": "data/data_raw/review_appsapks/temple_run_2_apk/json/detail/Temple_Run_2_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/temple_run_2_apk/json/detail/Temple_Run_2_APK.json",
+  "reviews_name": "Temple Run 2 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Temple Run 2",
+    "Package": "com.imangi.templerun2",
+    "Version": "1.58.0",
+    "Size": "77.65 MB",
+    "Developed_By": "Imangi Studios",
+    "descriptions": "With over a zillion downloads, Temple Run redefined mobile gaming. Now get more of the exhilarating running, jumping, turning and sliding you love in Temple Run 2!\nNavigate perilous cliffs, zip lines, mines and forests as you try to escape with the cursed idol. How far can you run?!\nFEATURES\n★ Beautiful new graphics\n★ Gorgeous new organic environments\n★ New obstacles\n★ More powerups\n★ More achievements\n★ Special powers for each character\n★ Bigger monkey!!!\nBecome a fan of Temple Run on Facebook:\nhttp://www.facebook.com/TempleRun\nFollow Temple Run on Twitter:\nhttps://twitter.com/TempleRun\nWhat’s New\nBurst into Blooming Sands as the world takes on new life! But watch out, there's more than just the Demon Monkey out to get you.\n>Gather coins and collect artifacts in a world filled with flowers.\n>Barry Bones and Maria Selva are ready take the Idol, as they're 50% off from July 5th to July 12th."
+  }
+}

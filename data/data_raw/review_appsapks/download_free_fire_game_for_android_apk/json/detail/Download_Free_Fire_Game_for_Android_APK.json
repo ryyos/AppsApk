@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Download Free Fire Game",
+    "Free Fire",
+    "Free Fire Game",
+    "Free Fire Game Android",
+    "Free Fire Game Apk"
+  ],
+  "crawling_time": "2024-01-22 13:37:33",
+  "crawling_time_epoch": 1705905453,
+  "path_data_raw": "data/data_raw/review_appsapks/download_free_fire_game_for_android_apk/json/detail/Download_Free_Fire_Game_for_Android_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/download_free_fire_game_for_android_apk/json/detail/Download_Free_Fire_Game_for_Android_APK.json",
+  "reviews_name": "Download Free Fire Game for Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 4,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

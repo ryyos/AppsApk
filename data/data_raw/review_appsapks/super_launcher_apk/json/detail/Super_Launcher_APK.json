@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:28:41",
+  "crawling_time_epoch": 1705904921,
+  "path_data_raw": "data/data_raw/review_appsapks/super_launcher_apk/json/detail/Super_Launcher_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/super_launcher_apk/json/detail/Super_Launcher_APK.json",
+  "reviews_name": "Super Launcher APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Super Launcher",
+    "Package": "com.ovidos.android.kitkat.launcher3",
+    "Version": "8.0",
+    "Size": "7.12 MB",
+    "Developed_By": "ismail Akkulak",
+    "descriptions": "Super Launcher is custom Android launcher with pixel features; redesigned to maintain the best launcher features of stock Android launcher. And it also provides customizable the latest Android launcher features and also keeps older Android launcher features.\nSuper Launcher features:\n• Android™ Pie 9.0 Launcher theme options: Dynamic Light, Dynamic Dark, Light, Dark.\n• Android™ Oreo 8.0 Adaptive icon support for all Android versions.\n• Enhanced Icon themes: Build-in round icon theme, square, squircle, teardrop, cylinder.\n• Enhanced Icon shapes & Icon layouts & Icon packs: all third-party launcher icon packs.\n• Dynamic Clock & Calendar app icons.\n• Notification Dots on app icons on launcher screens.\n• Search Bar options: Pill Bar & Search Bar & At a Glance with dynamic colors from wallpaper.\n• Android™ App shortcut support for Android 7.1 and higher.\n• Pixel style app drawer with Vertical & Horizontal Paging.\n• \"OK Google\" Voice Detection for supported languages.\n• System Bar style options.\n• Google Now swiping as permitted for third party launchers.\n• Hide Apps in App Drawer.\n• Lock desktop icons and layouts.\n• Customizable Launcher grid size.\n• Icon size options.\n• Fixed/Float Wallpaper.\n• Clean transparent design and smooth animations with Super Launcher.\nAll Prime features unlocked and No Ads for\nAndroid Marshmallow & Nougat\ndevices. (Prime promotion for Android 6.0 – 7.0 – 7.1 devices)\nFor Android 8.0 Oreo and higher devices, there is trial usage. After trial time expired, Super Launcher gets and shows ads. To remove ads, you can buy Super Launcher Prime.\n✔ Get and try Super Launcher with Android™ launcher style pixel experience!\n– Android is a registered trademark of Google, Inc.\nWhat’s New\n— Super Launcher v8.0 —\n✔ This version has been ready for Pie."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Best Football Android Games",
+    "Dream League Soccer",
+    "Dream League Soccer APK"
+  ],
+  "crawling_time": "2024-01-22 13:37:46",
+  "crawling_time_epoch": 1705905466,
+  "path_data_raw": "data/data_raw/review_appsapks/dream_league_soccer_2019_–_best_football_android_games_apk/json/KAMARA_LAMIN_S.json",
+  "path_data_clean": "data/data_clean/review_appsapks/dream_league_soccer_2019_–_best_football_android_games_apk/json/KAMARA_LAMIN_S.json",
+  "reviews_name": "Dream League Soccer 2019 – Best Football Android Games APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 3,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Dream League Soccer 2019",
+    "Package": "com.firsttouchgames.dls3",
+    "Version": "6.12",
+    "Size": "365.84 MB",
+    "Developed_By": "First Touch Games Ltd.",
+    "descriptions": "Get ready for a new season of top-quality action – Dream League Soccer 2019 is here! Soccer as we know it has changed, and this is YOUR chance to build THE best team on the planet. Recruit real FIFPro™ licensed superstars, build your own stadium, and take on the World with Dream League Online as you march towards glory, on your road to Soccer Stardom! Download Dream League Soccer 2019 for FREE now!\n*****************************************\nMANAGE YOUR DREAM TEAM\nSign top superstar players such as Gareth Bale to create your very own Dream Team! Choose your formation, perfect your style and take on any team who stands in your way as you rise through 6 Leagues to top the prestigious Elite Division. Have you got what it takes?\nREALISTIC NEW GAMEPLAY\nBe prepared for smart, tactical AI to form a challenging and addictive experience. With all new visuals, realistic animations and 60fps dynamic gameplay (compatible devices only), Dream League Soccer 2019 is the perfect Soccer package which captures the true essence of the beautiful game.\nCOMPETE FOR GLORY\nDream League Online puts your Dream Team against the very best in the world. Work your way through the ranks to prove your team is the greatest! Brand-new regular events pit your team against the best in an array of different tournament formats. Claim victory to win unique prizes and medals.\nFEATURES\n• FIFPro™ licensed players brings the most authentic Dream League Soccer experience to your hands!\n• Freedom to create, customize and control your very own Dream Team!\n• 6 Divisions to work your way through, and over 7 Cup competitions!\n• Take part in regular live events to win prizes and glory!\n• Build your very own stadium to showcase your superstars!\n• Develop your players with more accuracy and intent\n• Season objectives to keep you engaged and coming back!\n• Google Play achievements & leaderboards to see who ranks on top!\n• Customise and import your very own kits & logos!\n• Sync progress between devices with Google Play Cloud!\n• Exclusive soundtrack provided by The Luka State, Sunset Sons, Beth Thornton, Jack Wins, Vistas & Only The Poets!\n*****************************************\nIMPORTANT\n* This game is free to play, but additional content and in-game items may be purchased for real money.\n* This app uses Wi-fi or mobile data (if available) to download game content and advertising. You can disable mobile data usage on this game from within Settings/Mobile Data.\n* This app contains third party advertising. Unrequested advertising is disabled if you purchase in game currency from the shop.\n*****************************************\nVISIT US: www.ftgames.com\nLIKE US: facebook.com/dreamleaguesoccer\nFOLLOW US: twitter.com/firsttouchgames\nWATCH US: youtube.com/firsttouchgames\nWhat’s New\nVersion 6.12\n* Bug Fixes\nThanks everyone for your support, please keep the reviews coming!"
+  },
+  "detail_reviews": {
+    "username_reviews": "KAMARA LAMIN S",
+    "image_reviews": null,
+    "created_time": "2019-07-12 02:44:40",
+    "created_time_epoch": 1562899480,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "It’s really nice app",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-07-12 02:44:40",
+    "date_of_experience_epoch": 1562899480
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Lockers"
+  ],
+  "crawling_time": "2024-01-22 13:24:56",
+  "crawling_time_epoch": 1705904696,
+  "path_data_raw": "data/data_raw/review_appsapks/app_hider_–_hide_apps_in_hidden_parallel_space_apk/json/Solomon.json",
+  "path_data_clean": "data/data_clean/review_appsapks/app_hider_–_hide_apps_in_hidden_parallel_space_apk/json/Solomon.json",
+  "reviews_name": "App Hider – Hide apps in hidden parallel space APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "App Hider – Hide apps in hidden parallel space",
+    "Package": "com.hidespps.apphider",
+    "Version": "1.2.45",
+    "Size": "6.38 MB",
+    "Developed_By": "Hide Apps studio – private app",
+    "descriptions": "Hide Apps is a hide-apps application for hiding app icon from screen without root.\n◆ This hidden program is based on a parallel space behind the fake calculator.\n◆ Clone dual whatsapp messengers and hide the cloned one.\n◆ Hidden space for second accounts of whatsapp, facebook, messenger, instagram, etc…\nYou can keep double whatsapp on your phone, or uninstall the system whatsapp to hide completely.\nImportant tips:\n◆ Hidden applications are hidden in the calculator, they are cloned applications. Because, since Android 6.0, no one can hide the icon, you can only hide the application by cloning.\n◆ If you want to completely hide, please uninstall the system apps have been cloned and use the cloned apps only in Hide Apps.\nA whole new way to hide icon from screen without root:\n◆ Clone application for whatsapp, facebook, messenger or instagram from the phone to the hidden space;\n◆ Run the hidden application and make sure they work.\n◆ Method 1: After cloning, uninstall the system one to be completely hidden.\n◆ Method 2: Keep 2 accounts coexisting. For example, keep 2 WhatsApp at the same time, the hidden one is used to log in to the privacy account.\n◆ Fake calculator for password lock.\nSome features:\n◆ Hidden space for hiding cloned apps;\n◆ Clone apps from the phone;\n◆ Hidden from the most recent task view;\n◆ Fake calculator interface and lock, fake calculator icon;\n◆ Hidden apps list to help uninstall system apps;\n◆ Multiple accounts for multiple channels;\nPrivacy Policy:\n◆ Some applications need to apply for permission to keep the app running.\n◆ Hidden App Space will never collect your personal information;\n◆ Be sure to remember the password as it is not modifiable\nContact us:\n·E-mail: [email protected]\nWhat’s New\n· Hide apps by cloning;\n· New App Hider."
+  },
+  "detail_reviews": {
+    "username_reviews": "Solomon",
+    "image_reviews": null,
+    "created_time": "2020-04-12 05:10:14",
+    "created_time_epoch": 1586668214,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Cool app",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-04-12 05:10:14",
+    "date_of_experience_epoch": 1586668214
+  }
+}

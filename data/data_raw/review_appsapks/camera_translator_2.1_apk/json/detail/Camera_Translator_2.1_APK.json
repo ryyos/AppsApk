@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.image.translate.cameratranslator"
+  ],
+  "crawling_time": "2024-01-22 13:22:49",
+  "crawling_time_epoch": 1705904569,
+  "path_data_raw": "data/data_raw/review_appsapks/camera_translator_2.1_apk/json/detail/Camera_Translator_2.1_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/camera_translator_2.1_apk/json/detail/Camera_Translator_2.1_APK.json",
+  "reviews_name": "Camera Translator 2.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.image.translate.cameratranslator",
+    "Version": "2.1",
+    "Size": "4.69 MB",
+    "Developed_By": "App World Studio",
+    "descriptions": "The Camera Translator app let you translate text , text from image in allmost all available languages in one click.\nCamera Translator app has smart OCR feature which enable you to translate any text direct using camera without need of writing it.\nThis App uses latest Algorithms for text detaction means, Camera Translator can identify text of almost every languages.This app Also supports difficult to indentify languages like Chinese,Korean,Japanese etc.\nYou can also translate the text via writing it in translator.This app Indentifies language automatically means you don't have to specify the languge while translating from images or text.\nYou can also bookmark your favorite word directly from translator to use it later.\nPhoto translator app also supports Voice recignization means you can enter text in more than 50+ language via just speaking. You don't have to type the text.\nIn this Image Translator App you can also know how the pronounce the translated word in just one click on speak button.\nCamerea Translator app also save the history of your translations so that you can get it later whenever the need.\nFeatures:\n– Translate Direct Using Camera\n– Can Translate from Image using Gallery\n– Voice Input\n– Prounciation of the Translated Word\n– Support more than 50+ Languages\n– Support Non Latin based languages like Chinese,Korean,Japanese etc.\n– Fast Translation in One click\n– Bookmark\n– Translation History"
+  }
+}

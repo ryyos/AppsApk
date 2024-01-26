@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:26:25",
+  "crawling_time_epoch": 1705904785,
+  "path_data_raw": "data/data_raw/review_appsapks/privacy_messenger_–_private_sms_messages,_call_app_apk/json/Endeg_Andargie.json",
+  "path_data_clean": "data/data_clean/review_appsapks/privacy_messenger_–_private_sms_messages,_call_app_apk/json/Endeg_Andargie.json",
+  "reviews_name": "Privacy Messenger – Private SMS messages, Call app APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Privacy Messenger – Private SMS messages, Call app",
+    "Package": "com.melonsapp.privacymessenger",
+    "Version": "5.7.8",
+    "Size": "25.99 MB",
+    "Developed_By": "Melons Messenger Inc.",
+    "descriptions": "One of the best all-in-one🔒 SECURE & PRIVATE messenger app to replace stock messages! . All new SMS/MMS will be saved in Privacy Messenger locally. Therefore, with this free messaging app, no need to worry about snooping anymore!\nPrivacy Messenger – Send text messages safely with private box, SMS blocker, even SMS backup & restore and schedule SMS! You can also register with your phone to unlock free online text.\n===== Key Features of Privacy Messenger ====\n🔒- SECURE MESSAGES-🔓\nAll messages are encrypted for secure purpose\nNo one could take snapshot for your messages\n📱- Default PHONE HANDLER- 📱\nEmbedded dialpad that directly make a phone call with dual-sim support\nWell designed calling and in call screen\nClear call logs for your private contacts after each phone call\n🔐-PRIVATE BOX-⛔\nEncrypt messages with private box and you can highly customize notification contents for private messages\nHide private box icon to protect privacy from being snooped\n😂-FUNNY EMOJI MESSAGE-😘\nFast text 3000+ Lenny face, emoji & emoticons from messages directly\nGreat display of Lenny face, emoji & emoticons in text message\n🆓-FREE ONLINE MESSAGES-🆓\nOnce registered, communicate instantly with your friends without any SMS / MMS fees\nCreate groups so that you can chat in real time with all your friends at once\nThe server never has access to any of your communication and never stores any of your data, since your privacy is important to us.\n🎇-Call flash-🌄\nCall Screen for incoming calls with call flash. Beautiful, stylish caller screen display in caller screen themes\nSet your own call flash with local video or photos\n➿- DUAL SIM-➿\nFully supports dual sim devices for Android 5.1 and above for both SMS and MMS\n⏲️-DELAY SMS & SCHEDULE SMS-⏰\nDelayed SMS message give chance to cancel or correct the wrong message\nSchedule SMS messages will never let you miss any big moments\n🙅-SMS BLOCKER-🚫\nNo worry about spam messages to bother you with blocker\n🕺-FREE ANIMATED GIF-🎬\nShare thousands of trending hot GIFs MMS via MMS\n⌚-ANDROID WEAR COMPATIBLE-⌚\nSMS Messages works perfectly on Android Wear\n💾-SMS BACKUP & RESTORE-💾\nBackup SMS & MMS messages, messages never get lost\nRestore your backup messages whenever\n💡-MORE FEATURES-🌡️\nSend picture, audio, video MMS messages\nLock your messages app with Patterns\nClipboard for multiple fast copy and paste text messages\nQuick search to find exactly what you are looking for\n📧-Contact Us-📬\nPlease feel free to contact us with email [email protected]. We would love to hear from you. If you have enjoyed any design or features of Privacy Messenger, please rate us ★★★★★ on play store.\nThank you for your download and we will keep working on \"Privacy Messenger\" to be better and better for your texting needs.💪💪💪💪\nWhat’s New\nFix bugs"
+  },
+  "detail_reviews": {
+    "username_reviews": "Endeg Andargie",
+    "image_reviews": null,
+    "created_time": "2020-10-14 06:01:02",
+    "created_time_epoch": 1602655262,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-10-14 06:01:02",
+    "date_of_experience_epoch": 1602655262
+  }
+}

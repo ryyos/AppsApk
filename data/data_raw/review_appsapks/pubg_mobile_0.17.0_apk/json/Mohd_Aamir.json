@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.tencent.ig"
+  ],
+  "crawling_time": "2024-01-22 13:21:35",
+  "crawling_time_epoch": 1705904495,
+  "path_data_raw": "data/data_raw/review_appsapks/pubg_mobile_0.17.0_apk/json/Mohd_Aamir.json",
+  "path_data_clean": "data/data_clean/review_appsapks/pubg_mobile_0.17.0_apk/json/Mohd_Aamir.json",
+  "reviews_name": "PUBG MOBILE 0.17.0 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 3,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.tencent.ig",
+    "Version": "0.17.0",
+    "Size": "47.77 MB",
+    "Developed_By": "Tencent Games",
+    "descriptions": "The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile. Play free anywhere, anytime. PUBG MOBILE delivers the most intense free-to-play multiplayer action on mobile. Drop in, gear up, and compete. Survive epic 100-player classic battles, payload mode and fast-paced 4v4 team deathmatch and zombie modes. Survival is key and the last one standing wins. When duty calls, fire at will!\n2018 Mobile Game of the Year – Golden Joystick Award\nBest game, fan favorite games, most competitive games – Google Play 2018 Awards\n\"Absolutely remarkable\" – IGN\n\"It's awesome.\" – Pocket Gamer\n\"Keeps players coming back\" – Vice\nFREE ON MOBILE – Powered by the Unreal Engine 4. Play console quality gaming on the go. Delivers jaw-dropping HD graphics and 3D sound. Featuring customizable mobile controls, training modes, and voice chat. Experience the most smooth control and realistic ballistics, weapon behavior on mobile.\nMASSIVE BATTLE MAPS – From Erangel to Miramar, Vikendi to Sanhok, compete on these enormous and detailed battlegrounds varying in size, terrain, day/night cycles and dynamic weather – from urban city spaces to frozen tundra, to dense jungles, master each battleground's secrets to create your own strategic approach to win.\nDEPTH AND VARIETY – From the 100-player classic mode, the exhilarating payload mode to the lightning-fast Arcade and 4v4 Team Deathmatch modes, as well as the intense Zombie modes. There is something for everyone! There is something for everyone. Play Solo, Duo, and in 4-player Squads. Fire your weapon to your heart's content! Be a lone wolf soldier or play with a Clan and answer the duty calls when help is needed! Offers FPS (First-Person Shooter) and TPS (Third-Person Shooter) play, lots of vehicles for all the different terrains in the game and an arsenal of realistic weapons. Find your perfect ride and pieces to cruise towards the final circle!\nALWAYS GROWING – Daily events & challenges, and monthly updates delivering new gameplay features and modes that keep PUBG MOBILE always growing and expanding. Our powerful and serious anti-cheating mechanisms ensure a fair and balanced gaming environment where everyone plays by the rules.\n* Requires a stable internet connection.\n* PUBG MOBILE recommended system requirements: Android 5.1.1 or above and at least 2 GB memory. For other devices can try out PUBG MOBILE LITE\nFollow us:\nOfficial site: http://www.pubgmobile.com\nFacebook: http://www.facebook.com/PUBGMOBILE\nTwitter: https://twitter.com/PUBGMobile\nReddit: https://www.reddit.com/r/PUBGMobile/\nContact our customer service at [email protected] if you have any questions.\nPlease see the PUBG Mobile PRIVACY POLICY and USER AGREEMENT\nPRIVACY POLICY: http://pubgmobile.proximabeta.com/privacy.html\nTENCENT GAMES USER AGREEMENT: https://www.pubgmobile.com/terms.html"
+  },
+  "detail_reviews": {
+    "username_reviews": "Mohd Aamir",
+    "image_reviews": null,
+    "created_time": "2021-02-22 05:44:28",
+    "created_time_epoch": 1613972668,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Note games Ye games Garments dubaara Delete ho gaya hai….",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-02-22 05:44:28",
+    "date_of_experience_epoch": 1613972668
+  }
+}

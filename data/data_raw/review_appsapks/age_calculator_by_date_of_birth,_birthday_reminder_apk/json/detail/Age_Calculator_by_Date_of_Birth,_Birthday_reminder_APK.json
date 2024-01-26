@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:29:32",
+  "crawling_time_epoch": 1705904972,
+  "path_data_raw": "data/data_raw/review_appsapks/age_calculator_by_date_of_birth,_birthday_reminder_apk/json/detail/Age_Calculator_by_Date_of_Birth,_Birthday_reminder_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/age_calculator_by_date_of_birth,_birthday_reminder_apk/json/detail/Age_Calculator_by_Date_of_Birth,_Birthday_reminder_APK.json",
+  "reviews_name": "Age Calculator by Date of Birth, Birthday reminder APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.ng_labs.agecalculator",
+    "Version": "3.3",
+    "Size": "1.9M",
+    "Developed_By": "ng-labs",
+    "descriptions": "The application is a free and light-weight, fast and easy to use app to calculate your chronological age and find total years, months, days, weeks, hours, minutes and seconds between two dates, It provides helpful information about date and time guide for more than 1000 years, and also it will give you expert knowledge and point you in the right direction to plan future.\nThe application provides a very simple user interface that easily calculate your age and birthday, and also you can add as many family and friends birthdays and important days as you needed, which is useful for keep tracking and also it is useful to find date difference between two dates like wedding anniversary, work anniversaries, events, etc…\nKey Features of this Application\n✓ This app supports multiple date formats and also supports 24 hours and 12 hours time formats\n✓ We supports earlier than 1900 but Google calendar doesn’t, if you want earlier than 1900 type year manually after choosing date.\n✓ Share your calculation results with family and friends\n✓ Calculate your accurate age and also find upcoming 10 weekdays of your birthday\n✓ This is a great tool for anyone who is interested in date calculations.\n✓ Shows how many months and days to go for your next birthday.\n✓ Perform everyday date arithmetic operations like addition/subtraction.\n✓ Find no of working and non-working days\n✓ Add/subtract days/months/years from a date.\n✓ This application displays the current time zone of the device.\n✓ To check a given year is leap year or not.\nDon’t keep this app a secret! We grow with your support, keep sharing 🙂\nPlease don’t leave negative feedback! Instead, please contact us @ [email protected] and we’ll do our best to solve your issues and appreciate all the support that has made this application more successful! Thank you!"
+  }
+}

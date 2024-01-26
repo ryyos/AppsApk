@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:37:18",
+  "crawling_time_epoch": 1705905438,
+  "path_data_raw": "data/data_raw/review_appsapks/pes_2019_pro_evolution_soccer_apk/json/detail/PES_2019_PRO_EVOLUTION_SOCCER_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/pes_2019_pro_evolution_soccer_apk/json/detail/PES_2019_PRO_EVOLUTION_SOCCER_APK.json",
+  "reviews_name": "PES 2019 PRO EVOLUTION SOCCER APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 11,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "PES 2019 PRO EVOLUTION SOCCER",
+    "Package": "jp.konami.pesam",
+    "Version": "3.3.1",
+    "Size": "1.48 GB",
+    "Developed_By": "KONAMI",
+    "descriptions": "*Downloading under Wi-Fi is strongly recommended.\n■Experience the award winning gameplay and match excitement from console on mobile!\nPES 2019's latest console match engine has been ported seamlessly to mobile devices, meaning that the power of football is finally something you can hold in the palm of your hand.\nFrom the 8,000+ player animations, to the team characteristic playstyles, and even the thrill of taking on your opponent–everything is the same!\nThe enhanced ball physics create an unpredictable and enjoyable match experience of unparalleled intensity.\nYou'll also find that player personalities are more distinct than ever before, thanks to the addition of new skills, playstyles, and goal celebrations.\nWhat's more, the implementation of UNREAL ENGINE 4 will allow you to live and breathe every magical moment of the beautiful game with an unprecedented level of visual fidelity and smoother player animations.\n■Compete with friends and battle against the world with PES 2019!\nPlay against friends and users all over the world in a variety of ways with PES 2019!\nBattle it out face to face against a friend in \"Local Match\" mode for an intense 1v1 experience, or gather a group of friends to create your own tournament with \"Local League\" mode.\nNever let distance get in the way of a good friendly rivalry ever again, as \"Friend Match\" mode allows you to quickly and easily jump into a match with any user on your friend list.\nOnce you feel ready to take on the world, you'll be able to challenge all users with \"Online Match\" mode. Get your team prepared for the global challenge by taking part in weekly events where you'll be able to win different types of rewards, allowing you to train your teams and vie for world dominance.\n■New League Licenses added\nOfficial licenses of 12 new leagues from around the world have been implemented in-game.\nFrom Europe, the Russian league makes its debut as a PES-exclusive, as well as leagues from Belgium, Scotland, Denmark, Sweden, Portugal, and Turkey. New South American leagues have also been implemented, with Argentinian and Chilean leagues added.\nFinally, the long-awaited J.LEAGUE from Japan has been added, alongside Thai and Chinese leagues for Asia.\n■New Legend Players\nExclusive Legend players like Beckham, Zico, Romario, and world renowned legends like Cruyff, Nedved, Gullit, Maldini, and Kahn will continue to appear in PES 2019.\nNew Legends will also be added throughout the season, allowing you to play with the best players, past and present!\n■Limited-edition \"Featured Players\" coming to PES 2019\nPlayers that performed well in the previous weekend's matches will be available as \"Featured Players\".\n\"Featured Players\" will have boosted stats based on their match performance, with some even receiving new skills.\nAdditionally, special versions of players from the sport's most iconic teams will be made available throughout the season, including partner clubs like FC Barcelona and Liverpool FC.\nBe sure to log in every week and sign the latest Featured Players to truly take your squad to the next level.\n■New Live Update Feature\nPES 2019 will always be aligned with the real world thanks to the new Live Update feature. Info on the latest transfers and individual player performance from real-life matches will be reflected in-game on a weekly basis.\nKeep up to date with the fast moving world of soccer to ensure that you're a step ahead of the competition!\n[System Requirements]This app is an online game. Please enjoy the game with stable internet connection. [Title Display]If you select Japanese in the language settings of the game application, “Winning Eleven 2019” will be displayed. If you select a language other than Japanese, “PES2019 PRO EVOLUTION SOCCER” will be displayed.\nWhat’s New\nA number of issues were fixed.\n* Check out the News section in-game for more information."
+  }
+}

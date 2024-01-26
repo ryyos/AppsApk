@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Free Gift Cards & Xbox Codes",
+    "Gift Cards for Xbox",
+    "Online Gift Cards For Android"
+  ],
+  "crawling_time": "2024-01-22 13:33:35",
+  "crawling_time_epoch": 1705905215,
+  "path_data_raw": "data/data_raw/review_appsapks/gift_cards_for_xbox__promo_codes_for_android_apk/json/detail/Gift_Cards_for_Xbox__Promo_Codes_for_Android_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/gift_cards_for_xbox__promo_codes_for_android_apk/json/detail/Gift_Cards_for_Xbox__Promo_Codes_for_Android_APK.json",
+  "reviews_name": "Gift Cards for Xbox & Promo Codes for Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

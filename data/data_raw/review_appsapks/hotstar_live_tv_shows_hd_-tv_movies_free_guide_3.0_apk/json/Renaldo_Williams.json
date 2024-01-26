@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.vooguide.ffmvo"
+  ],
+  "crawling_time": "2024-01-22 13:20:42",
+  "crawling_time_epoch": 1705904442,
+  "path_data_raw": "data/data_raw/review_appsapks/hotstar_live_tv_shows_hd_-tv_movies_free_guide_3.0_apk/json/Renaldo_Williams.json",
+  "path_data_clean": "data/data_clean/review_appsapks/hotstar_live_tv_shows_hd_-tv_movies_free_guide_3.0_apk/json/Renaldo_Williams.json",
+  "reviews_name": "Hotstar Live TV Shows HD -TV Movies Free Guide 3.0 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.vooguide.ffmvo",
+    "Version": "3.0",
+    "Size": "3.72 MB",
+    "Developed_By": "samdro",
+    "descriptions": "Hotstar Live TV Shows HD -TV Movies Free Guide 2020.\nFollow this guide to get: Dance shows, movies, drama serials, live transmissions, indian movies, american movies, singing shows, radio channels, and more shows you love Tips.\nThe Guide for \"Hotstar TV Movies and Shows & Tips and Free HD Hotstar New 2020 \" contains smart and useful media for you all to be success in using the application.\nThe guide supports all smart devices. Register the device then install this application for the best experiences.\nFind much info in Hotstar TV Movies and Shows Tips. As hotstar tv has huge number of great features that can be useful whenever we enjoy this nice hotstar tv\nGuide For Watch the latest TV serials, movies, LIVE sports & stream LIVE Republic TV News Channel on your Android device for free. Tips Hotstar FREE HD TV is a live streaming app that lets you watch your favorite shows, jio movies, sports & live republic TV news on-the-go. Watch full episodes of your favorite shows; Hindi, English, Tamil, Kannada, Malayalam, Marathi, Telugu and Bengali in addition to live cricket, republic tv, other sports. TV gives live scores and the latest updating free streaming of videos and video highlights.\nTips here is Watch your favorite shows from following TV channels :\nit also include al sports channels list and details Guide\n• Star Plus\n• Life OK\n• Channel V\n• MAA TV\n• Star Jalsha\n• Star Pravah\n• Star Utsav\n• Star Vijay\n• Star World\n• Star Sports\nNote:\nThis is not an official application,.This is just a guide and not the official app and we have no relation with the official app."
+  },
+  "detail_reviews": {
+    "username_reviews": "Renaldo Williams",
+    "image_reviews": null,
+    "created_time": "2020-12-19 04:07:17",
+    "created_time_epoch": 1608350837,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "This is a bullsh*t app!!!",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-19 04:07:17",
+    "date_of_experience_epoch": 1608350837
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:26:17",
+  "crawling_time_epoch": 1705904777,
+  "path_data_raw": "data/data_raw/review_appsapks/microsoft_office_word,_excel,_powerpoint__more_apk/json/Badassa.json",
+  "path_data_clean": "data/data_clean/review_appsapks/microsoft_office_word,_excel,_powerpoint__more_apk/json/Badassa.json",
+  "reviews_name": "Microsoft Office: Word, Excel, PowerPoint & More APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Microsoft Office: Word, Excel, PowerPoint & More",
+    "Package": "com.microsoft.office.officehubrow",
+    "Version": "16.0.12430.20254",
+    "Size": "92.35 MB",
+    "Developed_By": "Microsoft Corporation",
+    "descriptions": "The Office app combines the Word, Excel, and PowerPoint apps you know and rely on, with new capabilities that harness the unique strengths of a phone to create a simpler, yet more powerful Office experience on the go.\nWhether using it for personal or professional reasons, the Office app is designed to be your go-to app for getting work done on a mobile device.\nKey Features\nWord, Excel, and PowerPoint combined in one app:\n• The most widely used tools for working with documents, spreadsheets, and presentations, all from a single app.\n• Create, edit, and work together on Office documents with others in real-time.\n• Use templates to easily get started with your resume, budget, presentations, and other documents.\n• Easily store, access, and search for Word, Excel, PowerPoint files stored in your personal cloud storage, on your device, or across your organization (if using a work account).\nUniquely mobile ways that make document creation easier:\n• Snap a picture of a document and turn it into an editable Word file with the press of a button.\n• Transform a picture of a table into an Excel spreadsheet so you can work with the data.\n• Let PowerPoint help you design a presentation by simply selecting the pictures you want to use from your phone.\n• Create automatically enhanced digital images of whiteboards and documents with Office Lens features integrated into the app.\nQuickly perform common mobile tasks with in-built Actions:\n• Instantly create PDFs from photos or Word, Excel, and PowerPoint documents.\n• Easily transfer files between your phone and computer or share instantly with nearby mobile devices.\n• Sign PDFs using your finger.\n• Quickly jot down ideas and notes with Sticky Notes.\n• Scan QR codes to open links.\nAnyone can download the Office app for free and start using it right away. Access and save documents to the cloud by connecting with a Microsoft Account (for OneDrive or SharePoint) or by connecting to a third-party cloud storage provider. Logging in with a personal, work, or school Microsoft Account connected to an Office 365 subscription will unlock premium features within the app.\nRequirements:\nOS version: Last 4 major versions of Android running an ARM-based or Intel x86 processor\n1 GB RAM or above\nThis app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.\nPlease refer to Microsoft's EULA for Terms of Service for Office on Android. By installing the app, you agree to these terms and conditions: https://go.microsoft.com/fwlink/?linkid=519111\nWhat’s New\nThank you for using Office.\nWe regularly release updates to the app, which include great new features, as well as improvements for speed and reliability."
+  },
+  "detail_reviews": {
+    "username_reviews": "Badassa",
+    "image_reviews": null,
+    "created_time": "2021-07-12 10:21:26",
+    "created_time_epoch": 1626085286,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "nice product",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-07-12 10:21:26",
+    "date_of_experience_epoch": 1626085286
+  }
+}

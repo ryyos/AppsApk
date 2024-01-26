@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Antivirus"
+  ],
+  "crawling_time": "2024-01-22 13:30:34",
+  "crawling_time_epoch": 1705905034,
+  "path_data_raw": "data/data_raw/review_appsapks/clean_your_phone_–_booster__cleaner__antivirus_apk/json/pramila.json",
+  "path_data_clean": "data/data_clean/review_appsapks/clean_your_phone_–_booster__cleaner__antivirus_apk/json/pramila.json",
+  "reviews_name": "Clean your Phone – Booster & Cleaner & Antivirus APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Clean your Phone – Booster & Cleaner & Antivirus",
+    "Package": "com.kwak.clean",
+    "Version": "1.3.4.0",
+    "Size": "9.26 MB",
+    "Developed_By": "Clean Your Phone",
+    "descriptions": "Clean Your Phone – Booster & Cleaner & Antivirus is an app with space cleaner, phone booster and antivirus for Android. It’s a simple but smart tool with refreshing interface, full-featured but easy to use. Moreover, it’s very light, occupies smaller phone memory.\nIt can solve your problems on your Android device, such as, “Not enough storage to save pictures or videos”, “Annoying crash”, “Overloaded RAM”, “Overheat CPU”, “Battery use out too fast”, etc.\nLet's see his features in detail!\n★ Junk Clean\nSimply remove junk like cache junk, residual junk and obsolete APK files which slow down your phone in a secure way, making your phone clean, fast and refreshed.\nWith our professional cleaner, you can easily cleaning cache data from social apps such as Facebook, Messenger, WhatsApp without worrying about deleting the wrong files and at the same time, let you get more space to save images, important message and anything you like.\n★ Phone Boost\nMemory cleaner and RAM booster will speed up your android phone and optimize device performance.\nIn addition, you can also turn on the feature「One Tap Boost」, speed up your phone directly on the desktop without opening the app.\n★ CPU Cooler\nIt will monitor CPU temperature and help you cool down the temperature for your Android device by killing apps overload in background.\n★ Battery Saver\nHibernate background apps to save power! Protect your battery and extend work time between charges!\n★ Antivirus\nVirus detector and cleanup. Keep your phone safe from viruses and malware. Remember to scan your phone regularly to stay safe!\nWhether you’re bothered by the slow running or heating of your phone and looking for a light, easy and safe tool to solve these problems, Clean Your Phone is the perfect choice!\nEnhance the functionality of the intelligent data\nWe will obtain the installed app(s) list to fully support functions such as Junk Clean, Phone Boost, CPU Cooler and Battery Saver, to enhance the junk files and ram junk recognition capability.\nPolicy: http://hfcdn.tech/privacy/cleanyourphone_privacy.html\nWhat’s New\n1.Optimized UI design, easier to use.\n2.Bug fixes and performance improvements."
+  },
+  "detail_reviews": {
+    "username_reviews": "pramila",
+    "image_reviews": null,
+    "created_time": "2020-04-18 21:39:17",
+    "created_time_epoch": 1587245957,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Good app",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-04-18 21:39:17",
+    "date_of_experience_epoch": 1587245957
+  }
+}

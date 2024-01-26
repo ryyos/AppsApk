@@ -1,0 +1,32 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Tools"
+  ],
+  "crawling_time": "2024-01-22 13:30:40",
+  "crawling_time_epoch": 1705905040,
+  "path_data_raw": "data/data_raw/review_appsapks/caller_name_reader_shouter_apk/json/detail/Caller_Name_Reader_Shouter_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/caller_name_reader_shouter_apk/json/detail/Caller_Name_Reader_Shouter_APK.json",
+  "reviews_name": "Caller Name Reader: Shouter APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Caller  Reader: Shouter",
+    "Package": "com.bhkapps.shouter",
+    "Version": "4.00",
+    "Size": "1.73 MB",
+    "Developed_By": "BHK",
+    "descriptions": "Voice notification does pretty much what the app name says it does. It reads out your notifications for you so you don't have to read them yourself and it comes with some more features like caller name announcement, message reading, battery state announcement, location proximity announcement. It comes with lot of customisation options.\nWhat the app can do :-\n1) Notification reading. (jellybean(4.3) and above)\n2) Battery level announcement while charging.\n3) Location proximity announcer\n4) Battery and Charging State announcement.\n5) Caller name announcement while the phone is ringing.\n6) Missed calls announcement if you get a missed call.\n7) Text messages reading.\n8) Time announcement at user defined intervals. (Fully available only in pro version)\n9) Voice reminder\nUse cases :-\n1) During cycling or bike rides.\n2) For truckers and long distance drivers.\n2) Read out game's notifications.\n3) Caller name and message announcement will let you know if the call or message is important even if you do not have the device in hand\n4) Battery level announcement while charging will let you know when to pick up your phone.\nFollowing customisation option are available:-\n1) Select apps whose notification you want to read.\n2) Option to shout only the app name (notification sending app) for each app.\n3) Customize prefixes.\n4) Option to disable message reading for unknown numbers.\n5) Option to read message content.\n6) Option to enable announcement only if headphone is connected.\n7) Option to enable announcement only if screen is off.\n8) Option to repeat the announcement.\n9) Master control for all shout. (WIDGET support)\n10) Silent hours – Hours during which shouter doesn't announce.\n11) Read Unknown numbers for call and message announcement.\n12) Shake to mute.\n13) Screen on/off to mute.\n14) Announcement history.\nJoin our Facebook page to be part of development. ( https://www.facebook.com/notificationreader ). Your feature request will be put in the \"Coming soon\" section.\nCOMING SOON :-\n1) Blacklist contacts\nPlease mail me or post in Facebook page with your custom feature request and feedback. I will try to implement it.\nHighly optimised so it won't slow down your device.\nplease give a 5 star rating and support.\nMail me for errors in translation.\nWhat’s New\nDue to recent changes in google's policy shouter is unable to access your sms or call information directly. Now Shouter uses data from Notification for detecting and announcing call and sms. So this permission has become important for call, sms, battery and Notification announcement"
+  }
+}

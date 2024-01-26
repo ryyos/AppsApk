@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "android quiz app",
+    "Best Quiz Apps for Android",
+    "Quiz App for android"
+  ],
+  "crawling_time": "2024-01-22 13:36:08",
+  "crawling_time_epoch": 1705905368,
+  "path_data_raw": "data/data_raw/review_appsapks/best_quiz_apps_for_android_all_information_here_apk/json/detail/Best_Quiz_Apps_for_Android_All_Information_Here_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/best_quiz_apps_for_android_all_information_here_apk/json/detail/Best_Quiz_Apps_for_Android_All_Information_Here_APK.json",
+  "reviews_name": "Best Quiz Apps for Android All Information Here APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

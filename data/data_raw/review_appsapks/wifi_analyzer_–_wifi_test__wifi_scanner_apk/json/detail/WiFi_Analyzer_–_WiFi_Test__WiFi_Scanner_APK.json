@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:32:20",
+  "crawling_time_epoch": 1705905140,
+  "path_data_raw": "data/data_raw/review_appsapks/wifi_analyzer_–_wifi_test__wifi_scanner_apk/json/detail/WiFi_Analyzer_–_WiFi_Test__WiFi_Scanner_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/wifi_analyzer_–_wifi_test__wifi_scanner_apk/json/detail/WiFi_Analyzer_–_WiFi_Test__WiFi_Scanner_APK.json",
+  "reviews_name": "WiFi Analyzer – WiFi Test & WiFi Scanner APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "WiFi Analyzer – WiFi Test & WiFi Scanner",
+    "Package": "com.wifianalyzer.networktools.wifitest",
+    "Version": "1.0.15",
+    "Size": "5.32 MB",
+    "Developed_By": "WiFi Extender – WiFi Analyzer & WiFi Speed Test",
+    "descriptions": "WiFi Analyzer – WiFi Test & WiFi Scanner is used to Analyze and Optimize WiFi Networks by test WiFi Signal, Scanning signal strength, Crowded signal and Channel rating.\nWiFi Analyzer – WiFi Test & WiFi Scanner shows WiFi channels around you.\nWiFi Analyzer – WiFi Test & WiFi Scanner can helps you to find a less crowded channel for your wireless router.\nWiFi Analyzer – WiFi Test & WiFi Scanner is powerful WiFi Protector to Detect Who is on my WiFi.\nWiFi Analyzer – WiFi Test & WiFi Scanner can help you Block strange devices to protect my WiFi Security.\nWiFi Analyzer – WiFi Test & WiFi Scanner can increase the network performance via analyzing and monitoring your WiFi network!\nWiFi Analyzer – WiFi Test & WiFi Scanner will provide useful information about WiFi signals around you witch supports 2.4Ghz and 5Ghz.\nWiFi Analyzer – WiFi Test & WiFi Scanner help you optimize your WiFi network by examining surrounding WiFi networks, measuring their signal strength as well as identifying crowded channels.\nWiFi Analyzer – WiFi Test & WiFi Scanner Features:\n– WiFi Channel Analyzer for Nearby APs.\n– WiFi Analyzer – WiFi Test & WiFi Scanner Supports 2.4GHz/5GHz.\n– WiFi Optimizer for WiFi Networks.\n– WiFi Analyzer – WiFi Test & WiFi Scanner provides you more information on WiFi channels.\n– WiFi Analyzer – WiFi Test & WiFi Scanner recommends the best channels.\n– WiFi Analyzer – WiFi Test & WiFi Scanner detects crowded channels.\n– WiFi Analyzer – WiFi Test & WiFi Scanner provides open Router Settings.\nWhat’s New\n– Add WiFi Analyzer\n– Add WiFi Signal Strength\n– Add WiFi Channels\n– Add Detecting who is on my WiFi\n– Add Protecting WiFi Security\n– More network tools"
+  }
+}

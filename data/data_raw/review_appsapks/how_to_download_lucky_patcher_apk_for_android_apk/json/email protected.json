@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Download Lucky Patcher APK",
+    "Install Lucky Patcher APK",
+    "Lucky Patcher",
+    "Lucky Patcher Android",
+    "Lucky Patcher APK"
+  ],
+  "crawling_time": "2024-01-22 13:37:10",
+  "crawling_time_epoch": 1705905430,
+  "path_data_raw": "data/data_raw/review_appsapks/how_to_download_lucky_patcher_apk_for_android_apk/json/email protected.json",
+  "path_data_clean": "data/data_clean/review_appsapks/how_to_download_lucky_patcher_apk_for_android_apk/json/email protected.json",
+  "reviews_name": "How to Download Lucky Patcher APK for Android? APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "[email protected]",
+    "image_reviews": null,
+    "created_time": "2019-11-18 10:42:06",
+    "created_time_epoch": 1574073726,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Where did I see this lucky patcher",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-11-18 10:42:06",
+    "date_of_experience_epoch": 1574073726
+  }
+}

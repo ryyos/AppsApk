@@ -1,0 +1,63 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:37:46",
+  "crawling_time_epoch": 1705905466,
+  "path_data_raw": "data/data_raw/review_appsapks/garena_free_fire_apk/json/Yadhu_krishna.json",
+  "path_data_clean": "data/data_clean/review_appsapks/garena_free_fire_apk/json/Yadhu_krishna.json",
+  "reviews_name": "Garena Free Fire APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 29,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Garena Free Fire",
+    "Package": "com.dts.freefireth",
+    "Version": "1.37.0",
+    "Size": "411.64 MB",
+    "Developed_By": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+    "descriptions": "Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all seeking survival. Players freely choose their starting point with their parachute, and aim to stay in the safe zone for as long as possible. Drive vehicles to explore the vast map, hide in trenches, or become invisible by proning under grass. Ambush, snipe, survive, there is only one goal: to survive and answer the call of duty.[Survival shooter in its original form] Search for weapons, stay in the play zone, loot your enemies and become the last man standing. Along the way, go for legendary airdrops while avoiding airstrikes to gain that little edge against other players.\n\n\n\n(adsbygoogle = window.adsbygoogle || []).push({});\n[10 minutes, 50 players, epic survival goodness awaits] Within 10 minutes, a new survivor will emerge. Will you go beyond the call of duty and be the one at the apex of all other players? [4-man squad, with in-game voice chat] Create squads of up to 4 players and establish communication with your squad at the very first moment. Answer the call of duty and lead your friends to victory and be the last team standing at the apex. [Realistic and smooth graphics] Easy to use controls and smooth graphics promises the best survival experience you will find on mobile to help you immortalize your name among the legends. [Contact us] Customer Service: https://goo.gl/8f5918\nWhat’s New\n1. New Character – Rafael\n2. New Rank Tier – Grandmaster\n3. RP calculation optimization.\n4. M79 is now an airdrop only item.\n5. Added Toxic Zone (Only in Bermuda – Casual)\n6. New summer-themed spawn island.\n7. New item – Gatling Gun\n8. New Item – Repair Kit\n9. Added Hot zone in Purgatory.\n10. New settings available for custom rooms.\n11. Weapon stats adjustment.\n12. Added new difficulty and bosses in Death Uprising.\n13. Auto pickup optimization.\n14. Removed CG-15 from casual and ranked."
+  },
+  "detail_reviews": {
+    "username_reviews": "Yadhu krishna",
+    "image_reviews": null,
+    "created_time": "2021-04-27 08:48:55",
+    "created_time_epoch": 1619513335,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 2,
+    "content_reviews": "I send iD but send 10000 diamond please me\n2251811809",
+    "reply_content_reviews": [
+      {
+        "username_reply_reviews": "Kartikl2112L",
+        "content_reviews": "Merko plz daimond dedo sb Mera majak update he"
+      },
+      {
+        "username_reply_reviews": "Purna Chandra harijan",
+        "content_reviews": "Free fire"
+      }
+    ],
+    "date_of_experience": "2021-04-27 08:48:55",
+    "date_of_experience_epoch": 1619513335
+  }
+}

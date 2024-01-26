@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.tikfans.www"
+  ],
+  "crawling_time": "2024-01-22 13:19:47",
+  "crawling_time_epoch": 1705904387,
+  "path_data_raw": "data/data_raw/review_appsapks/tikfans_free_tiktok_followers__likes__fans_1.1.0_apk/json/detail/TikFans_Free_TikTok_Followers__Likes__Fans_1.1.0_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/tikfans_free_tiktok_followers__likes__fans_1.1.0_apk/json/detail/TikFans_Free_TikTok_Followers__Likes__Fans_1.1.0_APK.json",
+  "reviews_name": "TikFans: Free TikTok Followers & Likes & Fans 1.1.0 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 4,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.tikfans.www",
+    "Version": "1.1.0",
+    "Size": "10.05 MB",
+    "Developed_By": "Toushih Studio",
+    "descriptions": "*Gain and Boost more Fans & Followers*\nTikFans is a must-have app for TikTokers to grow your TikTok account and followers easier and faster.\nWith TikFans, you can easily GET…\n-more exposure\n-new followers/fans\n-more likes\n-connections with other TikTokers in a fun way!\n*Become famous TikStar*\n*Get free followers and likes without effort!**\nHow to start with TikFans…\n-Input your TikTok username ONLY.\n(We never ask for your passwords or other private data. 100% Safe.)\n-Follow other profiles to win rewards and then redeem rewards to get more followers.\n(You don't need any manual verification like other services)\nOur App\n-provides Real and Active followers\n-100% Safe\n-easy to use\n-beautiful design and clean user-interface"
+  }
+}

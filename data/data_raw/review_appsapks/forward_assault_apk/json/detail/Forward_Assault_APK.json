@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:36:54",
+  "crawling_time_epoch": 1705905414,
+  "path_data_raw": "data/data_raw/review_appsapks/forward_assault_apk/json/detail/Forward_Assault_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/forward_assault_apk/json/detail/Forward_Assault_APK.json",
+  "reviews_name": "Forward Assault APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Forward Assault",
+    "Package": "com.blayzegames.newfps",
+    "Version": "1.2003",
+    "Size": "306.32 MB",
+    "Developed_By": "Blayze Games, L.L.C.",
+    "descriptions": "Best online and multiplayer shooter tactics in FPS game. first-person shooter with tactical gameplay, become the leader of a swat team, and get ready take down killers, terrorist and international criminals. High-quality graphics, and fast-paced shooting action game play.\nSeveral guns, shotguns, snipers, rifles, assault rifles and more powerful weapons you can choose from. Choose your side you can be with the good cops and combat terroirs attacks or international criminal actions from happening, or you can become the criminal try to make the world burn. Fight as the counter terrorist S.A.W.T CT team or the terrorist mafia leader and plant bomb.\nPlay on strategic & tactical maps and bring your team to victory.\nYou can also play a Ranked mode in this new FPS gun game, where you must climb the ladder and become the top player in the world.\nPVP Shooter in a Modern Survival War\nFPS survival game, intensive action, incredible simulator that will take you right to the action. Run, hide, distract, aim, shoot, and kill. You better have a good plan to make your army win. Play offensive, defensive or counterattack, use tactical shooting strategies to assure your victory, but be careful, this is not as easy as it seems, you should have an elaborate action plan.\nMain Online FPS Features\n• Role Playing S.W.A.T. Cops Team or Terroirs Army\n• Several Weapons – Gun, Rifle, Shotgun, Knife, Assault Rifle, Sniper, and more.\n• Fast Action Tactical Shooter Game\n• Incredible Graphics & Sounds\n• Real Physics & Effects\n• Online Multiplayer FPS\n• Best PVP Shooter Simulator\nAre you ready to shoot, run, hide, and kill?\nDownload it Now… if you dare !!\nWhat’s New\n– Updated the way Special Offers work\n– Fixed the Silver Crate Issue\n– Added Tap Research ad implementation\n– Other Various bug fixes"
+  }
+}

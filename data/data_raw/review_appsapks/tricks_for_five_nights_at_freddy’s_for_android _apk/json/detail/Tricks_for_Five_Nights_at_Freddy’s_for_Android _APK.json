@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Five Nights at Freddy's Game Tricks",
+    "Tricks for Five Nights at Freddy's",
+    "Tricks for Five Nights at Freddy's App"
+  ],
+  "crawling_time": "2024-01-22 13:34:31",
+  "crawling_time_epoch": 1705905271,
+  "path_data_raw": "data/data_raw/review_appsapks/tricks_for_five_nights_at_freddy’s_for_android _apk/json/detail/Tricks_for_Five_Nights_at_Freddy’s_for_Android _APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/tricks_for_five_nights_at_freddy’s_for_android _apk/json/detail/Tricks_for_Five_Nights_at_Freddy’s_for_Android _APK.json",
+  "reviews_name": "Tricks for Five Nights at Freddy’s for Android  APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 5,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

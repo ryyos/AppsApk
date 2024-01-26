@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Download GTA Amritsar",
+    "GTA Amritsar APK",
+    "GTA Amritsar for Android"
+  ],
+  "crawling_time": "2024-01-22 13:37:28",
+  "crawling_time_epoch": 1705905448,
+  "path_data_raw": "data/data_raw/review_appsapks/gta_amritsar_apk/json/detail/GTA_Amritsar_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/gta_amritsar_apk/json/detail/GTA_Amritsar_APK.json",
+  "reviews_name": "GTA Amritsar APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 27,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

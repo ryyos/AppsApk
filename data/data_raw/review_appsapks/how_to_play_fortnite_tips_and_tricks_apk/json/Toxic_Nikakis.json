@@ -1,0 +1,53 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "How to Play Fortnite",
+    "Play Fortnite",
+    "Tips and Tricks to play fortnite"
+  ],
+  "crawling_time": "2024-01-22 13:34:09",
+  "crawling_time_epoch": 1705905249,
+  "path_data_raw": "data/data_raw/review_appsapks/how_to_play_fortnite_tips_and_tricks_apk/json/Toxic_Nikakis.json",
+  "path_data_clean": "data/data_clean/review_appsapks/how_to_play_fortnite_tips_and_tricks_apk/json/Toxic_Nikakis.json",
+  "reviews_name": "How to Play Fortnite Tips and Tricks APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "Toxic_Nikakis",
+    "image_reviews": null,
+    "created_time": "2020-09-18 21:19:55",
+    "created_time_epoch": 1600463995,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I’m fortnite player",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-09-18 21:19:55",
+    "date_of_experience_epoch": 1600463995
+  }
+}

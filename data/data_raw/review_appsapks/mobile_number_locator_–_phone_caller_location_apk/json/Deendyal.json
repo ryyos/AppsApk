@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Maps"
+  ],
+  "crawling_time": "2024-01-22 13:30:24",
+  "crawling_time_epoch": 1705905024,
+  "path_data_raw": "data/data_raw/review_appsapks/mobile_number_locator_–_phone_caller_location_apk/json/Deendyal.json",
+  "path_data_clean": "data/data_clean/review_appsapks/mobile_number_locator_–_phone_caller_location_apk/json/Deendyal.json",
+  "reviews_name": "Mobile Number Locator – Phone Caller Location APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Mobile Number Locator – Phone Caller Location",
+    "Package": "com.mobile.number.locator.phone.caller.location",
+    "Version": "4.2.8",
+    "Size": "9.29 MB",
+    "Developed_By": "Video Downloader – Download Videos – Video Player",
+    "descriptions": "📞 Mobile Number Locator – Phone Caller Location📞, a great hlr lookup to get a cell phone ID, supports 122 countries and 1,204,752 areas in the world!💙💛💚\n🌟 Feel dizzy in choosing a proper number locator from all manner of caller id and number locator apps?\n😊 A free and easy-to-use number locator assistant is ready now!\n👉 Caller id display and number info search require only one-touch operation!\n🔥 Download and get started!\n\n🌈 Hot Features:\n🚀 Mobile Number Locator: Find mobile number location on the map.\n🚀 Caller ID: Show detailed info of every incoming call (phone number area, mobile-phone operator, phone number type).\n🚀 Area Code lookup (STD): Search for area code and STD code without Wi-Fi.\n🚀 Call history and Contacts: Display call history details and your contacts.\n🚀 Call Blocker: Block unwanted calls such as telemarketers, spam callers, fraud, etc.\n\nChoose Mobile Number Locator to be your good assistant. The phone locator app will help you to find phone number location. Reverse phone lookup helps you to get mobile number. Finding mobile number location has never been easier. Locate any number and display each call location. You deserve a geolocalisation telephone to get phone number location!\nWhat’s New\n📍 Add compass\n📍 Add speedometer\n📍 Add Flash Alert\n📲 Fix incoming calls pop-up bug"
+  },
+  "detail_reviews": {
+    "username_reviews": "Deendyal",
+    "image_reviews": null,
+    "created_time": "2020-08-16 05:00:35",
+    "created_time_epoch": 1597554035,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Rt",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-08-16 05:00:35",
+    "date_of_experience_epoch": 1597554035
+  }
+}

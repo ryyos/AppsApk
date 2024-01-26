@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:33:29",
+  "crawling_time_epoch": 1705905209,
+  "path_data_raw": "data/data_raw/review_appsapks/my_home_–_design_dreams_apk/json/Ashok_nishad.json",
+  "path_data_clean": "data/data_clean/review_appsapks/my_home_–_design_dreams_apk/json/Ashok_nishad.json",
+  "reviews_name": "My Home – Design Dreams APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "My Home – Design Dreams",
+    "Package": "com.spacegame.homedesign",
+    "Version": "1.0.144",
+    "Size": "97.04 MB",
+    "Developed_By": "Zentertain",
+    "descriptions": "Have you ever dreamt of designing and decorating your very own home exactly how you want? Now you can with My Home! Show us your gift for decorating houses! Come design and decorate your dream houses in My Home along with millions of other decorators FOR FREE!\nBecome a home makeover and interior designing master! Uncover the in-game heartfelt story and meet lots of lifelike characters! From a quaint living room to a grandiose bedroom, a tiny condo to a luxurious mansion and even a small home shop to your very own fashion showroom, start your home decorating journey and make your home designing dreams come true!\nIn the meantime, enjoy beating fun and addictive match-3 puzzle game to win coins! Complete the matching levels to renovate all kinds of rooms and houses including a backyard, a balcony, and even pools! What are you waiting for? Download to decorate your home for free now!\nWhat makes My Home so special?\nAddictive and enjoyable gameplay:\n● A combination of match-3 puzzles plus home decorating gameplay brings you an overwhelming fun gaming experience!\n● Simply tap to decorate your room! Design houses or rooms to make it just like in your dreams!\n● Tons of exciting match-3 levels await! Thousands of challenging matching levels with awesome blast boosters. More matching challenging means more fun!\nWarm-hearted stories with vivid characters:\n● Touching storyline: Follow along with the adventure while designing your dream homes! You also can visit different cities and festivals with in-game characters!\n● Fun and unique characters! Your best friend, your sweet landlord and many more surprises! They will help you decorate along the way!\nDelicate graphic with real designing experience:\n● Place loads of awesome 3D furniture in the room! You will be in charge of decorating and designing your own room!\n● Not satisfied with designing and decorating only one house? We have plenty of houses for you to design and decorate! Various rooms for you like a cozy bedroom, a relaxing living room or a quiet study! More houses are coming!\nAnd there are more features:\n● Remember to join the weekday and weekend event to enjoy the special homes!\n● Competing with friends: Top the in-game leaderboard and compete with your friends! Also, don't forget to visit your friends' houses from time to time!\nTake the reins and bring your dream house to life now for free! Design and decorate everything on your device right at your fingertips!\nWant to stay tuned to the latest information? Join our worldwide community on:\nFacebook: https://www.facebook.com/MyHomeMyDreams\nTwitter: https://twitter.com/MyHomeMyDreams\nInstagram: https://www.instagram.com/myhome.mydream\nWhat’s New\nNew update for My Home available now!\n– New Story Room: Seaside Dinner! An enchanting dinner in a magical land!\n– Added 20 more levels to challenge!\n– Updated Progress Gift to latest levels! More rewards are waiting!\nThanks for your supporting My Home and have fun playing!"
+  },
+  "detail_reviews": {
+    "username_reviews": "Ashok nishad",
+    "image_reviews": null,
+    "created_time": "2019-09-10 10:08:41",
+    "created_time_epoch": 1568110121,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Nice",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-09-10 10:08:41",
+    "date_of_experience_epoch": 1568110121
+  }
+}

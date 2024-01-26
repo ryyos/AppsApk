@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:34:13",
+  "crawling_time_epoch": 1705905253,
+  "path_data_raw": "data/data_raw/review_appsapks/fifa_soccer_apk/json/detail/FIFA_Soccer_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/fifa_soccer_apk/json/detail/FIFA_Soccer_APK.json",
+  "reviews_name": "FIFA Soccer APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "FIFA Soccer",
+    "Package": "com.ea.gp.fifamobile",
+    "Version": "12.6.03",
+    "Size": "71.76 MB",
+    "Developed_By": "ELECTRONIC ARTS",
+    "descriptions": "A new season of FIFA Mobile is here. Experience all-new gameplay, graphics, Head to Head mode, team Chemistry, and more with an upgraded game engine. It’s the world’s game, taken to a whole new level for mobile.\nBuild your Ultimate Team and take on opponents as you train any player to superstar status, attack rivals, and engage in fresh daily content all season long. Plus, get into the game on the go with a download size of under 100 MB.\nBATTLE HEAD TO HEAD WITH REAL-TIME PVP\nHead to Head mode will have you playing authentic 11v11 soccer with competitors from around the globe in real-time. It’s one of players’ most requested modes, and it has arrived. In Amateur and Pro Divisions, you could be matched against an AI Trainer to help you improve your skills on the pitch. This mode has its own minimum specifications requirement. Please refer to https://help.ea.com/en-us/help/fia/fifa-mobile/device-coverage-for-fifa-mobile/ for specifications and devices that will support this mode.\nBUILD YOUR ULTIMATE TEAM™ WITH CHEMISTRY\nStart building your Ultimate Team using Chemistry and give your team a leg up when including players of the same club, league, or nation in your Starting XI. Add depth to your roster as you choose players from over 550 real teams, and tweak tactics before every match. Make the right calls and watch your club become the Ultimate Team.\nATTACK TO WIN\nTake on thrilling matches that drop you into your offensive possessions with VS Attack mode. This innovative level of competition kicks your game into high gear while you strive to dominate 90-second matches, climb the leaderboards, and earn seasonal rewards year-round.\nQUICKLY JOIN A LEAGUE AND CONQUER THE WORLD\nJoin forces and strive for glory with friends and gamers around the globe in a truly social experience. Test your skills in inter-league championships, or take on the best gamers worldwide in League vs. League Tournaments to climb the leaderboards and prove your talent on the pitch.\nThis app: Requires a persistent Internet connection (network fees may apply). Requires acceptance of EA’s Privacy & Cookie Policy and User Agreement. Includes in-game advertising. Contains direct links to the Internet and social networking sites intended for an audience over 13. The app uses Google Play Game Services. Log out of Google Play Game Services before installation if you don’t want to share your game play with friends.\nUser Agreement: http://terms.ea.com\nPrivacy and Cookie Policy: privacy.ea.com/en\nVisit http://help.ea.com/en/# for assistance or inquiries.\nEA may retire online features after 30 days’ notice posted on ea.com/service-updates.\nWhat’s New\nFootball fans! We've tweaked a few things to ensure the best football experience possible. Thanks for playing and let us know how you're enjoying FIFA Mobile!"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Dictionaries"
+  ],
+  "crawling_time": "2024-01-22 13:33:38",
+  "crawling_time_epoch": 1705905218,
+  "path_data_raw": "data/data_raw/review_appsapks/u-dictionary_oxford_dictionary_free_now,translate_apk/json/Sanele_mdletshe.json",
+  "path_data_clean": "data/data_clean/review_appsapks/u-dictionary_oxford_dictionary_free_now,translate_apk/json/Sanele_mdletshe.json",
+  "reviews_name": "U-Dictionary: Oxford Dictionary Free Now,Translate APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "U-Dictionary: Oxford Dictionary Free Now,Translate",
+    "Package": "com.youdao.hindict",
+    "Version": "4.3.0",
+    "Size": "51.98 MB",
+    "Developed_By": "Youdao (Hong Kong) Limited",
+    "descriptions": "U-Dictionary is a free dictionary and translate app.\nU-Dictionary now has official Oxford Dictionaries in 12 languages!\nOffline Sentence Translation is also available now! Enjoy translating totally offline of 58 languages.\nU-Dictionary offers originally developed dictionaries of 44 languages, Collins Advanced Dictionary, WordNet Dictionary, Bilingual Sentences, Sample Sentences, Synonyms, Antonyms, Phrases and so on. Also, U-Dictionary is equipped with English articles, games, and quizzes to help you strengthen your English level.\nU-Dictionary is not only the most authentic English dictionary but also a powerful multiple-language translator. We meet all your translation needs to fit different scenarios such as studying, working and traveling abroad. U-Dictionary is far more than a dictionary!\nU-Dictionary Features:\nOfficial Oxford Dictionaries: Check Oxford dictionaries in 12 global languages, including 7 Indian languages. Learn English with a huge number of authoritative word definitions and sample sentences!\nMagic Translate: Translate in any app with the magic translation ball. Chat freely with no borders.\nText Translation: Translate between any two languages from 108 languages.\nCamera Translation: Snap a photo with text to get it translated. Recognizes 12 languages.\nOffline Dictionary: Free download of Offline Packages for 44 languages and synonyms, antonyms, phrases, English sample sentences, Collins Advanced Dictionary, and WordNet Dictionary.\nOffline Translation: Free download of Offline Translation Packages for 58 languages. Get the translation even when you are offline.\nCopy to Translate: Copy any word or sentence while browsing, messaging, or reading news, to get meaning instantaneously.\nWord Lock Screen: Show words you choose on Lock Screen without network by accessing the offline package.\nQuick Translate: Get the meaning in the notification bar without opening U-Dictionary.\nMy Words: Save important words into different folders. Collect and revise.\nPerfect English Pronunciation: Authentic UK (British) and US (American) accent. Listen and learn.\nSample Sentences: Collected from famous international news websites such as BBC, NPR, etc.\n14 Display Languages: Now you can read in your native language.\nWord Games: Find synonyms game and spelling game. Play and learn.\nFunny Videos: Fully utilize your free time to learn English with ease and fun.\nWhat’s New\n4.3.0\nOfficial Oxford Dictionaries Inside. Try now for free! Oxford dictionaries in 12 languages. Equipped with a huge number of word definitions and sample sentences, U-Dictionary is more authoritative than ever."
+  },
+  "detail_reviews": {
+    "username_reviews": "Sanele mdletshe",
+    "image_reviews": null,
+    "created_time": "2020-01-19 18:37:02",
+    "created_time_epoch": 1579459022,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I – Dictionary Is useful a lot to us as learner’s",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-01-19 18:37:02",
+    "date_of_experience_epoch": 1579459022
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Camera"
+  ],
+  "crawling_time": "2024-01-22 13:31:06",
+  "crawling_time_epoch": 1705905066,
+  "path_data_raw": "data/data_raw/review_appsapks/barcode_scanner_–_qr_code_reader_apk/json/detail/Barcode_Scanner_–_QR_code_reader_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/barcode_scanner_–_qr_code_reader_apk/json/detail/Barcode_Scanner_–_QR_code_reader_APK.json",
+  "reviews_name": "Barcode Scanner – QR code reader APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Barcode Scanner – QR code reader",
+    "Package": "com.barcode.qrcode.reader",
+    "Version": "1.2.20",
+    "Size": "6.53 MB",
+    "Developed_By": "Green Banana",
+    "descriptions": "Barcode scanner is a powerful QR code reader, best barcode reader. It scans all barcodes and QR codes in just a few seconds.\nQR code reader, barcode scanner app lets you scan barcodes, QRcode printed on all products, anywhere without internet connection. To be able to scan QRcode/barcode, QR scanner needs support from the camera on your mobile device. Just open the Q R Barcode scanner app and point your camera to the QRcode and bar code that you want to scan. The QR code scanner immediately decodes and displays on the newly scanned results screen\nQR-decoded results are quickly stored in the application's history repository, and they are ordered by date, by name, or sorted by data type (text, URL, contact, e -mail, …) depending on your settings.\nWhen the application scanning barcode, the results of the decryption process are classified by the type of data (text, location, e-mail, contact, event, URL, etc.) for user easily tracking, and search in app history\nQR scanner app is not just a QR code reader but also a free QR code generator. It lets you generate arbitrary QR codes by opening the QR & barcode scanner app and selecting the Create New. This application does not limit you to generate QR code and read bar code.\nFunction\n– Scan barcodes quickly, accurately\n– Powerful QR code reader/barcode decode speed\n– Easily create QR codes\n– Store and share the QRcode you just created\n– QR code generator lets you generate code of type: text, URL, ISBN, contact, calendar, email, location, Wi-Fi, …\n– Free barcode scanner app\n– QR code scan without internet connection\n– Scan barcodes and generate unlimited QR codes\n– Save history scan the QR code, support the filter and search your bar code scan history\n– Supports sound and vibration alert when scanning barcodes\n– Switch front or rear camera easily when scanning QRcode/barcode\nDownload the free QR code reader, barcode scanner app for your device and experience all of the powerful barcode scanning capabilities of the app. This is the best barcode scanner for Android; A nice barcode reader application, simple, easy to use.\nWhat’s New"
+  }
+}

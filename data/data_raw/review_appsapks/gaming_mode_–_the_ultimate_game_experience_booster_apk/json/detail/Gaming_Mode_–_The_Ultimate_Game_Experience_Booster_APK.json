@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:24:13",
+  "crawling_time_epoch": 1705904653,
+  "path_data_raw": "data/data_raw/review_appsapks/gaming_mode_–_the_ultimate_game_experience_booster_apk/json/detail/Gaming_Mode_–_The_Ultimate_Game_Experience_Booster_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/gaming_mode_–_the_ultimate_game_experience_booster_apk/json/detail/Gaming_Mode_–_The_Ultimate_Game_Experience_Booster_APK.json",
+  "reviews_name": "Gaming Mode – The Ultimate Game Experience Booster APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Gaming Mode – The Ultimate Game Experience Booster",
+    "Package": "com.zappcues.gamingmode",
+    "Version": "1.0.10",
+    "Size": "6.44 MB",
+    "Developed_By": "Zappcues",
+    "descriptions": "The one and only Gaming Mode app on PlayStore which comes with a nifty set of features to enhance your gaming experience. Configure it once and Gaming Mode will automatically do the rest for you.\nHow does it work?\nYou can configure various settings that will get applied automatically when the game starts. You can configure these settings Globally or on per game basis. Gaming Mode also remembers your existing device settings and restores them after your gameplay session once you close the service from notification panel. Now you no longer need to fiddle around with your device settings before each gameplay session.\nWhat all features does it configure automatically?\n✓ Auto Reject Incoming calls.\n✓ Block notifications.\n✓ Clear Background Apps to free up RAM & Boost Performance.\n✓ Disable auto brightness & set it to your desired level.\n✓ Change WiFi state.\n✓ Change Ringtone & Media Volume.\n✓ Create widgets to launch games directly from your device home screen.\n✓ Enable Auto Mode that automatically detects game/app and applies configured settings and reverts it back to original after exiting the game/app.\n✓ Whitelist apps from notification blocking.\n✓ Whitelist apps to prevent them from getting cleared from background.\nBonus Tip: It can be used with any android app too like Netflix, Amazon Prime, Video Players etc.\nWe would love to hear your feedback about our app and are open to suggestions, bug reports and feature request. Feel free to get in touch with us at [email protected].\nWhat’s New\nv1.0.10\n★ Introducing 'Summary'. Now you can check the notifications and calls blocked while you were gaming.\n★ Fixed issue with Auto Mode where it wasn't detecting new apps.\n★ Fixed games getting clear while minimised.\n★ Fixed some crashes to make the app more stable.\n★ Follow us on social media to stay updated. You can find the links in navigation drawer (side menu) in the app."
+  }
+}

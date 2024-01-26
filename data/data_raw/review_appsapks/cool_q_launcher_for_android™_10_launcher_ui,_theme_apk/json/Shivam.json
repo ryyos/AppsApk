@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:28:13",
+  "crawling_time_epoch": 1705904893,
+  "path_data_raw": "data/data_raw/review_appsapks/cool_q_launcher_for_android™_10_launcher_ui,_theme_apk/json/Shivam.json",
+  "path_data_clean": "data/data_clean/review_appsapks/cool_q_launcher_for_android™_10_launcher_ui,_theme_apk/json/Shivam.json",
+  "reviews_name": "Cool Q Launcher for Android™ 10 launcher UI, theme APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Cool Q Launcher for Android™ 10 launcher UI, theme",
+    "Package": "com.pixel.launcher.cool",
+    "Version": "5.1",
+    "Size": "10.82 MB",
+    "Developed_By": "Cool Launcher App Team",
+    "descriptions": "Cool Q Launcher is a cool Android™ 10 launcher style with many valuable features, cool themes, beautiful wallpapers; Cool Q Launcher also have many options for you to config your phone as you like.\n❤️ Who will get value from Cool Q Launcher?\n1. People who has a bit old phones and want to make their phone look NEW and MODERN, just use this Cool Q Android™ 10 Launcher\n2. People who want a more powerful, cool and beautiful launcher than original build-in launcher\n📢 Notice:\n1. Android™ is a registered trademark of Google, Inc.\n2. Cool Q Launcher is base on Android 10 Launcher code, adding many features, it is created by \"Cool Launcher App team\", it is not official product of Google, Inc.\n🔥 Cool Q Launcher features:\n+ Cool Q Launcher support almost all phones, can be used smoothly in ALL the Android 4.0+ devices\n+ Cool Q Launcher has many beautiful launcher Themes and Wallpapers in online store\n+ Cool Q Launcher support almost all Icon Pack made for third-party launcher\n+ Cool Q Launcher support Video Wallpaper, Live Wallpaper, very cool\n+ 4 Drawer Style: horizontal, vertical, category, or list drawer\n+ 9 Gestures: swipe gesture, pinch gesture, two fingers gesture\n+ 3 Color Mode: light launcher mode, dark launcher mode, automatic mode\n+ Hide Apps, or lock the hidden apps\n+ App Lock, protect privacy\n+ Round Corner Screen, make your phone like full screen phone\n+ Battery Saver, Booster is included in launcher\n+ Unread Notifier shown on launcher desktop icon\n+ Many customization: change icon size, launcher grid size, change font, Dock background option, folder color, folder style option, etc\n+ Cool Q Launcher support Flash Call, very cool animation effect when call incoming\n+ Launcher desktop transition effect\n+ T9 search in launcher desktop\n+ Support multi dock pages\n📢 Permission required:\n1. Location: needed by Weather Widget\n2. Camera: needed by Torch feature\n3. Phone/contacts: needed by Flash Call feature\nIf you like, please rate👍 Cool Q Launcher, thanks for helping us making Cool Q Launcher better and better for all users!\nWhat’s New\nv5.1\n1. Optimized Lock Desktop feature\n2. Optimized cleaner\n3. Optimized drawer grid size\n4. Fixed bugs"
+  },
+  "detail_reviews": {
+    "username_reviews": "Shivam",
+    "image_reviews": null,
+    "created_time": "2020-05-09 08:35:13",
+    "created_time_epoch": 1589013313,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Miui10 unlock kese hoga",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-05-09 08:35:13",
+    "date_of_experience_epoch": 1589013313
+  }
+}

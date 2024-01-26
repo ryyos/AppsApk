@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.dts.freefireth"
+  ],
+  "crawling_time": "2024-01-22 13:20:08",
+  "crawling_time_epoch": 1705904408,
+  "path_data_raw": "data/data_raw/review_appsapks/garena_free_fire_wonderland_1.47.0_apk/json/Ariyan.json",
+  "path_data_clean": "data/data_clean/review_appsapks/garena_free_fire_wonderland_1.47.0_apk/json/Ariyan.json",
+  "reviews_name": "Garena Free Fire: Wonderland 1.47.0 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 3,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.dts.freefireth",
+    "Version": "1.47.0",
+    "Size": "41.34 MB",
+    "Developed_By": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+    "descriptions": "Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all seeking survival. Players freely choose their starting point with their parachute, and aim to stay in the safe zone for as long as possible. Drive vehicles to explore the vast map, hide in trenches, or become invisible by proning under grass. Ambush, snipe, survive, there is only one goal: to survive and answer the call of duty. [Survival shooter in its original form]Search for weapons, stay in the play zone, loot your enemies and become the last man standing. Along the way, go for legendary airdrops while avoiding airstrikes to gain that little edge against other players. [10 minutes, 50 players, epic survival goodness awaits]Fast and Lite gameplay – Within 10 minutes, a new survivor will emerge. Will you go beyond the call of duty and be the one under the shining lite? [4-man squad, with in-game voice chat]Create squads of up to 4 players and establish communication with your squad at the very first moment. Answer the call of duty and lead your friends to victory and be the last team standing at the apex. [Clash Squad]Fast paced 4v4 game mode is now open 24/7! Manage your economy, purchase weapons, and defeat the enemy squad! [Realistic and smooth graphics]Easy to use controls and smooth graphics promises the best survival experience you will find on mobile to help you immortalize your name among the legends. [Contact us]Customer Service: https://goo.gl/8f5918"
+  },
+  "detail_reviews": {
+    "username_reviews": "Ariyan",
+    "image_reviews": null,
+    "created_time": "2020-07-02 05:43:29",
+    "created_time_epoch": 1593668609,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Hi",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-07-02 05:43:29",
+    "date_of_experience_epoch": 1593668609
+  }
+}

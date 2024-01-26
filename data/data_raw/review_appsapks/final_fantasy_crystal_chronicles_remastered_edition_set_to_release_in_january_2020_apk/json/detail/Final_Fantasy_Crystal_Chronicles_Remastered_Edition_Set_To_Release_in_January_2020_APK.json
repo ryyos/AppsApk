@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Final Fantasy Crystal",
+    "Final Fantasy Crystal Chronicles",
+    "Final Fantasy Crystal Chronicles Remastered"
+  ],
+  "crawling_time": "2024-01-22 13:32:25",
+  "crawling_time_epoch": 1705905145,
+  "path_data_raw": "data/data_raw/review_appsapks/final_fantasy_crystal_chronicles_remastered_edition_set_to_release_in_january_2020_apk/json/detail/Final_Fantasy_Crystal_Chronicles_Remastered_Edition_Set_To_Release_in_January_2020_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/final_fantasy_crystal_chronicles_remastered_edition_set_to_release_in_january_2020_apk/json/detail/Final_Fantasy_Crystal_Chronicles_Remastered_Edition_Set_To_Release_in_January_2020_APK.json",
+  "reviews_name": "Final Fantasy Crystal Chronicles Remastered Edition Set To Release in January 2020 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

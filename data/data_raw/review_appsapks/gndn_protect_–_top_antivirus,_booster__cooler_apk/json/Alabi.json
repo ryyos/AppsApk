@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Antivirus"
+  ],
+  "crawling_time": "2024-01-22 13:31:33",
+  "crawling_time_epoch": 1705905093,
+  "path_data_raw": "data/data_raw/review_appsapks/gndn_protect_–_top_antivirus,_booster__cooler_apk/json/Alabi.json",
+  "path_data_clean": "data/data_clean/review_appsapks/gndn_protect_–_top_antivirus,_booster__cooler_apk/json/Alabi.json",
+  "reviews_name": "GNDN Protect – TOP Antivirus, Booster & Cooler APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "GNDN Protect – TOP Antivirus, Booster & Cooler",
+    "Package": "com.im.gndnprotect",
+    "Version": "19.06.12.0.1",
+    "Size": "9.02 MB",
+    "Developed_By": "gndnSoftware",
+    "descriptions": "GNDN Protect Key features:\n* Double Engine Antivirus – Super powerful virus detector and mobile threat remover\n* Phone Booster – Significantly boost mobile to get it running faster and smoother\n* CPU Cooler – Optimize CPU usage and stop overheating apps to cool down CPU temperature\n* File Scan – Scan both the internal and SD card and remove infected files\n* Privacy Cleaner – Privacy Scan and Clean up clipboard history\n* Optimize battery performance when needed\n* App's Protector – Auto Scan new app installed to check threats.\nGNDN Protect's function details\n💥 Powerful Antivirus Protection –\nPowered by GNDN – the highly productive anti virus engine – protecting your phone from ransomware, extortion viruses, malware, adware and Trojans. GNDN Protect is able to offer a world-class antivirus protection service globally.\n💥 Phone Speed Booster – Accelerate & Boost Phone\nBoost mobile to get it running faster and smoother. Efficiently utilize your phone's memory and speed up your devices. Improve phone performance with one tap acceleration booster.\n💥 CPU Cooler – Cool Down Temperature\nDetect and clean apps that cause overheating. Continuous monitoring temperature changes, detects apps highly consuming CPU and starts a cooling progress, effectively reduce the phone temperature.\n💥 Auto Virus Scan\nAutomatically scan your phone and keep you informed.\n💥 Deep Scan – Scanning and Examining Files\nScanning both the internal device storage and SD cards. Remove viruses and threats from your mobile phone.\n💥 App Scan – Scanning and Examining Apps\nRemove apps that contain viruses and threats from your mobile phone.\nWhat’s New\nGNDN Protect is constantly improving and getting better! stay with us to get the latest updates!"
+  },
+  "detail_reviews": {
+    "username_reviews": "Alabi",
+    "image_reviews": null,
+    "created_time": "2019-10-27 04:00:06",
+    "created_time_epoch": 1572148806,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I need app that i will be earn on it",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-10-27 04:00:06",
+    "date_of_experience_epoch": 1572148806
+  }
+}

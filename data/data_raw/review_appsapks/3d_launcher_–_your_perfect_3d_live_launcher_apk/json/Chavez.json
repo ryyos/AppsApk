@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:25:04",
+  "crawling_time_epoch": 1705904704,
+  "path_data_raw": "data/data_raw/review_appsapks/3d_launcher_–_your_perfect_3d_live_launcher_apk/json/Chavez.json",
+  "path_data_clean": "data/data_clean/review_appsapks/3d_launcher_–_your_perfect_3d_live_launcher_apk/json/Chavez.json",
+  "reviews_name": "3D Launcher – Your Perfect 3D Live Launcher APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "3D Launcher – Your Perfect 3D Live Launcher",
+    "Package": "launcher.d3d.launcher",
+    "Version": "2.5",
+    "Size": "11.54 MB",
+    "Developed_By": "Beauty Apps Studio",
+    "descriptions": "Perfect 3D Launcher is a cool launcher with amazing 3D effects and rich features, it make your phone brand new and cool,\nPerfect 3D Launcher also provide many features that don't included in native phone's launcher, make your daily mobile life easy, fresh and efficient!💪\nDeclare: Android™ is a trademark of Google Inc.\n🔥 3D Launcher features:\n1. 300+ themes included in theme store\n2. Icon packs you downloaded from Play Store are supported\n3. 3D parallax wallpaper, so cool\n4. 1000+ online wallpaper, even you can DIY launcher wallpaper\n5. 10+ gestures support\n6. Magic finger effects\n7. Hide apps, and you can add lock on hidden apps\n8. Tools: Junk cleaner, Battery saver\n9. Notification dot, never miss important info\n10. Launcher desktop icon size option\n11. Launcher desktop label color\n12. Launcher desktop grid size\n13. Kids Mode\n14. App usage stats\n15. Rounded corner\n16. Full screen display\n17. Quick ball\n18. Fonts setting\n19. 3D Launcher desktop transition effect\n20. Launcher drawer background color option\n21. Launcher drawer with vertical or horizontal\n22. Launcher drawer A-Z bar to find app quickly\n23. App twin, Dual apps support\n24. More…\nPerfect 3D Launcher has been tested by our testers and confirm to work with Samsung Galaxy phones, Huawei Mate/Honor/P series phones, Xiaomi/Redmi phones. It also be designed to works on almost all Android 5.0+ devices, if you meet issue on your devices, please let us know, we will check it and try to fix it ASAP.\nNotice:\n\"This app uses Accessibility services.\"\nFull Screen Display and Quick Ball gestures feature uses Accessibility services to allow users of all abilities to use phone more conveniently. These features are disabled by default, before you can enable them, you will be asked to permit Accessibility with very clear explanation.\n💓 If you think Perfect 3D Launcher is valuable, please rate us and leave your comments, thanks a lot.\nWhat’s New\nv2.5\n1.Added 4 new live wallpapers\n2.Added new weather & time widget style\n3.Optimized Edit icon\n4.Fixed bugs and improved interface"
+  },
+  "detail_reviews": {
+    "username_reviews": "Chavez",
+    "image_reviews": null,
+    "created_time": "2020-03-25 01:36:14",
+    "created_time_epoch": 1585100174,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-03-25 01:36:14",
+    "date_of_experience_epoch": 1585100174
+  }
+}

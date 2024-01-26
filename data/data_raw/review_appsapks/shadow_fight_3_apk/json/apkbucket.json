@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:37:54",
+  "crawling_time_epoch": 1705905474,
+  "path_data_raw": "data/data_raw/review_appsapks/shadow_fight_3_apk/json/apkbucket.json",
+  "path_data_clean": "data/data_clean/review_appsapks/shadow_fight_3_apk/json/apkbucket.json",
+  "reviews_name": "Shadow Fight 3 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Shadow Fight 3",
+    "Package": "com.nekki.shadowfight3",
+    "Version": "1.18.5",
+    "Size": "98.71 MB",
+    "Developed_By": "NEKKI",
+    "descriptions": "The world of shadows stands at the edge of an epic war. The incomprehensible force that came out of the Gates of Shadows many years ago is now an ordinary source of power. The Shadow energy is a tool and a weapon nowadays. But not everyone finds this state of affairs a good thing.\nA mighty military tribe, the Legion, has its primary purpose the elimination of hazardous energy. The Dynasty people learned to use it for profit and crafting. And the mysterious Heralds study the darkest secrets of the shadow power.\nThree charismatic fighters invite you to join their cause. Three different ways of living and fighting. They will determine the world's fate for many years to come. Which side you’re on?\nTake a dive into the world of infinite combat and exciting action! Shadow Fight 3 is free-to-play and 100% user-friendly. Start your adventure right now, warrior!\nFEATURES\n– Enjoy modern 3D-graphics, realistic physics and animation.\n– Combine 3 different fighting styles into your own unique way of playing.\n– Collect tons of different weapons and equipment.\n– Use special shadow abilities, perks and upgrades.\n– Travel across a big world map full of spectacular places and stories.\n– Immerse yourself in the thrilling story with many quests.\n– Participate in regular thematic in-game events with unique awards.\n– Win duels. Defy other players' characters controlled by AI, take a place at the TOP-100 leaderboard of your region and become a fight star!\nWE ARE NEKKI. CONTACT US!\nIf you like the Shadow Fight series, join us on different social media platforms! Fresh news, announcements, competitions and much more!\nFacebook: https://www.facebook.com/shadowfightgames\nTwitter: https://twitter.com/ShadowFight_3\nWhat’s New\nThe update includes the following changes:\n– Some critical bugs fixed;\n– Main Quest goes on: the first part of Chapter VII is finally available!\n– New locations and bosses;\n– New equipment items and two brand new fighting styles;\n– New feature: Collections. You can quickly sort your items and obtain rewards for every collection completed;\n– 3 legendary sets, each one of them gives you a special fight bonus when fully equipped on you character."
+  },
+  "detail_reviews": {
+    "username_reviews": "apkbucket",
+    "image_reviews": null,
+    "created_time": "2021-01-18 17:45:06",
+    "created_time_epoch": 1610991906,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Nice Post Admin, Great Job.",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-01-18 17:45:06",
+    "date_of_experience_epoch": 1610991906
+  }
+}

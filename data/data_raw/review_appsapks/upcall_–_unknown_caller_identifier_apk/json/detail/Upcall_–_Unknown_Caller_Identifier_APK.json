@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:39:12",
+  "crawling_time_epoch": 1705905552,
+  "path_data_raw": "data/data_raw/review_appsapks/upcall_–_unknown_caller_identifier_apk/json/detail/Upcall_–_Unknown_Caller_Identifier_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/upcall_–_unknown_caller_identifier_apk/json/detail/Upcall_–_Unknown_Caller_Identifier_APK.json",
+  "reviews_name": "Upcall – Unknown Caller Identifier APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Upcall – Unknown Caller Identifier",
+    "Package": "com.turkcell.sesplus",
+    "Version": "5.10.2",
+    "Size": "15.57 MB",
+    "Developed_By": "Turkcell İletişim Hizmetleri A.Ş",
+    "descriptions": "Do you wonder who's calling? Do you want to know the details of the caller from an unknown phone number? Here's an incredible application to know caller information directly using your phone number. With UpCall, you can find out who is calling your phone when it’s ringing, you can find out who is calling your phone, add pictures and Emocan stickers, search for unknown numbers and start a group call with one touch.\nUpCall is one of the best and free applications to identify unknown callers. Find out who is calling you using the advanced search tool, easily and quickly identify the caller's number without having your phonebook installed.\nThere are a lot of features in the free UpCall application:\n• Show Caller ID\n• Subject and Picture Call\n• Unknown numbers\n• Group Call\n• All your calls in one Screen\n• Do not disturb Option\n• Emergency Numbers\n• Spam Call\n• Operator Name Setting\nWant to know who is calling?\nIf you receive a call from a number which is not on you contacts list, Upcall will do an advanced search for that number. It will do an advanced search to include searches for various ways phone numbers are written.\nStop unwanted calls by using Upcall!\nYou can choose to block numbers by Upcall hang up the call before it goes through to your phone, or you can choose to mute the call and send the caller directly to voicemail. With options to block all hidden numbers, all international numbers or just specific country prefixes, you are in control of who is allowed to call you.\nOne Screen is Enough!\nUnlike your phone's dialing screen, you can see all your calls from a single screen. For example, you can learn from your call logs when you are away from home, when you are busy, or when people you call are reachable. You will receive service notifications for your calls (Kim / Extra, Pocket / Extra, Now, Caller services) from within the application instead of SMS.\nYou do not have to be call a single person to talk!\nWe know it is important for all of us to get together with our friends and family. You want to do this with just one call? You can create a group via UpCall and call your contacts in the group at the same time. You can also add other carrier subscribers to the group call.\nEmocan Stickers!\nBy adding a topic to your call, you can let the person you call see your note while you are waiting to pick it up. You can also add pictures and emocan stickers to your call. In order to benefit from this feature, the application must be installed on the opposite side too.\nAvoid Spam Calls!\nAt that moment, if you do not want to talk, or if you receive a call that you do not want to answer, you can be informed by warning you before you open your phone. Moreover, when your phone is open, callers hear the \"I cannot reach the person you are looking for\" announcement, and you can follow up with the incoming caller\nJust one click needed for your emergency calls!\nYou don’t have to panic for not remembering the police or ambulance number! With Upcall, emergency numbers are easily accessible, and you can find and call the nearest pharmacy one-click.\nPersonalise your operator name!\nYou can change your operator name thanks to UpCall.\n* This application can be used by all Turkish operators’ subscribers. However some of the features might be limited for Turkcell subscribers only because of network restrictions. For more details please visit http://www.turkcell.com.tr/services/upcall#sss\nSupport: You can forward all your suggestions and complaints about the application from the \"CONTACT US\" section of the application under the \"HELP & SUPPORT\" menu.\nFrequently Asked Questions: http://www.turkcell.com.tr/services/upcall#sss\nWhat’s New\nWith the UpCall sub menu, you can reach to Call with Picture and Group Call features more faster.\nYou can both have entertainment by adding existing special images or chosen by yourself to your searches and easily make a conference call with just one click.\nReaching to your contact list, unknown individuals or location numbers, closest pharmacy, and emergency numbers are easily accessible from single page.\n“CONTACT US” section under the “HELP & SUPPORT” menu in the application."
+  }
+}

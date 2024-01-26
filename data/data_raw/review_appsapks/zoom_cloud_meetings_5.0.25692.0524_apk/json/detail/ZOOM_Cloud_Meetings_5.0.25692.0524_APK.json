@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "us.zoom.videomeetings"
+  ],
+  "crawling_time": "2024-01-22 13:19:43",
+  "crawling_time_epoch": 1705904383,
+  "path_data_raw": "data/data_raw/review_appsapks/zoom_cloud_meetings_5.0.25692.0524_apk/json/detail/ZOOM_Cloud_Meetings_5.0.25692.0524_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/zoom_cloud_meetings_5.0.25692.0524_apk/json/detail/ZOOM_Cloud_Meetings_5.0.25692.0524_APK.json",
+  "reviews_name": "ZOOM Cloud Meetings 5.0.25692.0524 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "us.zoom.videomeetings",
+    "Version": "5.0.25692.0524",
+    "Size": "13.58 MB",
+    "Developed_By": "zoom.us",
+    "descriptions": "Stay connected wherever you go – start or join a 100-person meeting with crystal-clear, face-to-face video, high quality screen sharing, and instant messaging – for free!\nAward winning Zoom brings video conferencing, online meetings and group messaging into one easy-to-use application.\nZoom is used by over 500,000 customer organizations and is #1 in customer satisfaction.\nIt's super easy: install the free Zoom app, click on \"Host a Meeting\" and invite up to 100 people to join!\n★ KEY FEATURES ★\n✔Best Android video meeting quality\n✔Best Android screen sharing quality\n✔Screen share directly from your Android device\n✔Screen share photos, web and Google Drive, Dropbox or Box files\n✔Send group text, images and audio from mobile and desktop\n✔Contact availability status\n✔Easily invite phone, email or company contacts\n✔Join as interactive participant or view-only webinar attendee\n✔Works over WiFi, 4G/LTE and 3G networks\n✔Safe driving mode while on the road\n✔Connect with anyone on Android, other mobile devices, Windows, Mac, iOS, ZoomPresence, H.323/SIP room systems, and telephones\nJoin any meeting and host unlimited 1:1 meetings for free. Free group meetings are limited to 40 minutes.\nFollow us:\nTwitter https://twitter.com/zoom_us\nLinkedIn https://www.linkedin.com/company/zoom-video-communications-inc-\nFacebook https://www.facebook.com/zoomwithus\nHave a question? Contact us at [email protected]"
+  }
+}

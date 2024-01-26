@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.tikfans.www"
+  ],
+  "crawling_time": "2024-01-22 13:19:47",
+  "crawling_time_epoch": 1705904387,
+  "path_data_raw": "data/data_raw/review_appsapks/tikfans_free_tiktok_followers__likes__fans_1.1.0_apk/json/Rajeev_Kumar.json",
+  "path_data_clean": "data/data_clean/review_appsapks/tikfans_free_tiktok_followers__likes__fans_1.1.0_apk/json/Rajeev_Kumar.json",
+  "reviews_name": "TikFans: Free TikTok Followers & Likes & Fans 1.1.0 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 4,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.tikfans.www",
+    "Version": "1.1.0",
+    "Size": "10.05 MB",
+    "Developed_By": "Toushih Studio",
+    "descriptions": "*Gain and Boost more Fans & Followers*\nTikFans is a must-have app for TikTokers to grow your TikTok account and followers easier and faster.\nWith TikFans, you can easily GET…\n-more exposure\n-new followers/fans\n-more likes\n-connections with other TikTokers in a fun way!\n*Become famous TikStar*\n*Get free followers and likes without effort!**\nHow to start with TikFans…\n-Input your TikTok username ONLY.\n(We never ask for your passwords or other private data. 100% Safe.)\n-Follow other profiles to win rewards and then redeem rewards to get more followers.\n(You don't need any manual verification like other services)\nOur App\n-provides Real and Active followers\n-100% Safe\n-easy to use\n-beautiful design and clean user-interface"
+  },
+  "detail_reviews": {
+    "username_reviews": "Rajeev Kumar",
+    "image_reviews": null,
+    "created_time": "2020-08-04 08:17:12",
+    "created_time_epoch": 1596529032,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Hi",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-08-04 08:17:12",
+    "date_of_experience_epoch": 1596529032
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Network",
+    "Wifi"
+  ],
+  "crawling_time": "2024-01-22 13:28:22",
+  "crawling_time_epoch": 1705904902,
+  "path_data_raw": "data/data_raw/review_appsapks/wifi_scanner__analyzer_–_detect_who_use_my_wifi_apk/json/Josh.json",
+  "path_data_clean": "data/data_clean/review_appsapks/wifi_scanner__analyzer_–_detect_who_use_my_wifi_apk/json/Josh.json",
+  "reviews_name": "WiFi Scanner & Analyzer – Detect Who Use My WiFi APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "WiFi Scanner & Analyzer – Detect Who Use My WiFi",
+    "Package": "com.betteridea.wifi.boost",
+    "Version": "1.0.32.08",
+    "Size": "5.70 MB",
+    "Developed_By": "BetterIdea Studio",
+    "descriptions": "Features of WiFi Scanner:\n• Who Use My WiFi\nSmartest way to show the devices connected to your personal WiFi hotspot. Show details(device type, ip address, mac address) of the connected devices to help you find who is using your WiFi network.\n• Detect Network Status\nCheck whether the network that you’re using is good and safe.\n• Network Speed Test\nAccurately measure your network speed\n• Boost Network Speed\nFind and stop the apps that are secretly using network in the background, boost your phone and save your battery.\nUsage Guide:\n• Open WiFi Scanner App.\n• If you've connected to WiFi network, tap the button below the WiFi name to see all devices connected to your personal WiFi hotspot.\n• Tap the \"Network Detect\" button to detect your network status.\n• Tap the \"Network Boost\" button to find the apps that are using network in the background and kill them to boost your network.\nWhat’s New\nBug fixes and performance improvements."
+  },
+  "detail_reviews": {
+    "username_reviews": "Josh",
+    "image_reviews": null,
+    "created_time": "2020-01-17 06:07:29",
+    "created_time_epoch": 1579241249,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Great",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-01-17 06:07:29",
+    "date_of_experience_epoch": 1579241249
+  }
+}

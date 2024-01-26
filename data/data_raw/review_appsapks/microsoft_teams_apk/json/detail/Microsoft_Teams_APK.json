@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:24:14",
+  "crawling_time_epoch": 1705904654,
+  "path_data_raw": "data/data_raw/review_appsapks/microsoft_teams_apk/json/detail/Microsoft_Teams_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/microsoft_teams_apk/json/detail/Microsoft_Teams_APK.json",
+  "reviews_name": "Microsoft Teams APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.microsoft.teams",
+    "Version": "1416/1.0.0.2020040603",
+    "Size": "59 MB",
+    "Developed_By": "Microsoft Corporation",
+    "descriptions": "Microsoft Teams is your hub for teamwork in Office 365. All your team conversations, files, meetings, and apps live together in a single shared workspace, and you can take it with you on your favorite mobile device. Whether you’re sprinting towards a deadline or sharing your next big idea, Teams can help you achieve more.\nYOUR HUB FOR TEAMWORK\n* Easily manage your team’s projects with file editing and sharing on the go\n* Connect face-to-face with HD audio and video, and join meetings from almost anywhere\n* Chat privately or in groups, and communicate with the entire team in dedicated channels\n* Mention individual team members, or the whole team at once, to get your colleagues’ attention\n* Focus on what matters most by saving important conversations and customizing your notifications\n* Search your chats and team conversations to quickly find what you need\n* Get the enterprise-level security and compliance you expect from Office 365\nThis app requires a paid Office 365 commercial subscription, or a free or trial subscription of Microsoft Teams. If you’re not sure about your company’s subscription or the services you have access to, visit Office.com/Teams to learn more or contact your IT department.\nBy downloading Teams, you agree to the license (see aka.ms/eulateamsmobile) and privacy terms (see aka.ms/privacy). For support or feedback, email us at [email protected]"
+  }
+}

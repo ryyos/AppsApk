@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:36:24",
+  "crawling_time_epoch": 1705905384,
+  "path_data_raw": "data/data_raw/review_appsapks/sonic_the_hedgehog™_classic_apk/json/detail/Sonic_the_Hedgehog™_Classic_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/sonic_the_hedgehog™_classic_apk/json/detail/Sonic_the_Hedgehog™_Classic_APK.json",
+  "reviews_name": "Sonic the Hedgehog™ Classic APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Sonic the Hedgehog™ Classic",
+    "Package": "com.sega.sonic1px",
+    "Version": "3.4.0",
+    "Size": "57.62 MB",
+    "Developed_By": "SEGA",
+    "descriptions": "The Sonic game that started it all is now free-to-play and optimized for mobile devices!\nRace at lightning speeds across seven classic zones as Sonic the Hedgehog. Run and spin through loop-de-loops as you collect rings and defeat enemies on your mission to save the world from the evil Dr. Eggman.\nSonic the Hedgehog joins the SEGA Forever classic games collection, a treasure trove of free SEGA console classics brought to life on mobile for the first time!\nFEATURES\n– OPTIMIZED FOR MOBILE Sonic The Hedgehog now plays in widescreen at a smooth 60FPS offering unrivalled performance and the game’s legendary soundtrack has been fully re-mastered.\n– GOTTA GO FAST – Challenge yourself with an all-new Time Attack mode!\n– NEW PLAYABLE CHARACTERS Play as Sonic’s friends Tails and Knuckles for the first time. Use their unique abilities to fly, climb, and glide around levels offering exciting new ways to explore.\n– CONTROLLER SUPPORT Sonic The Hedgehog on Android offers exclusive support for the Power A Moga, Nyko, XBOX, and all HID controllers.\nSEGA FOREVER FEATURES\n– PLAY FREE\n– CONTROLLER SUPPORT – HID compatible controllers\n– GAMES RELEASED EVERY MONTH – Download them all!\nRETRO REVIEWS\n– \"Believe the hype – this is the tidiest, smoothest and most exhilarating game you'll have ever seen.\" [97%] – Andy Smith, SEGA Power #22 (September 1991)\n– “Difficult without being frustrating, addictive without being repetitive, and altogether a joy to play.” [925/1000] – Gary Whitta, ACE #47 (August 1991)\n– \"One of the best Mega Drive games I've ever played\" [92%] – Rich Leadbetter, Mean Machines #10 (July 1991)\nTRIVIA\n– Sonic Jam contained the first release of Sonic The Hedgehog that gave Sonic his spin dash move, which returns again in this remake\n– Sonic The Hedgehog was also released in arcades on SEGA's Mega-Tech and Mega Play systems\n– Rabbit and armadillo characters were considered for Sonic before settling on a hedgehog design\n– While \"Eggman\" is Dr. Robotnik's nickname in the West, he has always been known as \"Eggman\" in Japan\nCLASSIC GAME FACTS\n– First released in the US on June 23rd, 1991\n– It took Yuji Naka almost a year to finish designing Green Hill Zone Act 1\n– Spring Yard Zone and Scrap Brain Zone were originally called Sparkling Zone and Clock Work Zone\n– Music composed by Masato Nakamura of Dreams Come True fame\n– – – – –\nPrivacy Policy: http://www.sega.com/mprivacy\nTerms of Use: http://www.sega.com/terms\nGame apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.\nOther than for users known to be under 13, this game may include \"Interest Based Ads\" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information) and may collect \"Precise Location Data\" (please see http://www.sega.com/mprivacy#5LocationDataDisclosure for more information)\nThe following permissions are required to ensure we only serve you appropriate adverts: ACCESS_COARSE_LOCATION & ACCESS_FINE_LOCATION\n© SEGA. All rights reserved. SEGA, the SEGA logo, Sonic the Hedgehog, SEGA Forever, and the SEGA Forever logo are registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates.\nWhat’s New\nBug fixes and refinements"
+  }
+}

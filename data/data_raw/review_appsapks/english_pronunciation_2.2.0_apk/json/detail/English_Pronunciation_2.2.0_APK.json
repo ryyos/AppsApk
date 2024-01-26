@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.scdgroup.englishpronunciation"
+  ],
+  "crawling_time": "2024-01-22 13:21:17",
+  "crawling_time_epoch": 1705904477,
+  "path_data_raw": "data/data_raw/review_appsapks/english_pronunciation_2.2.0_apk/json/detail/English_Pronunciation_2.2.0_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/english_pronunciation_2.2.0_apk/json/detail/English_Pronunciation_2.2.0_APK.json",
+  "reviews_name": "English Pronunciation 2.2.0 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.scdgroup.englishpronunciation",
+    "Version": "2.2.0",
+    "Size": "32.86 MB",
+    "Developed_By": "YOBIMI GROUP",
+    "descriptions": "★ Pronunciation is one of the important steps to speak English basically.\nThis App will help learners, especially beginners. who have difficulties or questions on how to pronounce words properly and how to distinguish the various English sounds.\n★ English Pronunciation plans for all levels of learner with a variety of basic lessons, advanced lessons and pronunciation tips. With our app, you will have a great time to learn about English phonetics and sounds. You also practice pronunciation skills by word or sentences together with listening and speaking skills.\nFEATURE\n★ Various lessons: step by step pronunciation lessons with basic level (vowel sounds, diphthong sounds and consonant sounds), advanced level (linking word, stress and intonation) and many interesting pronunciation tips.\n★ You can listen and practice both British accent & American accent\n★ Easy to practice pronunciation exercises:\n– Pronounce English and voice recording to compare\n– Listening and writing Words\n– Writing English phonetic\n– Writing English words with English phonetics\n★ Interactive Phonemic Chart with high quality audio.\nJust install English Pronunciation Practice app to enjoy, pronounce Words and improve your English communication.\n★ More information:\nWebsite: http://learnenglish.yobimi.com/\n★ Follow us and Learn English even more:\nFacebook: https://www.facebook.com/learningenglish.yobimi/\nTwitter: https://twitter.com/YobimiE\nG +: https://plus.google.com/u/0/+YobimiLearningEnglish\nSupport: [email protected]"
+  }
+}

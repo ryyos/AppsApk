@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.vietbm.tools.controlcenterOS"
+  ],
+  "crawling_time": "2024-01-22 13:17:47",
+  "crawling_time_epoch": 1705904267,
+  "path_data_raw": "data/data_raw/review_appsapks/ios13_control_center_3.2.3_apk/json/W_ith.json",
+  "path_data_clean": "data/data_clean/review_appsapks/ios13_control_center_3.2.3_apk/json/W_ith.json",
+  "reviews_name": "IOS13 Control Center 3.2.3 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.vietbm.tools.controlcenterOS",
+    "Version": "3.2.3",
+    "Size": "1.59 MB",
+    "Developed_By": "MegaVietbm",
+    "descriptions": "I have spent a lot of time in the past 1 year. to bring you an app with the best experience\nIn this new app user can use so many features and the most thing you can customize icon style and icon pack. Try it and you don't miss one of the best control center ever.\nWith a floating bar on the screen, you can easily use your Android smart phone. More conveniently, you can quickly access to all your favorite apps, games, settings and quick toggle, screen capture, screen recording. Control Center is also an ideal app to protect the physical buttons (volume button). It is very useful for big screen smart phone.\n– Airplane Mode: Use Airplane Mode to instantly turn off Bluetooth, Wi-Fi, and cellular connections on your android device.\n– Wi-Fi: Turn on Wi-Fi to browse the web, stream music, download movies, and more.\n– Bluetooth: Connect to headphones, car kits, wireless keyboards, and other Bluetooth-enabled devices.\n– Do Not Disturb: Silence calls, alerts, and notifications that you receive while your device is locked.\n– Portrait Orientation Lock: Keep your screen from rotating when you move your device.\n– Adjust brightness: Adjust the brightness of your display from any screen.\n– Flashlight: The LED flash on your camera doubles as a flashlight, so you can get extra light when you need it.\n– Alarms and Timer: Set an alarm, timer, or stopwatch, or check the time in another country or region.\n– Calculator: Tap numbers and functions in Calculator, just like a standard calculator.\n– Camera: Never miss a moment to take a picture with quick access to your camera.\n– Control audio: From here, you can quickly play, pause, and control volume of your favorite song, podcast, and more.\n– Record Screen: Record any action in your phone. (Support android 5.0 above only)\n– Screenshot: Capture screen (Support android 5.0 above only)\n– Launch all applications or games , shorcut on your device\nWith Control Center app, you can customize more style, such as size, color, position, vibration and more like to iOS XS.\nFeedback\n– If you like Control Center please review and give us 5 star\n– If you have any problem with this app please give us feedback for your problem, we fix it as soon as posible\n– Please email for us if you want request some new feature\n* This app uses the Device Administrator permission.\nIt is necessary and used only for locking the device when you use feature turn off the screen. You need to enable Administration before it can be used that feature. To uninstall the app, please open my app and click the \"Uninstall\" button.\n* This app uses Accessibility services\nWe request this permission to:\n+ Inspect the content of a window you are interacting with. To enable some feature like back, recent press, etc.\nPlease be assured that we will not collect any personal information."
+  },
+  "detail_reviews": {
+    "username_reviews": "W ith",
+    "image_reviews": null,
+    "created_time": "2021-06-11 17:28:08",
+    "created_time_epoch": 1623432488,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Gotnew iphoneand want to transfer all info from Huawei P30 to iphone",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-11 17:28:08",
+    "date_of_experience_epoch": 1623432488
+  }
+}

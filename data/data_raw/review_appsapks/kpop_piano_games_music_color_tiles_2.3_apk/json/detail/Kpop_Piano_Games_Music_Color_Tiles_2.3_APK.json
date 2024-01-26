@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.pianotiles.KPOP.Games"
+  ],
+  "crawling_time": "2024-01-22 13:17:46",
+  "crawling_time_epoch": 1705904266,
+  "path_data_raw": "data/data_raw/review_appsapks/kpop_piano_games_music_color_tiles_2.3_apk/json/detail/Kpop_Piano_Games_Music_Color_Tiles_2.3_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/kpop_piano_games_music_color_tiles_2.3_apk/json/detail/Kpop_Piano_Games_Music_Color_Tiles_2.3_APK.json",
+  "reviews_name": "Kpop Piano Games: Music Color Tiles 2.3 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.pianotiles.KPOP.Games",
+    "Version": "2.3",
+    "Size": "11.18 MB",
+    "Developed_By": "POP Music Fans",
+    "descriptions": "Do you love K-pop songs? Do you love playing the piano game? You should try this game. More than 5,000,000 users have downloaded it.\nYou can play the piano and train your reaction in this game. More fun if it is played together with friends. Besides K-pop music, we also prepared many classical piano songs for you. There are many choices for you.\nHow To Play:\nTap the black tiles continuously to follow the music. Be careful with white tiles and never miss black tiles to finish each song.\nGame Features:\n– 100+ piano songs\n– Different color tiles\nKpop piano is waiting for you. Come to download it now!"
+  }
+}

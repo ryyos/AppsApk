@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.facebook.lite"
+  ],
+  "crawling_time": "2024-01-22 13:21:23",
+  "crawling_time_epoch": 1705904483,
+  "path_data_raw": "data/data_raw/review_appsapks/facebook_lite_196.0.0.8.121_apk/json/detail/Facebook_Lite_196.0.0.8.121_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/facebook_lite_196.0.0.8.121_apk/json/detail/Facebook_Lite_196.0.0.8.121_APK.json",
+  "reviews_name": "Facebook Lite 196.0.0.8.121 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.facebook.lite",
+    "Version": "196.0.0.8.121",
+    "Size": "1.49 MB",
+    "Developed_By": "Facebook",
+    "descriptions": "Keeping up with friends is faster and easier than ever with the Facebook Lite app! Use Facebook Lite as a friends app to connect and keep up with your social network. The Facebook Lite app is small, allowing you to save space on your phone and use Facebook in 2G conditions. Many of the classic features of Facebook are available on the app, such as sharing to a Timeline, liking photos, searching for people, and editing your profile and groups. Specific features include:\n• Find friends and family\n• Post status updates & use Facebook emoji to help relay what’s going on in your world\n• Share photos and your favorite memes\n• Get notified when friends like and comment on your posts\n• Find local social events, RSVP, and make plans to meet up with friends\n• Interact with your friends by adding your own comments or reactions to their Facebook posts\n• Save photos by adding them to photo albums\n• Follow people to get their latest news\n• Look up local businesses to see reviews, operation hours, and pictures\n• Buy and sell locally on Facebook Marketplace\nThe Facebook app does more than help you stay connected with your friends and interests. It's also your personal organizer for storing, saving and sharing photos. It's easy to share photos straight from your Android camera, and you have full control over your photos and privacy settings. You can choose when to keep individual photos private or even set up a secret photo album to control who sees it.\nFacebook Lite also helps you keep up with the latest news and current events around the world. Subscribe to your favorite celebrities, brands, websites, artists, or sports teams to follow their News Feeds from the convenience of your Facebook Lite app!\nProblems with downloading or installing the app? See https://www.facebook.com/help/fblite\nStill need help? Please tell us more about the issue: https://www.facebook.com/help/contact/640732869364975\nFacebook is only available to people aged 13 and over.\nTerms of Service: http://m.facebook.com/terms.php"
+  }
+}

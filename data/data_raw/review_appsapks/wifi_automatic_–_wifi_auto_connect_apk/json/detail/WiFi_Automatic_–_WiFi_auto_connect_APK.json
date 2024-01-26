@@ -1,0 +1,32 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Wifi"
+  ],
+  "crawling_time": "2024-01-22 13:25:16",
+  "crawling_time_epoch": 1705904716,
+  "path_data_raw": "data/data_raw/review_appsapks/wifi_automatic_–_wifi_auto_connect_apk/json/detail/WiFi_Automatic_–_WiFi_auto_connect_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/wifi_automatic_–_wifi_auto_connect_apk/json/detail/WiFi_Automatic_–_WiFi_auto_connect_APK.json",
+  "reviews_name": "WiFi Automatic – WiFi auto connect APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "WiFi Automatic – WiFi auto connect",
+    "Package": "com.kimcy92.wifiautoconnect",
+    "Version": "1.4.5.7",
+    "Size": "3.58 MB",
+    "Developed_By": "Kimcy929",
+    "descriptions": "WiFi Automatic Connect – WiFi Hotspot is the app helps you connect and stop WiFi connection, Mobile Hotspot automatically, this helps you manage battery on your phone better.\nFeatures:\n● Support multiple languages(English, Spanish, Russian, Czech, Dutch…)\n● Turn on WiFi:\n1. When device gets unlocked\n2. When charging battery\n3. When launching an app\n4. Every x minutes\n● Turn off WiFi:\n1. When Screen Off\n2. When battery low\n3. Auto when Airplane mode on\n4. Stop charging battery\n● Scheduler(Schedule Alarm to enable WiFi automatically):\n1. Schedule time to auto turn on WiFi every day\n2. Schedule time to auto turn off WiFi every day\n3. Enable WiFi auto when launching an app\n4. Limit time per turn on WiFi\nIt is the tool useful for your phone to simple handle on Android.\nIf you want to support me translate to your language please join my project here\noskytui.oneskyapp.com/collaboration/project?id=198731\nFree icon from : materialdesignicons.com/\nWhat’s New\nBug fixes (app crash when enter time too big)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:31:12",
+  "crawling_time_epoch": 1705905072,
+  "path_data_raw": "data/data_raw/review_appsapks/fun_race_3d_apk/json/antonia.json",
+  "path_data_clean": "data/data_clean/review_appsapks/fun_race_3d_apk/json/antonia.json",
+  "reviews_name": "Fun Race 3D APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Fun Race 3D",
+    "Package": "com.slippy.linerusher",
+    "Version": "1.2.4",
+    "Size": "42.08 MB",
+    "Developed_By": "Good Job Games",
+    "descriptions": "From folks who brought you Run Race 3D.\nExperience full parkour experience with hundreds of unique levels.\nRace with others, achieve levels , unlock new characters.\nEvery level brings a new unique fun experience. Very easy to play.\nHold to run, release to stop.\nDo you have what it takes to reach to end?\nWhat’s New"
+  },
+  "detail_reviews": {
+    "username_reviews": "antonia",
+    "image_reviews": null,
+    "created_time": "2020-12-31 15:37:31",
+    "created_time_epoch": 1609429051,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "SFERA EBBASTA",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-31 15:37:31",
+    "date_of_experience_epoch": 1609429051
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:35:22",
+  "crawling_time_epoch": 1705905322,
+  "path_data_raw": "data/data_raw/review_appsapks/madden_nfl_mobile_apk/json/detail/MADDEN_NFL_MOBILE_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/madden_nfl_mobile_apk/json/detail/MADDEN_NFL_MOBILE_APK.json",
+  "reviews_name": "MADDEN NFL MOBILE APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "MADDEN NFL MOBILE",
+    "Package": "com.ea.game.maddenmobile15_row",
+    "Version": "6.0.4",
+    "Size": "83.66 MB",
+    "Developed_By": "ELECTRONIC ARTS",
+    "descriptions": "MADDEN NFL MOBILE IS BACK AND BETTER THAN EVER, WITH DYNAMIC NFL SEASONS, COMPETITIVE GAMEPLAY, AND NEW OFFENSIVE SCHEMES WITH ABILITIES TO BUILD YOUR TEAM AROUND.\nBecome an NFL GM and take your team to the Super Bowl as you play through dynamic NFL seasons. Take on Madden's Masters when you build your team of NFL Superstars and Legends, ultimately facing off with the real NFL MVP himself, Patrick Mahomes. Compete with friends in Arena H2H or Overdrive and help others along the way with Co-op Assist as you define your NFL journey in the deepest and most competitive Madden NFL Mobile to date.\nSTART YOUR JOURNEY TO THE SUPER BOWL\nChoose your NFL franchise and take over as the GM. Sign players and deal with holdouts, completing daily objectives to unlock new players while encountering dynamic scenarios throughout the NFL Season as you take your team to the Super Bowl and create an NFL dynasty.\nCOLLECT THE ALL-NEW MADDEN MASTERS\nFace off and defeat today's NFL Superstars and the daunting NFL Legends of yesteryear as you compete to unlock each Madden Master. Then go up against Patrick Mahomes to become the real MVP of Madden NFL Mobile.\nA SCHEME FOR EVERY PLAYSTYLE\nSeparate from the field, perfecting your skills with each new offensive scheme like Spread, Smashmouth, West Coast, and Vertical. You’re in total control of how you put the points on the scoreboard and take down your opponents.\nHELP YOUR FRIENDS ALONG THE WAY\nWith Co-op Assist, you’re never alone on your NFL journey. Ask for help from league mates to unlock that Madden Master or complete objectives. Choose when you give a helping hand to others and work together to build Super Bowl-winning teams. Your Madden NFL season starts now!\nRequires a persistent Internet connection (network fees may apply). Requires acceptance of EA’s Privacy & Cookie Policy and User Agreement. Contains advertisements for EA and its partners. Includes in-game advertising. Collects data through third party analytics technology (see Privacy & Cookie Policy for details). Collects data through third party ad serving and analytics technology (See Privacy & Cookie Policy for details). Contains direct links to the Internet and social networking sites intended for an audience over 13. The app uses Google Play Game Services. Log out of Google Play Game Services before installation if you don’t want to share your game play with friends.\nWhat’s New\nWelcome to our biggest update ever, packed with all-new visuals, features, and more! Pick a favorite NFL team and hit the field to experience:\n• Seasons – they’re back! Become the GM of your favorite NFL team and take them to the Super Bowl.\n• Madden Masters – build an Ultimate Team of today's Superstars and yesterday's Legends as you build your dynasty\nThanks for playing!"
+  }
+}

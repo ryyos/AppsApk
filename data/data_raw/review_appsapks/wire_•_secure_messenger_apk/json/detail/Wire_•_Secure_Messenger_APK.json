@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:32:56",
+  "crawling_time_epoch": 1705905176,
+  "path_data_raw": "data/data_raw/review_appsapks/wire_•_secure_messenger_apk/json/detail/Wire_•_Secure_Messenger_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/wire_•_secure_messenger_apk/json/detail/Wire_•_Secure_Messenger_APK.json",
+  "reviews_name": "Wire • Secure Messenger APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Wire • Secure Messenger",
+    "Package": "com.wire",
+    "Version": "3.38.826",
+    "Size": "19.99 MB",
+    "Developed_By": "Wire Swiss GmbH",
+    "descriptions": "Wire is the most secure collaboration platform. We increase the productivity in your team while keeping your information private. Wire allows your team to communicate and share information easily and securely – messages, files, conference calls or private conversations – always in context.\n– Communicate with your teams through private or group conversations\n– Share and collaborate with files, documents, links with reactions\n– Press the one-click conference call button and your voice or video meetings starts on time\n– Invite partners, customers and suppliers to collaborate through the unique guest rooms\n– Increase privacy through ephemeral messages and device fingerprinting\n– Integrate Wire with your corporate applications and services\n– Recognized by IDC as industry leading security and privacy approach through Open Source, end to end encryption, forward secrecy and public audits\nWire is available on any device and operating system – so your team can collaborate whether in the office or on the road.\nWire is also available as an on-demand solution for crisis collaboration.\nWire offers a free version for external business partners or friends and family use.\nTo learn more go to wire.com\nWhat’s New\nNew:\nApp lock. Enable it in your settings for an added level of security.\nWire now only supports Android 5.0 and above.\nHide notification content on lock screen – Enable in settings.\nFixed:\nOn some devices, images could not be saved to gallery.\nTimed images may have not appeared correctly."
+  }
+}

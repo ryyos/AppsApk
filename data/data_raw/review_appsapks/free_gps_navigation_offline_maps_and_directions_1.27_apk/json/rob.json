@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "navigation.location.maps.finder.directions.gps.gpsroutefinder"
+  ],
+  "crawling_time": "2024-01-22 13:22:31",
+  "crawling_time_epoch": 1705904551,
+  "path_data_raw": "data/data_raw/review_appsapks/free_gps_navigation_offline_maps_and_directions_1.27_apk/json/rob.json",
+  "path_data_clean": "data/data_clean/review_appsapks/free_gps_navigation_offline_maps_and_directions_1.27_apk/json/rob.json",
+  "reviews_name": "Free GPS Navigation: Offline Maps and Directions 1.27 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "navigation.location.maps.finder.directions.gps.gpsroutefinder",
+    "Version": "1.27",
+    "Size": "10.30 MB",
+    "Developed_By": "SaaAneeDroid",
+    "descriptions": "By using Free GPS Navigation: Offline Maps and Directions app will get all below features for free:\n1. Live online Maps.\n2. Download Offline Maps for free.\n3. Best possible Driving Directions.\n4. Navigation.\n5. GPS.\n6. Traffic Updates.\n7. Weather Alerts.\n8. Travel Tools (Translator, GPS Speedo Meter, Sound Meter).\n9. Digital Compass.\n10. Current Location.\nGPS Offline Maps, Navigations Directions and Directions meet app with Maps, Navigation, Traffic and Offline Maps is the official app you can rely on for real-time GPS navigation, traffic, offline maps, Navigation, directions, street view, maps, maps with directions, navigation, offline maps traffic, traffic conditions and details about millions of places of interest, such as airports, restaurants, hospitals, bars, café, cinema and popular food places near you. You can enjoy unlimited navigation features with no hidden costs.\nGPS Maps has a unique GPS search experience using directions navigation traffic and also a complete route guide using voice that helps users find directions without touching the application. In addition to voice navigation, users will benefit from Live maps, automatic rerouting when conditions change on the road, and find restaurants, bars, hospitals and much more.\nGPS offline Maps, Directions and Offline Navigation helps you find your fastest route and navigate you to your destination. You just need to click on the map to find the distance to the destination and route map with real time traffic details.\nNavigates you to your destination with voice assistance on the maps. Show you the directions to your desired destination. You have a choice to click and select your location on the map or you can type the location to reach.\nGPS Route on Maps, Directions and Navigation helps you to find your current location too just in case you are lost.\nYou also have an option to choose the view of the maps, you can select the types of maps, Standard Maps or Hybrid Maps or Satellite view Maps and traffic view etc., for a better clarity with live maps which gets updated by live maps frequently.\nYou have a choice to view the list of the locations you tried to find out the route with the history option.\nGPS Route on Maps, Directions and Navigation is available for free in Play Store.\nHere is what you can find quickly with our app:\n➢ Local Maps Finder – Find local maps like a pro\n➢ Maps Finder – Find any map that is convenient for you\n➢ Directions app – Find any direction that is easy to navigate\n➢ Navigator – Navigate faster to the destination\n➢ Local Places – Find local places like a pro\nOther fantastic features of this app are:\nNavigation with GPS Offline Maps include navigation directions for a better travel plan.\nStep by step Traffic Directions to avoid confusion on busy roads\nLive traffic updates and with live GSP maps option. Get live traffic updates and weather updates which will help you plan your travel accordingly\nDriving Directions to your destination. Get easy directions for a better access to cut short time to reach your destination.\nGet real time navigation with live updates on traffic and weather."
+  },
+  "detail_reviews": {
+    "username_reviews": "rob",
+    "image_reviews": null,
+    "created_time": "2020-05-19 10:33:49",
+    "created_time_epoch": 1589884429,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "will not install on android 7.1",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-05-19 10:33:49",
+    "date_of_experience_epoch": 1589884429
+  }
+}

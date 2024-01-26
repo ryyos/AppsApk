@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:34:56",
+  "crawling_time_epoch": 1705905296,
+  "path_data_raw": "data/data_raw/review_appsapks/plusme_camera_–_best_photo_app_apk/json/detail/PlusMe_Camera_–_best_photo_app_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/plusme_camera_–_best_photo_app_apk/json/detail/PlusMe_Camera_–_best_photo_app_APK.json",
+  "reviews_name": "PlusMe Camera – best photo app APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "PlusMe Camera – best photo app",
+    "Package": "com.meitu.beautyplusme",
+    "Version": "1.5.1.2",
+    "Size": "30.60 MB",
+    "Developed_By": "Meitu (China) Limited",
+    "descriptions": "Formerly known as BeautyPlus Me, this light app uses less space on your phone and is available in 12 regional languages like Hindi, Marathi, Tamil, Gujarati, Bengali, Telugu, Kannada etc.\nThe easiest photo editing and sharing app with the best filters, fun effects and beautification tools. Download now!\nFeatures:\nTake beautiful photos:\nIncredible filters that help you take beautiful photos on the go! PlusMe helps you capture and remember all the precious moments in your lives.\nProfessional Photo Editing Tools:\nChoose from a wide variety of beautifying features. You can smoothen and blur out blemishes and retouch your photos with ease. It’s time to share the most beautiful version of your life!\nAbout Meitu\nWith over 900 Million users around the world, Meitu is a leading beauty and lifestyle app developer as well as a global innovator in mobile video and photography, including proprietary facial recognition and virtual “try-on” technologies for makeup, hair and fashion. Learn more at us.meitu.com.\nShare your Picture with us!\nIn order to improve upon and provide the best services to you, PlusMe collects limited user information including your device ID. We provide the highest form of encryption and privacy protection for our user's data and don't use this information for any commercial purpose. For more details please check our Privacy Policy.\nWhat’s New\n+ Improve app performance\n+ Fixed bugs"
+  }
+}

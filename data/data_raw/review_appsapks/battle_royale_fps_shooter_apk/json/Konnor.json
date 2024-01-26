@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:36:51",
+  "crawling_time_epoch": 1705905411,
+  "path_data_raw": "data/data_raw/review_appsapks/battle_royale_fps_shooter_apk/json/Konnor.json",
+  "path_data_clean": "data/data_clean/review_appsapks/battle_royale_fps_shooter_apk/json/Konnor.json",
+  "reviews_name": "Battle Royale: FPS Shooter APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Battle Royale: FPS Shooter",
+    "Package": "com.fpsshooter.battleroyale",
+    "Version": "1.12.02",
+    "Size": "73.56 MB",
+    "Developed_By": "Azur Interactive Games Limited",
+    "descriptions": "Fight for survival on a dead island with other players like you until all but the strongest have met their bitter end! Time flies by and the zone breathes right down your neck, so snatch up your weapons and equipment and jump into battle against the island's other survivors!\nFeatures:\nSkins for every taste\nSkins looks absolutely perfect, just like in true block survival games, you can purchase any pixel block skins;\nGraphics settings for the weak phones\nOur pixel shooter with full HD graphics and also you can make low setting if you have a weak phone;\nMore than 30 types of weapons\nHuge military arsenal such as AK, minigun, sniper guns, smg, pistols and so on.\nAuto shooting\nYou don’t need to push the shot button, all you have to do is just pixel combat.\nMassive map size;\nGrand map size, that’s what we have, it’s surrounded by the mountains and dead zone. Big radiation island this is the place where you have to survive.\nEasy, intuitive control.\nJust chill! You will not notice how hours and dayz will fly by while you playing the pixel shooter.\nWhat’s New\nBug fixes"
+  },
+  "detail_reviews": {
+    "username_reviews": "Konnor",
+    "image_reviews": null,
+    "created_time": "2020-04-08 17:50:11",
+    "created_time_epoch": 1586368211,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Fortnite is awesome!",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-04-08 17:50:11",
+    "date_of_experience_epoch": 1586368211
+  }
+}

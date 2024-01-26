@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:35:32",
+  "crawling_time_epoch": 1705905332,
+  "path_data_raw": "data/data_raw/review_appsapks/asphalt_nitro_apk/json/Daniel_kamanga.json",
+  "path_data_clean": "data/data_clean/review_appsapks/asphalt_nitro_apk/json/Daniel_kamanga.json",
+  "reviews_name": "Asphalt Nitro APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Asphalt Nitro",
+    "Package": "com.gameloft.android.ANMP.GloftAGHM",
+    "Version": "1.7.2o",
+    "Size": "37.44 MB",
+    "Developed_By": "Gameloft SE",
+    "descriptions": "Can't get enough Asphalt? This 35 MB monster packs all the adrenaline-pumping velocity you love — and it's available now!\nTake control of luxury licensed cars, such as the Ferrari LaFerrari or Lamborghini Veneno, in breathtaking environments that you’ll need to tame with the craziest stunts you can pull off! Fire up your Nitro and be the first to cross the finish line!\nBURN UP THE STREETS & THE SKY!\n• Take your amazing speed machines and push them miles beyond their limits!\n• Hit the ramps and take the race to new heights.\n• Manoeuvre through the air while pulling off mind-blowing stunts.\nMASTER MULTIPLE MODES!\n• Challenge opponents in 8 different game modes, including Gate Drift, Knockdown, and much more!\n• Police Chase mode is back for the first time since the earliest days of the series!\n• Beat your friends in asynchronous races!\nCIRCLE THE GLOBE!\n• Race across some of the most gorgeous locations on Earth, each recreated with stunning graphics. From Brazil to China, you’ve got a whole world to explore!\n• Discover loads of hidden shortcuts to help you completely dust the competition.\nImportant Consumer Information:\nPlease note that the game may not launch or work properly with Intel Atom processor devices.\n_____________________________________________\nVisit our official site at http://gmlft.co/website_EN\nCheck out the new blog at http://gmlft.co/central\nDon't forget to follow us on social media:\nFacebook: http://gmlft.co/AN_Facebook\nTwitter: http://gmlft.co/SNS_TW_EN\nInstagram: http://gmlft.co/GL_SNS_IG\nYouTube: http://gmlft.co/AN_YouTube\nForum : http://gmlft.co/AN_Forum\nPrivacy Policy: http://www.gameloft.com/en-gb/privacy-notice\nTerms of Use: http://www.gameloft.com/en-gb/conditions-of-use\nEnd-User License Agreement: http://www.gameloft.com/en-gb/eula\nWhat’s New\nMinor bug fixes."
+  },
+  "detail_reviews": {
+    "username_reviews": "Daniel kamanga",
+    "image_reviews": null,
+    "created_time": "2021-09-21 13:29:08",
+    "created_time_epoch": 1632230948,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Game is good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-09-21 13:29:08",
+    "date_of_experience_epoch": 1632230948
+  }
+}

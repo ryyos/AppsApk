@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Whatsapp QR Code",
+    "WhatsApp Web",
+    "Whatsapp Web QR Code"
+  ],
+  "crawling_time": "2024-01-22 13:35:47",
+  "crawling_time_epoch": 1705905347,
+  "path_data_raw": "data/data_raw/review_appsapks/whatsapp_web_qr_code_get_whatsapp_chats_on_your_pc_apk/json/detail/Whatsapp_Web_QR_Code_Get_Whatsapp_Chats_On_Your_PC_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/whatsapp_web_qr_code_get_whatsapp_chats_on_your_pc_apk/json/detail/Whatsapp_Web_QR_Code_Get_Whatsapp_Chats_On_Your_PC_APK.json",
+  "reviews_name": "Whatsapp Web QR Code: Get Whatsapp Chats On Your PC APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 3,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

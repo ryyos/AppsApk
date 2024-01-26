@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:32:12",
+  "crawling_time_epoch": 1705905132,
+  "path_data_raw": "data/data_raw/review_appsapks/2face-2_accounts_for_whatsapp__social_apps_apk/json/detail/2Face-2_Accounts_for_whatsapp__social_apps_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/2face-2_accounts_for_whatsapp__social_apps_apk/json/detail/2Face-2_Accounts_for_whatsapp__social_apps_APK.json",
+  "reviews_name": "2Face-2 Accounts for whatsapp & social apps APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "2Face-2 Accounts for whatsapp&social apps",
+    "Package": "com.thinkmobile.accountmaster",
+    "Version": "1.12.13",
+    "Size": "6.79 MB",
+    "Developed_By": "ThinkMobile Inc.",
+    "descriptions": "2Face is the best multiple accounts for whatsapp, we compatible the whatsapp running perfectly, if you can't open whatsapp with other multi-account apps, please choose 2Face\n2Face-Multiple Accounts Master help you clone and run multiple social&game accounts online simultaneously on one phone.\nDo you want to receive messages from two WhatsApp on one phone?\nDo you want to use two Facebook accounts at the same time?\nDo you want to separate working and living space?\nDo you want double experience when playing games?\nA mobile phone, two accounts, two kinds of life, double income, Account Master can be achieved.\n2Face-Multiple Account Master is designed for users who need to handle multiple accounts of the same application on one phone.:🖲️ One-tap to clone apps, easily add the multiple account for Facebook, WhatsApp, Twitter, QQ, WeChat and other social apps, the data between the cloned account and the main account is stored separately and the messages do not interfere with each other.\n🌟 Run multiple accounts at the same time on one device.\nSupport for multiple accounts on the same phone stable login and use, such as WhatsApp, Facebook, Twitter, you can connect different friends through different accounts, you can also distinguish between work and living space;\nThe data between the cloned account and the main account is stored separately and the messages do not interfere with each other.\n🌟 Protect user privacy and social accounts use password lock\n• Hide users' secret apps without worrying about prying eyes by keeping apps only in secret space.\n• Protect user privacy with a security lock.\n🌟 One game, two accounts, double payoff\nUsing two game accounts at the same time, whether it is to complete the game task or gain double experience, have become very simple;\n🌟 Fake Location\nFake a virtual location for whatsapp to better protect privacy.\n🌟 One-tap cleanup to speed up\nYou can see the memory occupied by the apps running on the Account Master, the memory can be released at any time to improve the running speed;\n💪 Highlights\n🏆 easy to use and stable, designed for multiple accounts;\n🏆 occupy small memory, low CPU consumption\n🏆 fake location, privacy is more secure\nNote\n▶ Permissions: Account Master will need to apply some necessary permissions by the apps added to work properly. For example, do not allow Account Master to get your location, will not be able to send your location to your friends in some apps running on Account Master. In addition, we do not collect any of your personal information to protect it.\n▶ Memory: The Account Master does not occupy memory in itself, and does not actually consume the memory, battery and data of the phone.\n▶ Notice: To ensure that messages for some social apps are delivered in time, add Account Master to the Whitelisted or Exceptions list for some third-party apps.\n▶ Conflicts: Due to some application restrictions, you are unable to run two accounts for some social apps using the same phone number, so you will need to use your other mobile number for your second account on Account Master .\nWhat’s New"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Download Mini Militia APK",
+    "Install Mini Militia APK",
+    "Mini Militia APK",
+    "Mini Militia Mod APK",
+    "Mini Militia Tips",
+    "Mini Militia Tricks"
+  ],
+  "crawling_time": "2024-01-22 13:37:05",
+  "crawling_time_epoch": 1705905425,
+  "path_data_raw": "data/data_raw/review_appsapks/mini_militia_mod_apk_–_how_to_get_unlimited_everything_apk/json/MD_Emon.json",
+  "path_data_clean": "data/data_clean/review_appsapks/mini_militia_mod_apk_–_how_to_get_unlimited_everything_apk/json/MD_Emon.json",
+  "reviews_name": "Mini Militia Mod APK – How to Get Unlimited Everything APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 8,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "MD Emon",
+    "image_reviews": null,
+    "created_time": "2020-07-03 18:09:02",
+    "created_time_epoch": 1593799742,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "nice",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-07-03 18:09:02",
+    "date_of_experience_epoch": 1593799742
+  }
+}

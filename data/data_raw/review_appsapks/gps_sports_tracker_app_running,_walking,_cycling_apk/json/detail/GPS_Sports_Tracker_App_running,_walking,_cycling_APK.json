@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Maps"
+  ],
+  "crawling_time": "2024-01-22 13:24:17",
+  "crawling_time_epoch": 1705904657,
+  "path_data_raw": "data/data_raw/review_appsapks/gps_sports_tracker_app_running,_walking,_cycling_apk/json/detail/GPS_Sports_Tracker_App_running,_walking,_cycling_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/gps_sports_tracker_app_running,_walking,_cycling_apk/json/detail/GPS_Sports_Tracker_App_running,_walking,_cycling_APK.json",
+  "reviews_name": "GPS Sports Tracker App: running, walking, cycling APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.caynax.sportstracker",
+    "Version": "2.6.1",
+    "Size": "13 MB",
+    "Developed_By": "Caynax",
+    "descriptions": "Stay fit – track value of distance, average speed, burned calories, steps (pedometer) and much more during running, cycling, walking, rollerskating and other sports and fitness activities. Lose body fat and improve cardiorespiratory fitness with Caynax GPS Sports Tracker.\n✔ Fast, light and user-friendly app.\n✔ No registration needed.\n✔ Small size (below 10MB).\n✔ Supports over 30 languages\n✔ All for free.\nMain features:\n– Application uses Android device GPS(BEIDOU, GLONASS) to track your activity.\n– Track your progress live on map (Google Maps or OpenStreetMap).\n– Record the activity route.\n– Use TTS (Text To Speech) to get voice information about workout duration, distance, speed, burned calories, pace and more.\n– Auto pause – app will automatically pause when you are not moving.\n– Set workout goals (time or distance) to improve your stamina.\n– Use dark view in the evening or during strong sun exposure\n– Share your activities on social networks (Facebook, Google+ etc.)\n– Browse workouts history (+ store application data on GoogleDrive).\n– Monitor your workouts statistics – compare your results in daily, weekly and monthly intervals.\n– Customize workout dashboard to display information most important to you.\n– Add activities to schedule to create reminders (notification).\n– Metric (meters, kilometers) and imperial (miles, yards) units support\n– Android Wear support\n– Import/export workout to GPX and TCX format\nAvailable indicators:\nSpeed, Distance, Calories, Altitude, Duration, Steps, Pace, Movement Time, Average Speed, Average Pace, Maximum Altitude, Maximum Speed, Maximum Pace.\nAvailable sports and fitness activities:\nCycling (Bike/Bicycle Ride), Running (Jogging), Walking, Hiking, Swimming, Nordic Walking, Cross country skiing, Kayaking, Rollerskating, Rowing, Skateboarding, Skating, Snow skiing downhill, Snowboarding, Snowshoeing, Walking upstairs, Wheelchair, Motorbiking, Scooter, Mountain biking, Stand Up Paddling (SUP).\nApplication contains in-app advertisements."
+  }
+}

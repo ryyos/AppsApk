@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Amazon Gift Card",
+    "Buy Amazon Gift Card",
+    "Buy an Amazon Gift Card"
+  ],
+  "crawling_time": "2024-01-22 13:34:42",
+  "crawling_time_epoch": 1705905282,
+  "path_data_raw": "data/data_raw/review_appsapks/how_to_buy_an_amazon_gift_card_on_android_apk/json/detail/How_to_Buy_an_Amazon_Gift_Card_on_Android_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/how_to_buy_an_amazon_gift_card_on_android_apk/json/detail/How_to_Buy_an_Amazon_Gift_Card_on_Android_APK.json",
+  "reviews_name": "How to Buy an Amazon Gift Card on Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

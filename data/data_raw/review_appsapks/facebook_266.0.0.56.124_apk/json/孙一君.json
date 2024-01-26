@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.facebook.katana"
+  ],
+  "crawling_time": "2024-01-22 13:23:47",
+  "crawling_time_epoch": 1705904627,
+  "path_data_raw": "data/data_raw/review_appsapks/facebook_266.0.0.56.124_apk/json/孙一君.json",
+  "path_data_clean": "data/data_clean/review_appsapks/facebook_266.0.0.56.124_apk/json/孙一君.json",
+  "reviews_name": "Facebook 266.0.0.56.124 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.facebook.katana",
+    "Version": "266.0.0.56.124",
+    "Size": "48.16 MB",
+    "Developed_By": "Facebook",
+    "descriptions": "Keeping up with friends is faster and easier than ever. Share updates and photos, engage with friends and Pages, and stay connected to communities important to you.\nFeatures on the Facebook app include:\n* Connect with friends and family and meet new people on your social media network\n* Set status updates & use Facebook emoji to help relay what’s going on in your world\n* Share photos, videos, and your favorite memories.\n* Get notifications when friends like and comment on your posts\n* Find local social events, and make plans to meet up with friends\n* Play games with any of your Facebook friends\n* Backup photos by saving them in albums\n* Follow your favorite artists, websites, and companies to get their latest news\n* Look up local businesses to see reviews, operation hours, and pictures\n* Buy and sell locally on Facebook Marketplace\n* Watch live videos on the go\nThe Facebook app does more than help you stay connected with your friends and interests. It's also your personal organizer for storing, saving and sharing photos. It's easy to share photos straight from your Android camera, and you have full control over your photos and privacy settings. You can choose when to keep individual photos private or even set up a secret photo album to control who sees it.\nFacebook also helps you keep up with the latest news and current events around the world. Subscribe to your favorite celebrities, brands, news sources, artists, or sports teams to follow their newsfeeds, watch live streaming videos and be caught up on the latest happenings no matter where you are!\nThe most important desktop features of Facebook are also available on the app, such as writing on timelines, liking photos, browsing for people, and editing your profile and groups.\nNow you can get early access to the next version of Facebook for Android by becoming a beta tester. Learn how to sign up, give feedback and leave the program in our Help Center: http://on.fb.me/133NwuP\nSign up directly here:\nhttp://play.google.com/apps/testing/com.facebook.katana\nProblems downloading or installing the app? See http://bit.ly/GPDownload1\nStill need help? Please tell us more about the issue. http://bit.ly/invalidpackage\nFacebook is only available for users age 13 and over.\nTerms of Service: http://m.facebook.com/terms.php."
+  },
+  "detail_reviews": {
+    "username_reviews": "孙一君",
+    "image_reviews": null,
+    "created_time": "2021-06-18 05:31:54",
+    "created_time_epoch": 1623994314,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "这个APP很好用",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-18 05:31:54",
+    "date_of_experience_epoch": 1623994314
+  }
+}

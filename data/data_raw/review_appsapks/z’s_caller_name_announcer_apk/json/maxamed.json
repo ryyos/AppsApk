@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:30:31",
+  "crawling_time_epoch": 1705905031,
+  "path_data_raw": "data/data_raw/review_appsapks/z’s_caller_name_announcer_apk/json/maxamed.json",
+  "path_data_clean": "data/data_clean/review_appsapks/z’s_caller_name_announcer_apk/json/maxamed.json",
+  "reviews_name": "Z’s Caller Name Announcer APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Z’s Caller  Announcer",
+    "Package": "com.topfreeapps.voicealerts",
+    "Version": "1.8",
+    "Size": "4.22 MB",
+    "Developed_By": "Z Mobile Apps",
+    "descriptions": "Z's Caller Name Announcer is an easy to use caller name announcer app which uses the phenomenon of text to speech and announce caller name or SMS sender name or notification caused app name.\nZ's Caller Name Announcer comes with two different setups, first is Simple Setup to enable/disable voice announcement on Call, SMS & Notification and the second is Advance Setup to customize voice announcements through Contacts for call & SMS, Apps for notifications, Time, Sound Mode and Battery Level and adjust Voice through Pitch, Speech rate, Repeats and Delay in voice setting page.\nZ's Caller Name Announcer is a very helpful app to know who's calling or sent SMS or which app causing the notification without actually checking your phone specially while you are driving.\nFeatures:\n***** Voice Alerts for Call, SMS & Notifications\n– Get voice alerts on every Call, SMS and Notification.\n***** Configure Voice Alerts by Contacts\n– Enable/disable Voice Notification by contacts for call & SMS\n***** Configure Voice Alerts by Apps\n– Enable/disable Voice Notification by apps for notifications\n***** Configure Voice Alerts by Ringing Mode\n– Enable/disable Voice Notification by ringing(sound) mode\n***** Configure Voice Alerts by Time\n– Enable/disable Voice Notification by time duration\n***** Configure Voice Alerts by Battery Saving\n– Disable Voice Notification when battery is low\n***** Adjust Voice\n– Adjust Voice through Pitch, Speech rate, Repeats and Delay\n> This app uses Accessibility services (BIND_ACCESSIBILITY_SERVICE). <\nThe most powerful and fully loaded Caller Name Announcer app. Try Now!!\nWhat’s New"
+  },
+  "detail_reviews": {
+    "username_reviews": "maxamed",
+    "image_reviews": null,
+    "created_time": "2020-03-14 06:26:26",
+    "created_time_epoch": 1584167186,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-03-14 06:26:26",
+    "date_of_experience_epoch": 1584167186
+  }
+}

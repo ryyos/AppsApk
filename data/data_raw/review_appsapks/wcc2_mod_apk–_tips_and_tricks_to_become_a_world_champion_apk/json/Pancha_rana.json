@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Download WCC2 Mod APK",
+    "WCC2 Mod Android",
+    "WCC2 Mod APK",
+    "WCC2 Mod Tips",
+    "WCC2 Mod Tricks"
+  ],
+  "crawling_time": "2024-01-22 13:37:11",
+  "crawling_time_epoch": 1705905431,
+  "path_data_raw": "data/data_raw/review_appsapks/wcc2_mod_apk–_tips_and_tricks_to_become_a_world_champion_apk/json/Pancha_rana.json",
+  "path_data_clean": "data/data_clean/review_appsapks/wcc2_mod_apk–_tips_and_tricks_to_become_a_world_champion_apk/json/Pancha_rana.json",
+  "reviews_name": "WCC2 Mod APK– Tips and Tricks to Become a World Champion APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "Pancha rana",
+    "image_reviews": null,
+    "created_time": "2019-08-05 16:52:04",
+    "created_time_epoch": 1565023924,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "The first time since we are",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-08-05 16:52:04",
+    "date_of_experience_epoch": 1565023924
+  }
+}

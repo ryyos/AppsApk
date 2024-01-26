@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:24:22",
+  "crawling_time_epoch": 1705904662,
+  "path_data_raw": "data/data_raw/review_appsapks/twitter_lite_apk/json/detail/Twitter_Lite_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/twitter_lite_apk/json/detail/Twitter_Lite_APK.json",
+  "reviews_name": "Twitter Lite APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Twitter Lite",
+    "Package": "com.twitter.android.lite",
+    "Version": "2.1.2–28",
+    "Size": "1.29 MB",
+    "Developed_By": "Twitter, Inc.",
+    "descriptions": "Get breaking news, politics, trending world events, sports scores, and the latest global news stories as they unfold. Easily market your business, find out the weather, interact with global brands and, quickly provide or receive customer service – all with less data.\nSame Twitter features, new data saver capacity.\nEnjoy improved notifications for world news events, sports scores, weather updates, and the latest in local news. Get real time updates for the news stories you care about. Save Bookmarks, Tweet in 280 characters, share trending videos, images, and much more.\nTwitter Lite is fast to install, space- and data-friendly:\n1. Data saver — less than 3MB to install, so it doesn’t take up much space on your phone.\n2. See sports scores, entertainment, global news, and politics quickly on 2G and 3G networks.\n3. Turn on data saver mode to download only the images or videos you want to see.\nGet the latest news as it unfolds. From breaking news and sports to entertainment, trending music, live news, politics, weather updates and world news events, it all happens on Twitter. Be a part of the conversation and see what’s happening.\nHere’s how:\nHome Timeline\n• See what entertainment and sports personalities, friends or other people are talking about.\n• Follow local news, world events, politics, sports scores, and more.\n• See Tweets, images, videos, and live news updates for today’s biggest news events.\n• Retweet, share, like, bookmark or reply to Tweets in your timeline.\n• Chat with the world. Write a Tweet to let your social network know what’s happening.\nExplore\n• See breaking news, trending topics, and the latest hashtags from across the world.\n• Be in the know about entertainment, politics, local news, and world events.\n• Explore news stories and chat or tweet about live news with your social network.\n• Search for entertainment personalities, trending topics, and breaking news to follow.\n• Experience dynamic media — like trending music, images, videos, live news broadcasts, and GIFs.\nDirect Messages\n• Chat privately with friends and followers about live news events or what’s happening near you.\n• Share Tweets, images and videos to specific people.\n• Create a private group conversation so you can chat about what’s happening.\nNotifications\n• See the best Tweets you may have missed.\n• Discover which of your Tweets were liked or Retweeted.\n• Respond to replies or be alerted to Tweets you were mentioned in.\nDon’t want to be public? You can make your account private so only people you want can follow you and see your Tweets.\nCan’t download? Access Twitter Lite on mobile.twitter.com\nLearn how to use Twitter Lite in the Help Center\nTwitter Lite is currently compatible with devices supporting Android versions 5.0 and above."
+  }
+}

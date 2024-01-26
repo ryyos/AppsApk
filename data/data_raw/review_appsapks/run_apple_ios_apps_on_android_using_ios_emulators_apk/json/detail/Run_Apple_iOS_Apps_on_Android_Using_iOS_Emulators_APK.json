@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "iOS Apps on Android",
+    "iOS Emulators for Android",
+    "Run Apple iOS Apps on Android",
+    "Run ios apps in Android"
+  ],
+  "crawling_time": "2024-01-22 13:36:41",
+  "crawling_time_epoch": 1705905401,
+  "path_data_raw": "data/data_raw/review_appsapks/run_apple_ios_apps_on_android_using_ios_emulators_apk/json/detail/Run_Apple_iOS_Apps_on_Android_Using_iOS_Emulators_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/run_apple_ios_apps_on_android_using_ios_emulators_apk/json/detail/Run_Apple_iOS_Apps_on_Android_Using_iOS_Emulators_APK.json",
+  "reviews_name": "Run Apple iOS Apps on Android Using iOS Emulators APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

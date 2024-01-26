@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.onetongames.rocketroyale"
+  ],
+  "crawling_time": "2024-01-22 13:18:39",
+  "crawling_time_epoch": 1705904319,
+  "path_data_raw": "data/data_raw/review_appsapks/rocket_royale_2.0.2_apk/json/L♡RA_¥T.json",
+  "path_data_clean": "data/data_clean/review_appsapks/rocket_royale_2.0.2_apk/json/L♡RA_¥T.json",
+  "reviews_name": "Rocket Royale 2.0.2 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.onetongames.rocketroyale",
+    "Version": "2.0.2",
+    "Size": "61.83 MB",
+    "Developed_By": "GameSpire Ltd.",
+    "descriptions": "Rocket Royale is one of a kind Battle Royale game, the main goal is to build a Rocket and fly away from the island! To do this you need to find crafting resources from falling meteors. Of course other players will want to hijack your rocket, so defend it! Collect wood and Build a Fort to defend your positions. The unique battle royale game reveals a lot of tactics by crafting and building covers around you! 100% destructible environment, every building can be destroyed or dismantled! Rocket Rocket Royale has no parachutes or shrinking dead zones, but you can use portals to navigate your way around the island instead.\nRocket Royale multiplayer offers Solo, Duo and Squad up to 3 players per team. All players are real people online, no fake bots! There is a lot of content to discover: characters, hammers, avatars, custom rockets, even dances! Progress by gaining XP and levelling up and compete in global Leaderboards!\nThe game requires less than 100 MB without additional downloads, and very well optimized for low-end devices!\nFeatures:\n– Unique Rocket Battle Royale gameplay.\n– Everything is destructible! Real Sandbox mode.\n– Craft Defenses, Forts, Towers, Sky Bridges, anything possible!\n– Real-time fast-paced 25-Players online matches!\n– Play with your friends online, connect to your friend game via friend list.\n– Highest FPS (frames-per-second) you can get!\n– Tons of items and weapons to loot!\n– Large open world battlefield.\nAre you ready to be creative, act smart and cause massive destruction? Welcome to Rocket Royale!\nHere is the promo code for a free reward: XXXYYZZZ\nJoin us on Facebook: https://facebook.com/groups/rocketroyale/\nFollow us on Twitter: https://twitter.com/GameSpire_org"
+  },
+  "detail_reviews": {
+    "username_reviews": "L♡RA ¥T",
+    "image_reviews": null,
+    "created_time": "2021-06-01 22:21:43",
+    "created_time_epoch": 1622586103,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "I don’t now about this",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-01 22:21:43",
+    "date_of_experience_epoch": 1622586103
+  }
+}

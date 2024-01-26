@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:38:44",
+  "crawling_time_epoch": 1705905524,
+  "path_data_raw": "data/data_raw/review_appsapks/web_browser_–_secure_explorer_apk/json/deddy_safriadi.json",
+  "path_data_clean": "data/data_clean/review_appsapks/web_browser_–_secure_explorer_apk/json/deddy_safriadi.json",
+  "reviews_name": "Web Browser – Secure Explorer APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Web Browser – Secure Explorer",
+    "Package": "secure.explorer.web.browser",
+    "Version": "1.5.5",
+    "Size": "3.03 MB",
+    "Developed_By": "iJoysoft",
+    "descriptions": "Web Browser Lite is an ultra lightweight mobile browser and web explorer which can give you rapid browsing speed and secure surfing experience.\nWeb Browser Lite can protect you from malicious threats and protect your privacy. One of the Most Trusted Browser for Privacy.\nIt designed for both Android phone and tablet.Key Features:\n– Ultra lightweight\n– Web surfing speed acceleration\n– Secure Browsing\n– Incognito browsing. Private browse the web without saving any web surfing history.\n– Homepage Speed Dial\n– Personalized bookmarks\n– History\n– Easy save your favorite sites\n– Text search\n– Fast download\n– Super easy copy/paste\n– Small Footprint\n– Full-screen mode\n– Search engine switch\n– Quick search: Google, Yahoo, Bing, and other default search engines\n– Supports Adobe Flash Player\n– User Agent settings\n– Font size adjustment\n– Advanced Gesture feature\n– Sharing – Super-easy and intuitive ways to share mobile contents through Facebook, Twitter, Email, SMS and other social media channels.\n– Fast navigation\nFree download to try this fast, safe, lightweight and smart Android Mobile Browser;\nWhat’s New\nv1.5.5\n🚀Incredible page load speed\n👌Optimize save and review offline web pages\n✨Online video is smoother\nv1.5.3\n💯Optimize Incognito mode for safer\n✌Optimize night mode, more friendly\nv1.5.2\n🎊Optimize the use of battery\n🎈Android 8.x system adaption\nv1.5.1\n👍Bug fixes and performance enhancements"
+  },
+  "detail_reviews": {
+    "username_reviews": "deddy safriadi",
+    "image_reviews": null,
+    "created_time": "2020-12-25 06:04:53",
+    "created_time_epoch": 1608876293,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Bagus",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-25 06:04:53",
+    "date_of_experience_epoch": 1608876293
+  }
+}

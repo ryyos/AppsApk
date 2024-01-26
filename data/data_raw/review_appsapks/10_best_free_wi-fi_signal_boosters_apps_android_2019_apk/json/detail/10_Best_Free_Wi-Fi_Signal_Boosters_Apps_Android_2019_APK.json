@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Best Free Wi-Fi Signal Boosters Apps",
+    "Free Wi-Fi Signal Boosters",
+    "Wi-Fi Signal Boosters Apps"
+  ],
+  "crawling_time": "2024-01-22 13:35:36",
+  "crawling_time_epoch": 1705905336,
+  "path_data_raw": "data/data_raw/review_appsapks/10_best_free_wi-fi_signal_boosters_apps_android_2019_apk/json/detail/10_Best_Free_Wi-Fi_Signal_Boosters_Apps_Android_2019_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/10_best_free_wi-fi_signal_boosters_apps_android_2019_apk/json/detail/10_Best_Free_Wi-Fi_Signal_Boosters_Apps_Android_2019_APK.json",
+  "reviews_name": "10 Best Free Wi-Fi Signal Boosters Apps Android 2019 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

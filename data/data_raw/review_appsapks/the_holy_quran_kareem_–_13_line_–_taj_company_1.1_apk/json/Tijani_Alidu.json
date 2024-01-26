@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "quran.taj.tajquran13line"
+  ],
+  "crawling_time": "2024-01-22 13:18:40",
+  "crawling_time_epoch": 1705904320,
+  "path_data_raw": "data/data_raw/review_appsapks/the_holy_quran_kareem_–_13_line_–_taj_company_1.1_apk/json/Tijani_Alidu.json",
+  "path_data_clean": "data/data_clean/review_appsapks/the_holy_quran_kareem_–_13_line_–_taj_company_1.1_apk/json/Tijani_Alidu.json",
+  "reviews_name": "The Holy Quran Kareem – 13 Line – Taj Company 1.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "quran.taj.tajquran13line",
+    "Version": "1.1",
+    "Size": "95.09 MB",
+    "Developed_By": "Taj Company Ltd",
+    "descriptions": "The Noble 13 line Quran from Taj Company\nTaj Al Quran Kareem 13 line is a FREE Holy Quran reciting application for android and other smartphones. This Quran Majeed app is optimized for reading Holy Quran with no distraction. We have tried to make your recitation as easy and thoughtful by keeping it simple and concise.\nYou can search The Noble Quran by Parah, Surah, and Ayat (ayah) and learn The Quran Tajweed in easy way. In Quran Taj Company 13 Lines, you can also save your Surah or page with unlimited bookmarks. While reciting The Holy Quran just tap the bookmark icon in quick toolbar to save the current Quran page plus you can search for particular ayah inside the application.\nBe a part in spreading The Quran with 13 Line and help others to gather its blessing. Share it with friends and family Via SMS, Email, Bluetooth, WhatsApp and other sharing option.\n13 line Holy Quran is specially designed for Hafiz-e-Quran Muslims who completely memorize Holy Quran in madrasa, school or other religious institution. By using The Holy Quran 13 Line Taj Company app you can enhance your recitation and spiritual experience with real feel of actual printed Holy Quran anytime anywhere. Al-Quran Kareem has a real page turning effect, elegant style 13 Line, search with PARA, SURAH, AYAT, ROKU, MAZIL & SAJDA & better zoom readability.\nFeatures of this Quran Majeed App:\n****************************************\n• Swipe from left to right to go Next page,\n• Search with PARA, SURAH, AYAT, ROKU, MAZIL & SAJDA,\n• 114 Surah part by part,\n• 13 Line Holy Quran,\n• You can Resume pages where you read last,\n• Add unlimited bookmarks\nDisclaimer: This application is built with caution and care. Before release, it was checked by certified Quran Proofreaders and found no errors. Taj Company always takes extra measures to make sure the calligraphy or text of the Holy Quran has no error of any sort. In case you find any issue that you think should be corrected, please contact us or comment. We would be thankful. It is our duty to always thrive for the quality and authenticity of the Holy Quran. Your help will surely improve that."
+  },
+  "detail_reviews": {
+    "username_reviews": "Tijani Alidu",
+    "image_reviews": null,
+    "created_time": "2021-01-21 15:41:56",
+    "created_time_epoch": 1611243716,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "masha allah",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-01-21 15:41:56",
+    "date_of_experience_epoch": 1611243716
+  }
+}

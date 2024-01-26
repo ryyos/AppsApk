@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:32:08",
+  "crawling_time_epoch": 1705905128,
+  "path_data_raw": "data/data_raw/review_appsapks/launcher_ios_13_apk/json/Madhu_sudhan.json",
+  "path_data_clean": "data/data_clean/review_appsapks/launcher_ios_13_apk/json/Madhu_sudhan.json",
+  "reviews_name": "Launcher iOS 13 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Launcher iOS 13",
+    "Package": "com.luutinhit.ioslauncher",
+    "Version": "3.1.6",
+    "Size": "8.29 MB",
+    "Developed_By": "LuuTinh Developer",
+    "descriptions": "Launcher iOS 13 sets a new standard for the Android mobile operating system. It makes your phone better than before. And now it opens up to amazing possibilities for launcher on your phone. With Launcher iOS 13, Your phone is the most powerful, personal, and intelligent devices they've ever been.\nSUPPORTED FEATURES:\n– iOS Launcher supported: Control Center same as \"https://play.google.com/store/apps/details?id=com.luutinhit.controlcenter\".\n– iOS Launcher supported: Change your wallpaper same as real iOS devices.\nIf you have any problem, please contact me via email [email protected]\nTHANK YOU SO MUCH FOR YOUR USING MY APPLICATION!\nWhat’s New\nTHIS UPDATE:\n– Implement 3D Touch to folder.\n+ Long press 1s and up to open shortcut\n+ Long press 2s to uninstall and move apps.\n– Fixes issue report by user.\nNEXT ACTIONS:\n– Implement new widget.\n– Improve more animations.\nSo sorry with some ads in settings screen only.\nI must add some ads to keep working and support user quickly.\nTHANK YOU SO MUCH FOR USING MY APPS!\nIF YOU HAVE ANY THE PROBLEM, PLEASE SEND EMAIL TO ME."
+  },
+  "detail_reviews": {
+    "username_reviews": "Madhu sudhan",
+    "image_reviews": null,
+    "created_time": "2021-06-08 15:58:10",
+    "created_time_epoch": 1623167890,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Anna not coming iOS 13 louncher",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-08 15:58:10",
+    "date_of_experience_epoch": 1623167890
+  }
+}

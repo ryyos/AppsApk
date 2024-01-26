@@ -1,0 +1,53 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Five Nights at Freddy's Game Tricks",
+    "Tricks for Five Nights at Freddy's",
+    "Tricks for Five Nights at Freddy's App"
+  ],
+  "crawling_time": "2024-01-22 13:34:31",
+  "crawling_time_epoch": 1705905271,
+  "path_data_raw": "data/data_raw/review_appsapks/tricks_for_five_nights_at_freddy’s_for_android _apk/json/Minecraft_Apk.json",
+  "path_data_clean": "data/data_clean/review_appsapks/tricks_for_five_nights_at_freddy’s_for_android _apk/json/Minecraft_Apk.json",
+  "reviews_name": "Tricks for Five Nights at Freddy’s for Android  APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 5,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  },
+  "detail_reviews": {
+    "username_reviews": "Minecraft Apk",
+    "image_reviews": null,
+    "created_time": "2021-04-30 19:55:23",
+    "created_time_epoch": 1619812523,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Yeah! it seems like good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-04-30 19:55:23",
+    "date_of_experience_epoch": 1619812523
+  }
+}

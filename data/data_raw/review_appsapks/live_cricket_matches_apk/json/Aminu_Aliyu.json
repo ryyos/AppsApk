@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:38:12",
+  "crawling_time_epoch": 1705905492,
+  "path_data_raw": "data/data_raw/review_appsapks/live_cricket_matches_apk/json/Aminu_Aliyu.json",
+  "path_data_clean": "data/data_clean/review_appsapks/live_cricket_matches_apk/json/Aminu_Aliyu.json",
+  "reviews_name": "Live Cricket Matches APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Live Cricket Matches",
+    "Package": "live.cricket.match.sports.tv.highlights",
+    "Version": "1.10",
+    "Size": "24.07 MB",
+    "Developed_By": "PACE Private Limited",
+    "descriptions": "★★★★★ World best application for Live Cricket Matches\n★★★★★ Multiple streams from low, medium and high quality\n★★★★★ Watch Match Highlights\n★★★★★ Cricket news from expert resources with details\n★★★★★ Live scores for each International cricket matches\n★★★★★ High speed streaming servers to accept the high volume of users, so no down time like other apps.\n★★★★★ Covering all the World cup cricket matches.\nInstall this app and don't miss any T-20, T-10, ODI, PSL and test match\nPremier Cricket App with Millions of fans world wide.\nCovers Live international T-20, T-10, ODI Test cricket matches of international teams including following\nAfghanistan\nAustralia\nEngland\nIndia\nNew Zealand\nPakistan\nSouth Africa\nSri Lanka\nWest Indies\nBangladesh\nZimbabwe\nUnited Arab Emirates\nIreland\nScotland\nHong Kong\nNamibia\nNetherlands\nWatch Cricket highlights of matches with in few hours of live cricket match\nGet live score updates any time for all current live matches\nWatch hot cricket news updated hourly.\nWhat’s New"
+  },
+  "detail_reviews": {
+    "username_reviews": "Aminu Aliyu",
+    "image_reviews": null,
+    "created_time": "2019-07-04 21:58:05",
+    "created_time_epoch": 1562277485,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Wow!what a great app",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-07-04 21:58:05",
+    "date_of_experience_epoch": 1562277485
+  }
+}

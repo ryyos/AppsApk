@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:32:35",
+  "crawling_time_epoch": 1705905155,
+  "path_data_raw": "data/data_raw/review_appsapks/black_theme_launcher_apk/json/detail/Black_Theme_Launcher_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/black_theme_launcher_apk/json/detail/Black_Theme_Launcher_APK.json",
+  "reviews_name": "Black Theme Launcher APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Black Theme Launcher",
+    "Package": "com.gau.go.launcherex.theme.blackthemelauncher",
+    "Version": "1.296.1.174",
+    "Size": "16.37 MB",
+    "Developed_By": "Free 2019 Themes & Livewallpapers",
+    "descriptions": "Download and enjoy Black Theme Launcher!\n✱What do you get when you download Black Theme Launcher ✱\nIf you want to download this Launcher for Android, you can:\n• Change the phone theme this this amazing design and fantastic colors as you can see in the HD screenshots;\n• Customize app icons and change them all on your phone to match you preferred style;\n• Have great visual effects that you can choose from and apply to this HD Launcher;\n• Change the font and color to match the look of this free theme launcher.\n★How to install this amazing Launcher theme free★\n• Download Black Theme Launcher;\n• Open the Launcher theme app and swipe to begin the activation;\n• Follow the short and easy installing steps that you will see on your screen;\n• Customize this amazing Launcher theme how you like;• Set the Launcher as 'Activate Theme' on your Android device and enjoy!\n★ More awesome Launchers for Android! ★\n✱ If you want to install other amazing Launchers, you can visit our developer page! We have hundreds of amazing Launcher themes for Android! Choose the Launcher that match your personal style.\n✱ Don’t forget, if you like this app Launcher for Android, please rate and review us!\n✱ We've created Black Theme Launcher to give you a unique personalization option for your phone! With new customization features, Black Theme Launcher will become your favorite Android phone or tablet new amazing Launcher.\nEnd User Licence Agreement\nRead to find out the conditions for downloading, installing, using and accessing features of this app – https://goo.gl/xUj6gb\nPrivacy Policy\nWe do not store personal information. See what data we analyze and how it is used – https://goo.gl/66xfmf\nWhat’s New\nRemoved some permissions that were not required. Small bugfixes, new themes."
+  }
+}

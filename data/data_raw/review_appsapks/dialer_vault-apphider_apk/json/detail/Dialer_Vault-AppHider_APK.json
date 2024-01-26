@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:32:06",
+  "crawling_time_epoch": 1705905126,
+  "path_data_raw": "data/data_raw/review_appsapks/dialer_vault-apphider_apk/json/detail/Dialer_Vault-AppHider_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/dialer_vault-apphider_apk/json/detail/Dialer_Vault-AppHider_APK.json",
+  "reviews_name": "Dialer Vault-AppHider APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Dialer Vault-AppHider",
+    "Package": "com.app.hider.master.vault.dialer",
+    "Version": "2.2.5",
+    "Size": "9.40 MB",
+    "Developed_By": "Hide Apps (NO ROOT)",
+    "descriptions": "Advantages of Dialer Vault hidden applications:\n-Notice bar information tips, only show the standard calculator’s icon\n-Check phone system settings, the application name is Calculator+ (not app hider)\n-When Checking recent apps, the app name is Dialer Vault(not app hider)\nDialer Vault can help you to hide any app. And keep your privacy by hiding apps.You can open hidden apps in Dialer Vault or interface of your phone.Also Dialer Vault provides hidden picture function, your pictures import into the gallery, others can not see these photos.You can browse protected pictures in hider's gallery.\nApp Characteristics:\n1.Hide all installed applications (No ROOT Obtaining)\n2.Password protection(When the first time,need to create the password)\n3.Supports hiding any applications used on mobile phones(Easy way hide apps)\n4.Hidden app can be used in the Dialer Vault, also use the main interface in the phone.\n5.Open the app just standard calculator , if don't know password can't use the Dialer Vault.\n6.Hide Notifications ,provide notification in 3 mode all / just number / none\n7.Hide apps from recents\n8.Gallery Module to hide photos /pictures(Protect your secret photos/pictures,avoid others find them)\n9.Add shortcut to hiden camera(use the hider's built-in camera to take private photos)\n10.Hide Videos and play Videos\nHow to use Dialer Vault?\nThe first time to start or in a protected state, do not need pin can enter the Dialer Vault.Open the application to set the password. Then you can start using the hidden app.\nHow to hide photos to Dialer Vault?\nClick the app hider interface gallery icon use the ‘Gallery Module’, add ‘input folder name’ to create folder and select pictures or personal photos, then click the save button to import the picture into the created private file.\nHow to add app to Dialer Vault?\nIn the hidden display interface click add app button, you can see the phone within the application, select the app to add to the Dialer Vault-App Hider, click the import apps button.\nHow to delete apps from Dialer Vault?\nIn the hidden apps interface long press the hidden app, drag the application to the delete icon to delete the hidden application.\nHow to hide photos or videos to hidder?\nClick the app hider interface gallery icon use the ‘Gallery Module’, add ‘input folder name’ to create folder and select pictures or personal photos, then click the save button to import the picture into the created private file.\nNotices:\nSuch as uninstall outside the application has been hidden and the Dialer Vault will not copy the app's original data to the same app in the Dialer Vault.\nAndroid AOSP Calculator source code:\nhttps://android.googlesource.com/platform/packages/apps/Calculator.git\nApache License, Version 2.0\nhttp://www.apache.org/licenses/LICENSE-2.0.html\nIf you have any question about our product,please contact e-mail:[email protected].\nWhat’s New\n1. grant permission first when launch guest like Whatsapp\n2. fix setup pin layout with fullscreen display\n3. fix click twice to launch success on Tinder\n4. Bug fix and performance optimization"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Dollhouse Build & Design",
+    "Dollhouse Build & Design Android App",
+    "Dollhouse Build & Design App Android"
+  ],
+  "crawling_time": "2024-01-22 13:34:37",
+  "crawling_time_epoch": 1705905277,
+  "path_data_raw": "data/data_raw/review_appsapks/dollhouse_build__design_simulator_for_android_apk/json/detail/Dollhouse_Build__Design_Simulator_for_Android_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/dollhouse_build__design_simulator_for_android_apk/json/detail/Dollhouse_Build__Design_Simulator_for_Android_APK.json",
+  "reviews_name": "Dollhouse Build & Design Simulator for Android APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

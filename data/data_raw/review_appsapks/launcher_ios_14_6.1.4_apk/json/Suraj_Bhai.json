@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.ios.iphone.ios13.launcherios13"
+  ],
+  "crawling_time": "2024-01-22 13:23:42",
+  "crawling_time_epoch": 1705904622,
+  "path_data_raw": "data/data_raw/review_appsapks/launcher_ios_14_6.1.4_apk/json/Suraj_Bhai.json",
+  "path_data_clean": "data/data_clean/review_appsapks/launcher_ios_14_6.1.4_apk/json/Suraj_Bhai.json",
+  "reviews_name": "Launcher iOS 14 6.1.4 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 2,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.ios.iphone.ios13.launcherios13",
+    "Version": "6.1.4",
+    "Size": "24.00 MB",
+    "Developed_By": "SaSCorp Apps Studio",
+    "descriptions": "The iOS 14 Launcher is intuitive, it's simple and the design is so tasteful that it sucks you in\nWho will get value from this iOS 14 Launcher?\n1. All those who love iPhone, love apple but don't have money to buy it, ios14 will turn your android phone like a real iPhone.\n2. Everyone who loves iOS operating system, beautiful and easy to use, wants to use the latest operating system experience iOS14\niOS 14 Launcher Feature:\n– Notification Center shows your notifications history, allowing you to scroll back and see what you've missed. There are two ways to see your alerts from the Notification Center:\n* From the Lock screen, swipe up from the middle of the screen.\n* From any other screen, swipe down from the center of the top of your screen.\n* With Notifications in iOS14, it’s even easier to view and manage multiple notifications at once—helping you reduce interruptions throughout the day\n– Control Center: you can quickly take a picture, turn on lights, wifi, Airplane Mode, You can even customize Control Center so you have instant access to the things you do most.\n* Open Control Center: Swipe up from the bottom edge of any screen.\n* Close Control Center: Tap the top of the screen or press the Home button\n* Use: Brightness: Drag the brightness control up or down to adjust the brightness of your display.\nCalculator:* Use the standard calculator to quickly calculate numbers…\n– Spotlight Search: Search helps you quickly find anything on your device and on the web:\n*Swipe down from the middle of the Home screen.\n*Tap the Search field, then enter what you're looking for. As you type, Search updates results in real time.\n*To see more results, tap Show More or search directly in an app by tapping Search in App.\n*Tap a search result to open it.\n– The Lock screen: which shows the current time and date and your most recent notifications, appears when you turn on or wake iPhone. From the Lock screen, you can see notifications, open Camera and Control Center, get information from your favorite apps at a glance, and more.\nUSER EXPERIENCE\nThis example really comes down to preference, but in my opinion, iOS products offer a much more crisp and engaging user experience. iOS 14 Launcher has strict guidelines when it comes to UI/UX standards and it really sets them apart from the competition.\niOS Launcher used to bring a better user experience because it runs on a closed ecosystem This have created a smoother user experience in the past, and users could focus on actual ergonomics."
+  },
+  "detail_reviews": {
+    "username_reviews": "Suraj Bhai",
+    "image_reviews": null,
+    "created_time": "2020-12-16 15:58:13",
+    "created_time_epoch": 1608134293,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-16 15:58:13",
+    "date_of_experience_epoch": 1608134293
+  }
+}

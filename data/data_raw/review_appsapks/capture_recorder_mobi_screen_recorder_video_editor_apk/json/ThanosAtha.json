@@ -1,0 +1,56 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Multimedia"
+  ],
+  "crawling_time": "2024-01-22 13:29:56",
+  "crawling_time_epoch": 1705904996,
+  "path_data_raw": "data/data_raw/review_appsapks/capture_recorder_mobi_screen_recorder_video_editor_apk/json/ThanosAtha.json",
+  "path_data_clean": "data/data_clean/review_appsapks/capture_recorder_mobi_screen_recorder_video_editor_apk/json/ThanosAtha.json",
+  "reviews_name": "Capture Recorder Mobi Screen Recorder Video Editor APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Capture Recorder Mobi Screen Recorder Video Editor",
+    "Package": "com.recorder.screenrecorder.capture",
+    "Version": "1.3.0",
+    "Size": "20.39 MB",
+    "Developed_By": "Video Recoder & Game Recorder & Editor Studio",
+    "descriptions": "Mobi recorder is a free stable screen recorder which you can use to record game with sound, take clear screenshot and edit video/photo with music, filter, effect and subtitle. It provides special features like doodle and facecam to help you make original videos. There’s no recording time limit and no rooting needed.\n** Stable Screen Recorder **\n– Simple interface and fluid design give you better user experience.\n– Close the floating window with one tap to record frameless video. You can also use the notification panel to control recording.\n– Capture screen with a touch, you can easily take a clear screenshot and doodle or add subtitles on it.\n– Using facecam to record yourself in the video and make it special.\n– Set a countdown time before recording and turn up volume to record external audio. You can also convert the video you record into mp3 file.\n– Auto orientation: provide both portrait and landscape recording. Also provide 1080p Resolution, 12.0Mbps Quality, 60 FPS, HD mode.\n** Professional Video Editor **\n+ Pixel: add mosaic to blur anything you don’t want.\n+ Multi music and voiceover: add multi music to make a popular video. You can even record your own voice or use our sound effects to make your video cooler.\n+ Material center: we provide 1000+ materials like trendy filters/popular transitions/cool effects/hot music/unique fonts/cute stickers and gifs.\n+ Various themes: we offer free themes like fade out/years/loveday to meet all your needs.\n+ Compress video at ease, you can even choose the compression mode.\n+ Powerful video editing tools: cut/merge/trim/zoom in/reverse/duplicate/rotate/collage/compress/crop the video you record with simple steps.\nMobi Screen Recorder is a free stable recorder that provides HD video with clear sound. It’s also an all-in-one video editor/photo editor that enable you to trim video and edit images. Download now and have fun! Do not forget to rate 5 * to support the developer!\nWhat’s New\nBug fixes and minor improvements"
+  },
+  "detail_reviews": {
+    "username_reviews": "ThanosAtha",
+    "image_reviews": null,
+    "created_time": "2020-12-05 18:50:05",
+    "created_time_epoch": 1607194205,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Does it record internal system audio for Android 7+ (root) ?",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-12-05 18:50:05",
+    "date_of_experience_epoch": 1607194205
+  }
+}

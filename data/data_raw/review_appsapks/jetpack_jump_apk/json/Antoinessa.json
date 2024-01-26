@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:31:26",
+  "crawling_time_epoch": 1705905086,
+  "path_data_raw": "data/data_raw/review_appsapks/jetpack_jump_apk/json/Antoinessa.json",
+  "path_data_clean": "data/data_clean/review_appsapks/jetpack_jump_apk/json/Antoinessa.json",
+  "reviews_name": "Jetpack Jump APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Jetpack Jump",
+    "Package": "com.kwalee.jetpackjump",
+    "Version": "1.2.8",
+    "Size": "76.43 MB",
+    "Developed_By": "Kwalee Ltd",
+    "descriptions": "Fly high in Jetpack Jump to reach new places waiting to be discovered!\nTap to Jump on the mark and soar into the sky, make sure you use all your jetpack fuel to go the distance.\nUpgrade your jetpack and your running speed to be able to travel further than before and beat your high score.\nThe further you travel the more money you get!\nHow far will you get?\nJetpack Jump features:\n– Simple and addictive gameplay that will have you flying like an eagle\n– Numerous upgrades to keep you travelling\n– Colourful design and areas to discover\n– Offline earnings to keep you going\nSUBSCRIPTIONS INFORMATION:\nJetpack Jump VIP Membership access offers two membership options:\n1) A weekly subscription costing $5.49 per week after a 3 day FREE trial period.\n2) A monthly subscription costing $14.49 per month.\nAfter buying this subscription, you will unlock; a booster pet which will give you an extra boost, an exclusive hat to wear in game, a gold jetpack to use in the game, double your coins after ever jump, and no ads, which removes non-optional ads from the game. This is an auto-renewable subscription. The payment is charged to your account after confirmation. The subscription is renewed unless you unsubscribe 24 hours before the period ends. Your account will also be charged for renewal.\nThe prices notes are for United States customers. Pricing in other countries may change and actual charges may be converted to local currency.\nEnd of trial and subscription renewal:\n– The payment is charged to your iTunes account after a confirmation of purchase\n– The subscription is renewed unless you unsubscribe 24 hours before the end of the current period\n– The account will be charged for renewal 24 hours before the end of the current period at the standard cost of the weekly subscription\n– The user may manage the subscription and auto-renewal by accessing the user's account settings after purchase in the store\n– No cancellation of the current subscription is permitted during the active subscription period\n– Any unused portion of the free trial period will be forfeited when the subscription is purchased\nCancelling a trial or subscription:\n– In order to cancel a subscription during the free trial period you need to cancel it through your account in the Store. This must be done at least 24 hours before the end of the free trial period to avoid being charged.\nWhat’s New\n+Bug fixes and improvements to keep you jetting"
+  },
+  "detail_reviews": {
+    "username_reviews": "Antoinessa",
+    "image_reviews": null,
+    "created_time": "2019-11-12 09:23:32",
+    "created_time_epoch": 1573550612,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Cool game👍",
+    "reply_content_reviews": [],
+    "date_of_experience": "2019-11-12 09:23:32",
+    "date_of_experience_epoch": 1573550612
+  }
+}

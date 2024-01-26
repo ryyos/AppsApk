@@ -1,0 +1,29 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "GBWhatsApp APK",
+    "GBWhatsapp APK Download",
+    "GBWhatsapp APK Latest Version"
+  ],
+  "crawling_time": "2024-01-22 13:36:23",
+  "crawling_time_epoch": 1705905383,
+  "path_data_raw": "data/data_raw/review_appsapks/new_gbwhatsapp_apk_download_latest_version_7.00_now_apk/json/detail/New_GBWhatsapp_APK_Download_Latest_Version_7.00_Now_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/new_gbwhatsapp_apk_download_latest_version_7.00_now_apk/json/detail/New_GBWhatsapp_APK_Download_Latest_Version_7.00_Now_APK.json",
+  "reviews_name": "New GBWhatsapp APK Download Latest Version 7.00 Now APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 5,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

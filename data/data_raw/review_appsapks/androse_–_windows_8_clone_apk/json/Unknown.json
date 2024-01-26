@@ -1,0 +1,54 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:24:45",
+  "crawling_time_epoch": 1705904685,
+  "path_data_raw": "data/data_raw/review_appsapks/androse_–_windows_8_clone_apk/json/Unknown.json",
+  "path_data_clean": "data/data_clean/review_appsapks/androse_–_windows_8_clone_apk/json/Unknown.json",
+  "reviews_name": "Androse – Windows 8 Clone APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "Androse – Windows 8 Clone",
+    "Package": "com.vas.androse",
+    "Version": "4.3",
+    "Size": "6.07 MB",
+    "Developed_By": "VasqProd",
+    "descriptions": "The most Customizable,\nC\no\nl\no\nr\nf\nu\nl\n, Complete, and Elegant Metro Launcher in the Market.\nThis app is NOT a WIndows ® product and is no way affiliated with Windows ® Operating System\nLook no further for your perfect launcher, this theme completely changes your devices look\nAttach your 2nd favorite launcher to the Androse desktop and use them at same time!\nLike us on Facebook!\nhttps://www.facebook.com/VasqProd\nJoin the Community!\nhttps://plus.google.com/communities/101857040097545014598\nFollow us on Twitter!\nhttps://www.twitter.com/VasqProd\nLauncher Features:\nFull Androse Desktop or 2nd Custom Desktop\nBeautiful Animations\nCustom Icon Pack Included!\nCustom Made Wallpaper\nTile Animations\nFolders\nCompletely Editable Tile\nQuick Menu with many features\nQuick Pin and unpin Menu\nMuch more\nNotice:\nWindows ® is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.\nWhat’s New\nWe're back, here are some updates!\nWhats New:\n* Fixed bug that prevented the Quick Menu from opening\n* Included Privacy Policy in the app menu\n* Minor Improvements and Updates"
+  },
+  "detail_reviews": {
+    "username_reviews": "Unknown",
+    "image_reviews": null,
+    "created_time": "2020-04-27 10:16:33",
+    "created_time_epoch": 1587982593,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "The Duck Rules.",
+    "reply_content_reviews": [],
+    "date_of_experience": "2020-04-27 10:16:33",
+    "date_of_experience_epoch": 1587982593
+  }
+}

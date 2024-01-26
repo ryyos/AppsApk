@@ -1,0 +1,32 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Keyboards"
+  ],
+  "crawling_time": "2024-01-22 13:25:26",
+  "crawling_time_epoch": 1705904726,
+  "path_data_raw": "data/data_raw/review_appsapks/playkeyboard_–_create_a_theme,_emojis,_shortcuts_apk/json/detail/PlayKeyboard_–_Create_a_Theme,_Emojis,_Shortcuts_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/playkeyboard_–_create_a_theme,_emojis,_shortcuts_apk/json/detail/PlayKeyboard_–_Create_a_Theme,_Emojis,_Shortcuts_APK.json",
+  "reviews_name": "PlayKeyboard – Create a Theme, Emojis, Shortcuts APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Name": "PlayKeyboard – Create a Theme, Emojis, Shortcuts",
+    "Package": "kr.bitbyte.playkeyboard",
+    "Version": "0.9.14",
+    "Size": "13.21 MB",
+    "Developed_By": "Bitbyte Corp.",
+    "descriptions": "⭐️Verified from 213 countries ⭐️ Best keyboard on earth 🌎\nFinally Arrived! 🌸Keyboard that Reacts to you 🌸\n\n• Cute characters live with you inside the keyboard!\n• “I’m happy when you’re happy… ꒰⸝⸝•。•⸝⸝꒱ ” keyboard reacts to my word!\n• laughs with you when typing ‘lol’, dances lovely when typing ‘love’\nTake ‘anything’ you want 🌈 DIY Keyboard ! 🌈\n\n• Download, share ‘anytheme’ you want!\n• 200+ themes ready for you!\n• Decorate keyboard with your Bae! Custom Image and GIFS inside Keyboard! 💕\nNot only Beautiful 👏 but also Convenient 👏👏\n\n• Shortcuts : Type ‘lolol’ by single click 😎\n• Boilerplate : Touch only once to type any frequently used words!\n• Text – emojis : (~˘▾˘)~ Trendy text-emojis only for you ~(˘▾˘~)\nPermission Required\nStorage: Used to save or load your own theme\nPhone: It will be used to call up your phone number automatically and save it to 'Boilerplate'\nAddress Book: It will be used to automatically load and save your email to 'Boilerplate'\nWhat’s New\nv0.9.14 Updates 🎉\nThank you for using PlayKeyboard!\nAdded keyboard height / margin\nYou can now set height / margin for each keyboard width / length mode.🧡\nAdded keyboard text size and bold text settings\nYou can set the font size and thick text on the keyboard! 😎\nThe bigger them icon!\nCute themes will now look more attractive 😍\nVarious other bugs have been fixed!\n⭐️ If you are satisfied with the update, please rate more stars: D ⭐️"
+  }
+}

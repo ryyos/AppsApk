@@ -1,0 +1,31 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.cyberlink.powerdirector.DRA140225_01"
+  ],
+  "crawling_time": "2024-01-22 13:20:21",
+  "crawling_time_epoch": 1705904421,
+  "path_data_raw": "data/data_raw/review_appsapks/powerdirector_–_video_editor_app,_best_video_maker_6.8.1_apk/json/detail/PowerDirector_–_Video_Editor_App,_Best_Video_Maker_6.8.1_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/powerdirector_–_video_editor_app,_best_video_maker_6.8.1_apk/json/detail/PowerDirector_–_Video_Editor_App,_Best_Video_Maker_6.8.1_APK.json",
+  "reviews_name": "PowerDirector – Video Editor App, Best Video Maker 6.8.1 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.cyberlink.powerdirector.DRA140225_01",
+    "Version": "6.8.1",
+    "Size": "54.23 MB",
+    "Developed_By": "Cyberlink Corp",
+    "descriptions": "Make stunning, high quality videos like professionals – quickly and easily.\nWhether you’re creating cinematic style movies, videos of your latest adventure or combining clips to share exciting, memorable moments, PowerDirector is the perfect mobile editing app for you.\nWith a large selection of powerful editing tools that are updated monthly and a simple, intuitive app interface, you’ll find yourself creating videos that’ll even amaze yourself, along with your followers.\nUnleash your creativity. Create high quality professional videos – fast.\nPowerDirector is built with speed and utility in mind. Optimized on 64-bit devices, editing is smoother, snappier and more fun. Explore your imagination and create visually stunning videos, wherever and whenever you need.\nProfessional editing tools to get excited about:\n1. Edit and export videos in up to 4K resolution\n2. Produce fast-forward or slow-motion videos with speed adjustment\n3. Fix shaky cam footage with video stabilizer\n4. Replace background with green screen editor by using chroma-key\n5. Create stunning double exposure effects from video overlays and blending-modes\n6. Upload straight to YouTube, Instagram and Facebook\nPrecise editing tools to create every type of video:\n• Trim, splice and rotate videos with simple taps\n• Control brightness, color and saturation with precision\n• Apply jaw-dropping effects and transitions with drag & drop\n• Combine pictures and video in one clip using the multi-timeline\n• Add text or animated titles to your video in seconds\n• Add voiceovers recorded on your mobile device a built-in editor\n• Create video and picture collages with PiP overlays*\n• Enjoy hundreds of free templates, effects, filters, background music and sounds\n*Supported devices only.\nUnlimited updates, features and content packs with PREMIUM.\nAccess all the professional tools you need with our flexible subscription options:\n• Exclusive premium content (color filters, titles, transitions and video effects)\n• Stock media content – even for commercial use (music, stickers, stock footage, sounds)\n• Professional editing features for the best speed and video quality\n• Ad-free and distraction free\nWhat are you waiting for? Try PowerDirector now and experience the richest video editing tools available on mobile devices.\nFind inspiration on Instagram: @powerdirector_app\nHave a problem? Talk to us: support.cyberlink.com\nPremium subscription is billed annually and auto-renews every year, unless cancelled 24 hours prior to the renewal date. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. In accordance with the store policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term."
+  }
+}

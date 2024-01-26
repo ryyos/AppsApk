@@ -1,0 +1,55 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "com.google.android.GoogleCamera"
+  ],
+  "crawling_time": "2024-01-22 13:18:11",
+  "crawling_time_epoch": 1705904291,
+  "path_data_raw": "data/data_raw/review_appsapks/google_camera_4.4.020.163412804_apk/json/zain.json",
+  "path_data_clean": "data/data_clean/review_appsapks/google_camera_4.4.020.163412804_apk/json/zain.json",
+  "reviews_name": "Google Camera 4.4.020.163412804 APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.google.android.GoogleCamera",
+    "Version": "4.4.020.163412804",
+    "Size": "23.27 MB",
+    "Developed_By": "Google LLC",
+    "descriptions": "Never miss a moment with Google Camera, and take fantastic pictures using features such as Portrait and Night Sight.\nFeatures\n• HDR+ with dual exposure controls – Take pictures using HDR+ to capture fantastic photos, especially in low-light or backlit scenes.\n• Night Sight – You’ll never want to use your flash again. Night Sight brings out all the best details and colors that get lost in the dark. You can even take photos of the Milky Way!\n• Super Res Zoom – Super Res Zoom keeps your pictures sharp when you zoom in—without the blur.\n• Top Shot – Pick the perfect moment with Top Shot. Automatically recommends the best pics, where no one is blinking and everything looks just right.\n• Portrait – Add elegant background blur (bokeh) to pictures. Google Photos can also make the subject of your photo pop by leaving them in color, while changing the background to black and white.\n• Google Lens Suggestions – Point your camera at QR codes, business cards, paper documents, or foreign text and it'll help you read, scan documents, translate, and more.\n• Playground – Have fun mixing the real world with the virtual through AR stickers and effects!\nRequirements – The latest version of Google Camera only works on Pixel phones released after 2016, running Android 10 and above. Some features are not available on all devices.\nPermissions\n• Camera: Required in order to capture pictures and videos.\n• Microphone: Required in order to record audio with every video.\n• Storage: Required in order to save picture and videos.\n• Location: Required if you would like to record location information with your pictures and videos."
+  },
+  "detail_reviews": {
+    "username_reviews": "zain",
+    "image_reviews": null,
+    "created_time": "2021-06-12 20:15:32",
+    "created_time_epoch": 1623528932,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Good",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-06-12 20:15:32",
+    "date_of_experience_epoch": 1623528932
+  }
+}

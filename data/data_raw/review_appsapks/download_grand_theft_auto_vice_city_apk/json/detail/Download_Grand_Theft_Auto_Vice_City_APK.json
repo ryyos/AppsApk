@@ -1,0 +1,30 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [
+    "Grand Theft Auto Vice City",
+    "GTA Vice City",
+    "GTA Vice City APK",
+    "GTA Vice City for Android"
+  ],
+  "crawling_time": "2024-01-22 13:37:29",
+  "crawling_time_epoch": 1705905449,
+  "path_data_raw": "data/data_raw/review_appsapks/download_grand_theft_auto_vice_city_apk/json/detail/Download_Grand_Theft_Auto_Vice_City_APK.json",
+  "path_data_clean": "data/data_clean/review_appsapks/download_grand_theft_auto_vice_city_apk/json/detail/Download_Grand_Theft_Auto_Vice_City_APK.json",
+  "reviews_name": "Download Grand Theft Auto Vice City APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 7,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "descriptions": ""
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "link": "https://www.appsapk.com",
+  "domain": "www.appsapk.com",
+  "tag": [],
+  "crawling_time": "2024-01-22 13:24:16",
+  "crawling_time_epoch": 1705904656,
+  "path_data_raw": "data/data_raw/review_appsapks/cycling_–_bike_tracker_apk/json/Diovani_Matias.json",
+  "path_data_clean": "data/data_clean/review_appsapks/cycling_–_bike_tracker_apk/json/Diovani_Matias.json",
+  "reviews_name": "Cycling – Bike Tracker APK",
+  "location_reviews": null,
+  "category_reviews": "application",
+  "total_reviews": 1,
+  "reviews_rating": {
+    "total_rating": null,
+    "detail_total_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ]
+  },
+  "detail_application": {
+    "Package": "com.zeopoxa.fitness.cycling.bike",
+    "Version": "1.2.19",
+    "Size": "5.1 MB",
+    "Developed_By": "Zeopoxa",
+    "descriptions": "Track your pace, measure workout distance, count burned calories, crush training goals and more with the Cycling – Bike Tracker app. Stay on track, no matter where you are, on the trail or streets. Whatever your goal be it to lose weight, shape and tone, build strength, bike race, get faster or improve endurance or just ride the bike, this fitness bike computer app will help you achieve your goals faster. With this app, you can track all of your exercise using GPS, check your stats, and reach your goals. Longer distances covered equals more calories burned, too! Take your first step today, download the free Cycling – Bike Tracker app on your phone and push yourself to a fitter and healthier lifestyle.\nOn top of being a bike computer, cycling tracker, bike tracker and fitness tracker, this app provides you with many more features to improve your fitness and ensure you’re enjoying your exercise.\nAPP FEATURES & BENEFITS:\n* Map workouts in real-time with GPS & monitor exercise progress\n* Calculate route distance, duration, speed and calorie burn for your activity – in high accuracy and real time, it’s your personal bike computer and is much more than a cycling tracker.\n* See your time, distance, calories burned, average speed, max speed, average pace, elevation gain , graphs with speed and elevation and map with route you biking, in the workout summary\n* Track your Road Bike, Mountain Bike, bmx or any other bike.\n* Advanced graphs for distance, time and calories burned, in 4 different intervals (week, month, year and all)\n* Cycling – Bike Tracker app allows you to set a goal that’s right for you (number of burned calories, distance traveled or riding bike time during the day) and get notification when they accomplish.\n* No locked Features, all features are 100% FREE. You can use all features without having to pay for them.\n* No wristband, bike gear, or other hardware required, no website login, just download for free Bike Tracker app and start tracking your exercise right away. This Cycling app works entirely from your phone.\n* Complete challenges that app provide and stay motivated to riding bike more\n* This Bike Tracker app offers everything a hobby biker, BMX rider, road bike or professional mountain bike rider could ever need.\n* Keep track of your personal records in the app.\n* Calculate your BMI with built in BMI Calculator\n* Small size (below 5MB)\n* Fast, light and user-friendly bike computer app\n* Voice feedback letting you know your progress as you cycling. A motivating voice that you can customize to relay your speed, pace, distance, time and calories burned, also customizable per distance / time."
+  },
+  "detail_reviews": {
+    "username_reviews": "Diovani Matias",
+    "image_reviews": null,
+    "created_time": "2021-08-21 23:14:15",
+    "created_time_epoch": 1629587655,
+    "email_reviews": null,
+    "company_name": null,
+    "location_reviews": null,
+    "title_detail_reviews": null,
+    "reviews_rating": null,
+    "detail_reviews_rating": [
+      {
+        "score_rating": null,
+        "category_rating": null
+      }
+    ],
+    "total_likes_reviews": null,
+    "total_dislikes_reviews": null,
+    "total_reply_reviews": 0,
+    "content_reviews": "Good game",
+    "reply_content_reviews": [],
+    "date_of_experience": "2021-08-21 23:14:15",
+    "date_of_experience_epoch": 1629587655
+  }
+}
